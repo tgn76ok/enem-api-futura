@@ -27,7 +27,7 @@ export async function GET(
 
         const searchParams = request.nextUrl.searchParams;
 
-        let { limit, offset, language } = GetQuestionsQuerySchema.parse(
+        let { limit, offset, language, subcategory } = GetQuestionsQuerySchema.parse(
             getSearchParamsAsObject(searchParams),
         );
 
@@ -58,33 +58,50 @@ export async function GET(
             language = exam.languages[0].value;
         }
 
-        const questionsToFetch = exam.questions
-            .filter(
-                question =>
-                    question.language === language || !question.language,
-            )
-            .filter(question => question.index >= Number(offset))
-            .filter(
-                question => question.index <= Number(offset) + Number(limit),
+        const languageFiltered = exam.questions.filter(
+            question => question.language === language || !question.language,
+        );
+
+        let questions: Array<z.infer<typeof QuestionDetailSchema>> = [];
+        let total: number;
+
+        if (subcategory) {
+            // Load all questions to filter by subcategory, then paginate
+            const allDetails = await Promise.all(
+                languageFiltered.map(q =>
+                    getQuestionDetails({ year: params.year, index: q.index, language }),
+                ),
             );
 
-        const questions: Array<z.infer<typeof QuestionDetailSchema>> = [];
+            const filtered = allDetails.filter(
+                q => q !== null && q.subcategory === subcategory,
+            ) as Array<z.infer<typeof QuestionDetailSchema>>;
 
-        for (const question of questionsToFetch) {
-            const questionDetails = await getQuestionDetails({
-                year: params.year,
-                index: question.index,
-                language,
-            });
+            total = filtered.length;
+            questions = filtered.slice(Number(offset), Number(offset) + Number(limit));
+        } else {
+            const questionsToFetch = languageFiltered
+                .filter(question => question.index >= Number(offset))
+                .filter(question => question.index <= Number(offset) + Number(limit));
 
-            if (!questionDetails) {
-                throw new EnemApiError({
-                    code: 'internal_server_error',
-                    message: `Failed to fetch question ${question.index}`,
+            for (const question of questionsToFetch) {
+                const questionDetails = await getQuestionDetails({
+                    year: params.year,
+                    index: question.index,
+                    language,
                 });
+
+                if (!questionDetails) {
+                    throw new EnemApiError({
+                        code: 'internal_server_error',
+                        message: `Failed to fetch question ${question.index}`,
+                    });
+                }
+
+                questions.push(questionDetails);
             }
 
-            questions.push(questionDetails);
+            total = exam.questions.length;
         }
 
         return NextResponse.json(
@@ -92,9 +109,8 @@ export async function GET(
                 metadata: {
                     limit: Number(limit),
                     offset: Number(offset),
-                    total: exam.questions.length,
-                    hasMore:
-                        Number(offset) + Number(limit) < exam.questions.length,
+                    total,
+                    hasMore: Number(offset) + Number(limit) < total,
                 },
                 questions,
             }),

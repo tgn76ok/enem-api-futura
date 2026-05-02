@@ -28,12 +28,27 @@ export const QuestionSchema = z
             .nullable()
             .describe('O idioma da questão')
             .openapi({ example: 'ingles' }),
+        subcategory: z
+            .string()
+            .nullable()
+            .describe('A subcategoria da questão (ex: historia, biologia)')
+            .openapi({ example: 'historia' }),
     })
     .openapi({
         title: 'Questão',
     });
 
 export const QuestionDetailSchema = QuestionSchema.extend({
+    competency: z
+        .string()
+        .nullable()
+        .describe('O código de competência da Matriz de Referência do ENEM (ex: C3)')
+        .openapi({ example: 'C3' }),
+    skill: z
+        .string()
+        .nullable()
+        .describe('O código de habilidade da Matriz de Referência do ENEM (ex: H14)')
+        .openapi({ example: 'H14' }),
     year: z
         .number()
         .int()
@@ -149,6 +164,11 @@ export const GetQuestionsQuerySchema = z.object({
         .optional()
         .describe('O idioma desejado das questões')
         .openapi({ example: 'ingles' }),
+    subcategory: z
+        .string()
+        .optional()
+        .describe('Filtrar por subcategoria (ex: historia, biologia)')
+        .openapi({ example: 'historia' }),
 });
 
 export const GetQuestionDetailsQuerySchema = z.object({
