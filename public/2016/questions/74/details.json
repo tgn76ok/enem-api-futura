@@ -42,7 +42,7 @@
             "isCorrect": false
         }
     ],
-    "subcategory": "eletrostatica",
+    "subcategory": "eletrodinamica",
     "competency": "C4",
-    "skill": "H16"
+    "skill": "H14"
 }
