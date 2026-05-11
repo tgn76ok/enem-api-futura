@@ -27,9 +27,8 @@ export async function GET(
 
         const searchParams = request.nextUrl.searchParams;
 
-        let { limit, offset, language, subcategory } = GetQuestionsQuerySchema.parse(
-            getSearchParamsAsObject(searchParams),
-        );
+        let { limit, offset, language, discipline, subcategory, competency, skill } =
+            GetQuestionsQuerySchema.parse(getSearchParamsAsObject(searchParams));
 
         if (Number(limit) > 50) {
             throw new EnemApiError({
@@ -58,24 +57,38 @@ export async function GET(
             language = exam.languages[0].value;
         }
 
-        const languageFiltered = exam.questions.filter(
+        // Filter by language first
+        let languageFiltered = exam.questions.filter(
             question => question.language === language || !question.language,
         );
+
+        // Filter by discipline at index level (fast, no file reads needed)
+        if (discipline) {
+            languageFiltered = languageFiltered.filter(
+                question => question.discipline === discipline,
+            );
+        }
+
+        const needsDetailFilter = !!(subcategory || competency || skill);
 
         let questions: Array<z.infer<typeof QuestionDetailSchema>> = [];
         let total: number;
 
-        if (subcategory) {
-            // Load all questions to filter by subcategory, then paginate
+        if (needsDetailFilter) {
+            // Load all matching questions to filter by detail fields, then paginate
             const allDetails = await Promise.all(
                 languageFiltered.map(q =>
                     getQuestionDetails({ year: params.year, index: q.index, language }),
                 ),
             );
 
-            const filtered = allDetails.filter(
-                q => q !== null && q.subcategory === subcategory,
-            ) as Array<z.infer<typeof QuestionDetailSchema>>;
+            const filtered = allDetails.filter(q => {
+                if (!q) return false;
+                if (subcategory && q.subcategory !== subcategory) return false;
+                if (competency && q.competency !== competency) return false;
+                if (skill && q.skill !== skill) return false;
+                return true;
+            }) as Array<z.infer<typeof QuestionDetailSchema>>;
 
             total = filtered.length;
             questions = filtered.slice(Number(offset), Number(offset) + Number(limit));
@@ -101,7 +114,7 @@ export async function GET(
                 questions.push(questionDetails);
             }
 
-            total = exam.questions.length;
+            total = languageFiltered.length;
         }
 
         return NextResponse.json(

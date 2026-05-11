@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  enem-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: enem-api
+    restart: unless-stopped
+    ports:
+      - "3400:3400"
+    environment:
+      - NODE_ENV=production
+      - PORT=3400
+      - DATABASE_URL=postgresql://user:password@db:5432/enem-api
+      - DATABASE_URL_UNPOOLED=postgresql://user:password@db:5432/enem-api
+    depends_on:
+      db:
+        condition: service_healthy
+
+  db:
+    image: postgres:15-alpine
+    container_name: enem-api-db
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=enem-api
+    ports:
+      - "5432:5432"
+    volumes:
+      - enem-api-db-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U user -d enem-api"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  enem-api-db-data:
