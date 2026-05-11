@@ -45,5 +45,7 @@
             "isCorrect": false
         }
     ],
-    "subcategory": "numeros-proporcionalidade"
+    "subcategory": "numeros-proporcionalidade",
+    "competency": "C1",
+    "skill": "H1"
 }
