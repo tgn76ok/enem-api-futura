@@ -1,0 +1,46 @@
+{
+    "title": "Questão 25 - ENEM 2025",
+    "index": 25,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "[Questão com imagem/gráfico — conteúdo visual não extraível do PDF. Questão envolvendo análise e interpretação de texto ou imagem, típica da primeira parte da prova de linguagens no ENEM 2025]",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "[Enunciado baseado em imagem/gráfico — não disponível em texto]",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "[Alternativa A — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "[Alternativa B — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "[Alternativa C — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "[Alternativa D — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "[Alternativa E — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

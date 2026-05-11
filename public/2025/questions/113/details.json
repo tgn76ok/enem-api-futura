@@ -1,0 +1,46 @@
+{
+    "title": "Questão 113 - ENEM 2025",
+    "index": 113,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "[Questão com imagem/gráfico — conteúdo visual não extraível do PDF. Questão envolvendo análise e interpretação de gráficos relacionados a conceitos de física, como movimento, energia ou eletricidade.]",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "[Enunciado baseado em imagem/gráfico — não disponível em texto]",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "[Alternativa A — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "[Alternativa B — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "[Alternativa C — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "[Alternativa D — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "[Alternativa E — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": true
+        }
+    ],
+    "subcategory": "fisica",
+    "competency": "C1",
+    "skill": "H5"
+}

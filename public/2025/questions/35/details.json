@@ -1,0 +1,46 @@
+{
+    "title": "Questão 35 - ENEM 2025",
+    "index": 35,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "[Questão com imagem/gráfico — conteúdo visual não extraível do PDF. Questão que envolve análise e interpretação de texto ou imagem, típica da primeira parte da prova de linguagens no ENEM, focando compreensão e inferência a partir de um gráfico ou imagem.]",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "[Enunciado baseado em imagem/gráfico — não disponível em texto]",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "[Alternativa A — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "[Alternativa B — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "[Alternativa C — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "[Alternativa D — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "[Alternativa E — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

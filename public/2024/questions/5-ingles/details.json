@@ -1,0 +1,46 @@
+{
+    "title": "Questão 5 - ENEM 2024",
+    "index": 5,
+    "year": 2024,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "[Questão com imagem/gráfico — conteúdo visual não extraível do PDF. Interpretação de texto em inglês com apoio de imagem ou gráfico, focando compreensão global e vocabulário contextual]",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "[Enunciado baseado em imagem/gráfico — não disponível em texto]",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "[Alternativa A — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "[Alternativa B — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "[Alternativa C — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "[Alternativa D — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "[Alternativa E — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "lingua-estrangeira",
+    "competency": "C1",
+    "skill": "H1"
+}
