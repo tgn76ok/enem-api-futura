@@ -1,0 +1,46 @@
+{
+    "title": "Questão 152 - ENEM 2024",
+    "index": 152,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "As receitas anuais obtidas por uma indústria no período de 2014 a 2021, em milhão de reais, foram registradas, por pontos, em um gráfico. Nele, também está representada a reta que descreve a tendência de evolução das receitas. Essa reta pode ser utilizada para estimar as receitas dos anos seguintes.\n\n[Imagem/Gráfico não disponível no texto]",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A estimativa da receita, em milhão de reais, dessa indústria, para o ano de 2026, obtida a partir dessa reta de tendência, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "11",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "matematica-analise-de-dados",
+    "competency": "C7",
+    "skill": "H15"
+}

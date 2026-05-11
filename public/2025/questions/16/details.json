@@ -1,0 +1,46 @@
+{
+    "title": "Questão 16 - ENEM 2025",
+    "index": 16,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Com 20 anos de experiência no futebol de alto rendimento, Marina, ex-jogadora da seleção brasileira de futebol, salienta que, por trás do espetáculo apresentado nas mídias, com mensagens de motivação e superação, o esporte não é tão inclusivo assim. “É esta análise que devemos fazer: aqueles atletas que estão ali estão trazendo uma alta performance a partir dos seus limites”, explica. Para a profissional, é preciso analisar com cautela “a ideia romântica que a mídia passa para os telespectadores”. A realidade é muito mais dura do que as imagens espetaculosas que principalmente a televisão busca transmitir para a audiência. “Por trás existe um ser humano, a gente não pode nunca esquecer isso. Aquela pessoa treinou insistentemente para estar ali, durante meses, semanas e temporadas. Duas vezes ao dia, de duas a quatro horas”, pondera Marina. Atualmente, as crianças e os jovens vislumbram o sucesso profissional e a boa-vida financeira de poucos atletas que se destacam e estampam os meios de comunicação. Tudo parece ser muito mais fácil do que realmente é quando apenas as conquistas são mostradas.\n\nNesse texto, a visão crítica de uma ex-atleta de futebol revela que",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse texto, a visão crítica de uma ex-atleta de futebol revela que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "os meios de comunicação invisibilizam as dificuldades presentes no esporte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o treinamento atlético de alto nível é desestimulante para os indivíduos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o trabalho contínuo é desvalorizado no contexto esportivo profissional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "as ações de incentivo financeiro a jovens atletas são precárias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "as publicações da mídia esportiva rotulam atletas iniciantes.",
+            "file": null,
+            "isCorrect": true
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

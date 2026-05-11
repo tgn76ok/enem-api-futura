@@ -1,0 +1,46 @@
+{
+    "title": "Questão 10 - ENEM 2025",
+    "index": 10,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Nesse texto, o que caracteriza a escrita “de próprio punho” é a letra manuscrita, enquanto a escrita digital é ilustrada pelo(a)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Assinale a alternativa que completa corretamente a frase acima:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "utilização de tecnologias diversificadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "desenvolvimento de novos recursos de escrita.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "possibilidade de interações mediadas por telas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "diversidade de fontes tipográficas que estão disponíveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "delimitação dos espaços onde a produção textual ocorre.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

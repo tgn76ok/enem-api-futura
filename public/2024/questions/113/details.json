@@ -1,0 +1,46 @@
+{
+    "title": "Questão 113 - ENEM 2024",
+    "index": 113,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O desenvolvimento da biotecnologia e da clonagem gênica em procariotos fez com que a produção de proteínas se tornasse mais intensa, rápida e econômica. Para a produção de hormônios, enzimas e proteínas de resistência a drogas, uma variação da técnica de reação em cadeia pela polimerase (PCR, na sigla em inglês) utiliza a enzima transcriptase reversa (RT-PCR), que sintetiza moléculas de DNA complementares a partir de fitas de RNA.\n\nNesse contexto, essa técnica é importante para detectar genes",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nesse contexto, essa técnica é importante para detectar genes",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "expressos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "plasmidiais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "bacterianos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "dominantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "autossômicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "biotecnologia",
+    "competency": "C1",
+    "skill": "H1"
+}

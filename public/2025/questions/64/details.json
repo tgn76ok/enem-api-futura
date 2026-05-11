@@ -1,0 +1,46 @@
+{
+    "title": "Questão 64 - ENEM 2025",
+    "index": 64,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Do ponto de vista administrativo e judicial, a desapropriação da fazenda Cabaceiras, localizada na região sul do estado do Pará, é a primeira da história motivada pelo desrespeito à função social de um imóvel rural, como prevê a Constituição Federal de 1988, em decorrência da exploração de “trabalho em condições análogas à escravidão”. Na realidade, essa desapropriação não se deu apenas pela ocorrência de relações de trabalho extremamente degradantes, mas também pelas graves infrações ambientais verificadas na fazenda — o que também configura um ataque à função social da terra, de acordo com os preceitos constitucionais.\n\nBARROS, C. J. A conquista da fazenda Cabaceiras. Disponível em: www.agb.org.br. Acesso em: 15 maio 2023.\n\nConsiderando o contexto apresentado, a desapropriação da fazenda Cabaceiras evidencia a importância da função social da terra prevista na Constituição Federal de 1988, que determina que a propriedade rural deve cumprir sua função social, respeitando direitos humanos e ambientais.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A desapropriação da fazenda Cabaceiras, conforme o texto, demonstra principalmente:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a prioridade da propriedade privada sobre as questões sociais e ambientais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a exclusão das questões ambientais na legislação agrária brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a defesa do direito do proprietário rural em explorar livremente sua terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a aplicação da função social da terra, que inclui o combate ao trabalho escravo e à degradação ambiental.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "a valorização econômica da terra acima dos direitos trabalhistas e ambientais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "direito-agrario",
+    "competency": "C6",
+    "skill": "H12"
+}

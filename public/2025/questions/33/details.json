@@ -1,0 +1,46 @@
+{
+    "title": "Questão 33 - ENEM 2025",
+    "index": 33,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Leia o fragmento do poema \"Pequenino morto\", de Vicente de Carvalho:\n\n> Tange o sino, tange, numa voz de choro,\n> Numa voz de choro... tão desconsolado...\n> No caixão dourado, como em berço de ouro,\n> Pequenino, levam-te dormindo... Acorda!\n> Olha que te levam para o mesmo lado\n> De onde o sino tange numa voz de choro...\n> Pequenino, acorda!\n> Que caminho triste, e que viagem! Alas\n> De ciprestes negros a gemer no vento;\n> Tanta boca aberta de famintas valas\n> A pedir que as fartem, a esperar que as encham...\n> Pequenino, acorda! Recupera o alento,\n> Foge da cobiça dessas fundas valas\n> A pedir que as encham.\n\nNesse fragmento do poema, o sentimento de luto adquire contornos expressivos e é intensificado pela:",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Assinale a alternativa que apresenta a interpretação correta sobre o efeito expressivo do poema:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A descrição da paisagem de um cemitério.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A recusa do eu lírico à irreversibilidade da morte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A sonoridade dos versos produzida pela pontuação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A religiosidade evocada como forma de fortalecimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A impressão de sonho na construção da estrutura poética.",
+            "file": null,
+            "isCorrect": true
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

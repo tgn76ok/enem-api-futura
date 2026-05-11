@@ -1,0 +1,46 @@
+{
+    "title": "Questão 5 - ENEM 2025",
+    "index": 5,
+    "year": 2025,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Na charge, a diversidade linguística está representada pelo uso de",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na charge, a diversidade linguística está representada pelo uso de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estructuras verbales con valor de futuro próximo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "expresiones idiomáticas características de una región.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "adverbios característicos del repertorio vocabular de los jóvenes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "marcas de oralidad expresadas en la representación escrita del habla.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "enunciados interrogativos en situación comunicativa con un interlocutor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacion-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

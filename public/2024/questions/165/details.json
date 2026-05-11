@@ -1,0 +1,46 @@
+{
+    "title": "Questão 165 - ENEM 2024",
+    "index": 165,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para abrir a porta de uma empresa, cada funcionário deve cadastrar uma senha utilizando um teclado alfanumérico como o representado na figura.\n\nPor exemplo: a tecla que contém o número 2 traz as letras correlacionadas A, B e C. Cada toque nessa tecla mostra, sequencialmente, os seguintes caracteres: 2, A, B e C. Para os próximos toques, essa sequência se repete. As demais teclas funcionam da mesma maneira.\n\nAs senhas a serem cadastradas pelos funcionários devem conter 5 caracteres, sendo 2 algarismos distintos seguidos de 3 letras diferentes, nessa ordem. Um funcionário irá cadastrar a sua primeira senha, podendo escolher entre as teclas que apresentam os números 1, 2, 5, 7 e 0 e as respectivas letras correlacionadas, quando houver.\n\nO número de possibilidades diferentes que esse funcionário tem para cadastrar sua senha é:",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O número de possibilidades diferentes que esse funcionário tem para cadastrar sua senha é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "11 520.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "14 400.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "18 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "312 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "390 000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "combinatoria",
+    "competency": "C7",
+    "skill": "H15"
+}

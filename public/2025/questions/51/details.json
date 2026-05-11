@@ -1,0 +1,46 @@
+{
+    "title": "Questão 51 - ENEM 2025",
+    "index": 51,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "No contexto do século XVIII, o autor propõe uma reflexão radical acerca da arte da eloquência, restringindo-a ao seguinte âmbito:",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No contexto do século XVIII, o autor propõe uma reflexão radical acerca da arte da eloquência, restringindo-a ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "sistema de crenças, conforme a proposta kantiana de objetividade do conhecimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "campo dos absolutos, semelhante ao entendimento medieval dos Universais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "domínio da lógica, consoante a compreensão aristotélica nos Analíticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "paradigma da racionalidade, alinhado ao modelo cartesiano de método.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "âmbito da persuasão, análogo às críticas platônicas aos sofistas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "filosofia-modernos",
+    "competency": "C1",
+    "skill": "H1"
+}

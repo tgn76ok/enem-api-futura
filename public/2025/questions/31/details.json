@@ -1,0 +1,46 @@
+{
+    "title": "Questão 31 - ENEM 2025",
+    "index": 31,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Nesse fragmento do poema \"Pequenino morto\", de Vicente de Carvalho, o sentimento de luto adquire contornos expressivos e é intensificado pela linguagem poética e imagens evocativas. A seguir, analise o enunciado a partir do texto apresentado.\n\nEm outro texto, que apresenta um prato da culinária brasileira, evidencia-se:",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse texto, que apresenta um prato da culinária brasileira, evidencia",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "valor afetivo nas nomenclaturas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "variedade linguística entre regiões.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "disputa regional pelo melhor prato.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "modos de preparo de um mesmo alimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "paladares diversificados entre diferentes estados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "variedade-linguistica",
+    "competency": "C1",
+    "skill": "H1"
+}

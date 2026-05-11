@@ -1,0 +1,46 @@
+{
+    "title": "Questão 65 - ENEM 2024",
+    "index": 65,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Os grupos dominantes são beneficiados em termos de credibilidade e podem, com isso, controlar falas de membros de outros grupos, descredibilizando seus testemunhos com base em concepções compartilhadas de preconceito de identidade (gênero e raça). Algumas formas de preconceito tornam as declarações das pessoas menos importantes devido ao seu pertencimento a determinado grupo social. Assim, um falante recebe menos credibilidade devido ao preconceito do ouvinte.\n\nKUHNEN, T. Resenha de The Power and Ethics of Knowing, de Miranda Fricker. Revista Princípios, n. 33, 2013.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base na reflexão suscitada no texto, o preconceito de identidade é responsável por um tipo de injustiça",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estética, que normatiza os padrões corporais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "sensorial, que privilegia as habilidades visuais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "afetiva, que impede as expressões emocionais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "epistêmica, que prejudica as trocas informacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "econômica, que perpetua as desigualdades materiais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

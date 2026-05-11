@@ -1,0 +1,46 @@
+{
+    "title": "Questão 32 - ENEM 2025",
+    "index": 32,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Leia o texto a seguir:\n\n\"A diferença entre briga e luta é a existência de juízes e medalhas?\nA briga desumaniza o outro e pode até matá-lo. Já na luta, as intenções do outro são consideradas sua proposta combativa e suas habilidades, enfim, sua meta de vencer. Na luta, o desenvolvimento passa pelo contato com a agressividade, a raiva, a frustração, o orgulho, a determinação e a fraqueza. Daí também a luta não ser apenas com o outro, mas consigo mesmo, num combate contra as próprias limitações, sobretudo, contra o próprio orgulho.\"\n\nBARREIRA, C. A briga desumaniza. A luta, não. O Estado de S. Paulo, 22 ago. 2010 (adaptado).\n\nConsiderando o texto acima, assinale a alternativa que apresenta a principal diferença entre briga e luta, conforme o autor.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A descrição da paisagem de um cemitério.\nB recusa do eu lírico à irreversibilidade da morte.\nC sonoridade dos versos produzida pela pontuação.\nD religiosidade evocada como forma de fortalecimento.\nE impressão de sonho na construção da estrutura poética.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A superação pessoal na luta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Violência evidenciada na luta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Predomínio de regras na briga.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Desafio externo presente na luta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Habilidade desenvolvida na briga.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

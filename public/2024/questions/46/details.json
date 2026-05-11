@@ -1,0 +1,46 @@
+{
+    "title": "Questão 46 - ENEM 2024",
+    "index": 46,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "### Texto I\n\nO bufarinheiro, conhecido nas cidades por teque-teque, chama-se, nos recônditos da Amazônia, “regatão”. Em lugar de transportar nas costas o mundo de miudezas, transporta-o no bojo de uma gaiola que desloca duas, três, quatro toneladas, divididas em seções de secos e molhados e é movido por remo de faia. Cortando comunidades e matas da Amazônia por rios, dentro dessas gaiolas, riscadas de prateleiras, encontram-se os artigos mais díspares, que vão da agulha à espingarda, do lenço ao cobertor, da chita à escova de dentes.\n\n*MORAES, R. Na Planície Amazônica. São Paulo: Editora Nacional, 1936 (adaptado).*\n\n### Texto II\n\nNo século XIX, o comércio dos regatões era feito, então, com base em relações tecidas com quilombolas, pequenos produtores, comerciantes locais e indígenas, constituindo relação comercial alternativa ao abastecimento da população.\n\n*HENRIQUE, M. C.; MORAIS, L. T. Estradas líquidas, comércio sólido: índios e regatões na Amazônia (século XIX). Rev. Hist., n. 171, jul.-dez. 2014 (adaptado).*\n\nComo parte do patrimônio cultural da Amazônia, o regatão foi fundamental, no século XIX, para a",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Como parte do patrimônio cultural da Amazônia, o regatão foi fundamental, no século XIX, para a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "organização de rotas de fuga na floresta tropical.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "criação de postos de trabalho nos seringais nortistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "divulgação de receitas de fármacos nas zonas ribeirinhas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "construção de redes de sociabilidade no interior brasileiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ampliação de ambientes de lazer nos territórios autóctones.",
+            "file": null,
+            "isCorrect": true
+        }
+    ],
+    "subcategory": "historia-do-brasil",
+    "competency": "C1",
+    "skill": "H1"
+}

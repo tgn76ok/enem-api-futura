@@ -1,0 +1,46 @@
+{
+    "title": "Questão 106 - ENEM 2025",
+    "index": 106,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em uma aula prática de química orgânica, um professor identificou os frascos de várias substâncias apenas por suas fórmulas moleculares. Em seguida, apresentou a representação tridimensional da molécula do borneol, um álcool secundário. Ele explicou que, quando oxidado, o borneol dá origem à cânfora, uma cetona usada desde a Antiguidade como incenso e no preparo de medicamentos. Finalmente, o professor solicitou que os alunos identificassem o frasco contendo a substância cânfora, a partir das fórmulas moleculares apresentadas.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O frasco contendo cânfora apresenta a fórmula molecular:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "C9H16O",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "C9H17O",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C10H16O",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "C10H16O2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "C10H18O2",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "quimica-organica",
+    "competency": "C7",
+    "skill": "H12"
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 139 - ENEM 2024",
+    "index": 139,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um hospital tem 7 médicos cardiologistas e 6 médicos neurologistas em seu quadro de funcionários. Para executar determinada atividade, a direção desse hospital formará uma equipe com 5 médicos, sendo, pelo menos, 3 cardiologistas.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A expressão numérica que representa o número máximo de maneiras distintas de formar essa equipe é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "\\( \\frac{7! \\times 6!}{4! \\times 4!} \\)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "\\( \\frac{7! \\times 6!}{3! \\times 4! \\times 2! \\times 4!} \\)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "\\( \\frac{7! \\times 6! \\times 5!}{3! \\times 4! \\times 2! \\times 4! \\times 1! \\times 4!} + \\frac{7! \\times 6!}{7! \\times 6!} + \\frac{7! \\times 6!}{7! \\times 6!} \\)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "[Expressão confusa e ilegível envolvendo fatoriais de 7!, 6!, 5!, 4!, 3!, 2!, 1! e 0!]",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Número total de maneiras de formar a equipe com pelo menos 3 cardiologistas: \\( \\binom{7}{3} \\times \\binom{6}{2} + \\binom{7}{4} \\times \\binom{6}{1} + \\binom{7}{5} \\times \\binom{6}{0} \\)",
+            "file": null,
+            "isCorrect": true
+        }
+    ],
+    "subcategory": "combinatoria",
+    "competency": "C7",
+    "skill": "H25"
+}

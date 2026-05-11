@@ -1,0 +1,46 @@
+{
+    "title": "Questão 21 - ENEM 2025",
+    "index": 21,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O Ministério do Esporte no Brasil lançou o programa Maré Inclusiva, em 2024, ano dos Jogos Paralímpicos de Paris. Esse programa visa ampliar as oportunidades para pessoas com deficiência que desejam praticar o surf. O parasurf é a prática do surf adaptada para permitir que pessoas com deficiência pratiquem o esporte em todas as suas categorias, modalidades e manifestações. Para a Secretaria Nacional do Paradesporto, a iniciativa é mais do que um programa de esporte, é uma iniciativa que busca transformar vidas e promover a inclusão por meio do parasurf, criando um legado de igualdade e respeito.\n\nDisponível em: www.gov.br/esporte. Acesso em: 6 set. 2024 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com esse texto, o programa voltado ao estímulo da prática do parasurf evidencia a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "adesão de diferentes países a programas inclusivos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "preocupação política em atender a demandas paralímpicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "importância de uma política pública esportiva para a inclusão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "eficiência das iniciativas de inclusão em megaeventos esportivos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "escassez de investimento em práticas corporais de aventura na natureza.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

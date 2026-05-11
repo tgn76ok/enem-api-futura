@@ -1,0 +1,46 @@
+{
+    "title": "Questão 145 - ENEM 2024",
+    "index": 145,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A prefeitura de uma cidade planeja construir três postos de saúde. Esses postos devem ser construídos em locais equidistantes entre si e de forma que as distâncias desses três postos ao hospital dessa cidade sejam iguais. Foram conseguidos três locais para a construção dos postos de saúde que apresentam as características desejadas, e que distam 10 km entre si, conforme o esquema, no qual o ponto H representa o local onde está construído o hospital; os pontos P1, P2 e P3, os postos de saúde; e esses quatro pontos estão em um mesmo plano.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A distância, em quilômetro, entre o hospital e cada um dos postos de saúde, é um valor entre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2 e 3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4 e 5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5 e 6.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "7 e 8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "8 e 9.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "geometria-plana",
+    "competency": "C7",
+    "skill": "H12"
+}

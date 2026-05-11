@@ -1,0 +1,46 @@
+{
+    "title": "Questão 50 - ENEM 2025",
+    "index": 50,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A imagem de satélite apresenta a concentração de CO2 por queimadas entre a África e o Brasil em 30 de agosto de 2019. A dispersão espacial do problema ambiental representado na imagem é influenciada por características geográficas específicas que explicam o deslocamento e a distribuição dos poluentes na atmosfera.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A dispersão espacial do problema ambiental representado na imagem de satélite é explicada pela seguinte característica geográfica:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Amplitude das temperaturas médias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Homogeneidade da insolação anual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ocorrência de chuvas de relevo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Circulação de massas de ar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ausência de frentes frias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "geografia-fisica",
+    "competency": "C1",
+    "skill": "H1"
+}

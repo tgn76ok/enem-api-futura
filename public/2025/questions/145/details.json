@@ -1,0 +1,46 @@
+{
+    "title": "Questão 145 - ENEM 2025",
+    "index": 145,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma reportagem de uma revista abordou o uso de redes sociais pelos internautas brasileiros. Alguns dos dados apurados pela reportagem estão apresentados no infográfico a seguir.\n\nPerfil dos brasileiros nas redes sociais\n\nDisponível em: http://revistagalileu.globo.com. Acesso em: 22 out. 2015 (adaptado).\n\nCom base nos dados do infográfico, ao se escolher aleatoriamente um internauta brasileiro no período ao qual se refere a reportagem, qual é a probabilidade de que ele seja um homem que acessa alguma rede social?",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Segundo os dados do infográfico, ao se escolher aleatoriamente um internauta brasileiro no período ao qual se refere a reportagem, a probabilidade de ele ser um homem que acessa alguma rede social é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30/90",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "36/100",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "40/100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "40/90",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "46/90",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "probabilidade",
+    "competency": "C7",
+    "skill": "H12"
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 92 - ENEM 2025",
+    "index": 92,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os sapinhos-ponta-de-flecha constituem um grupo de espécies encontradas na América Central e do Sul. Seus venenos são obtidos por meio do consumo de algumas formigas e cupins que se alimentam de plantas que contêm esses venenos. Esses anfíbios são usados para envenenar as flechas das zarabatanas dos caçadores nativos. Quando capturados e criados em condições artificiais, ou quando nascidos em cativeiro, não são tóxicos.\n\nBADIO, B. et al. Epibatidina: Discovery and Definition as a Potent Analgesic and Nicotinic Agonist. Med. Chem. Res., n. 4, 1994 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A perda da capacidade de se obter a toxina nos nascidos em cativeiro é causada pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "diferença de umidade entre os ambientes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ausência de alimentação natural.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "adaptação ao novo ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "mudança de comportamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "variabilidade genética.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "biologia-ecologia",
+    "competency": "C3",
+    "skill": "H5"
+}

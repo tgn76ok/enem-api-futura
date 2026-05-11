@@ -1,0 +1,46 @@
+{
+    "title": "Questão 100 - ENEM 2024",
+    "index": 100,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em um experimento de laboratório, duas barras metálicas, A e B, são carregadas com cargas opostas e imersas em óleo. Farelo de milho é jogado sobre o óleo e, após um certo tempo, o farelo assume o formato das linhas de campo elétrico entre as barras. A figura representa a vista superior desse experimento.\n\nALMEIDA, M. A. T. Introdução às ciências físicas 2 — volume 4: módulo 4. Rio de Janeiro: Fundação CECIERJ, 2007 (adaptado).\n\nAo repetir o experimento colocando um cilindro metálico oco entre as placas, o esquema que representa o formato das linhas de campo assumido pelo farelo é:\n\n[Imagem/Gráfico não disponível no texto]",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ao repetir o experimento colocando um cilindro metálico oco entre as placas, qual esquema representa corretamente o formato das linhas de campo assumido pelo farelo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Esquema A representando as linhas de campo sem alteração significativa pela presença do cilindro metálico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Esquema B mostrando linhas de campo que se afastam do cilindro metálico, indicando repulsão do campo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Esquema C com linhas de campo concentradas apenas nas extremidades das barras metálicas, ignorando o cilindro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Esquema D apresentando linhas de campo que passam diretamente pelo cilindro metálico sem alteração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Esquema E mostrando as linhas de campo desviadas e concentradas ao redor do cilindro metálico oco, refletindo a influência do condutor no campo elétrico.",
+            "file": null,
+            "isCorrect": true
+        }
+    ],
+    "subcategory": "fisica-eletricidade",
+    "competency": "C1",
+    "skill": "H1"
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 151 - ENEM 2025",
+    "index": 151,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa estabeleceu um código de identificação para controlar o fluxo de visitantes em seu prédio. Cada visitante recebe um código numérico sequencial de 7 dígitos, determinado da esquerda para a direita da seguinte forma:\n\n- O primeiro dígito indica o andar ao qual o visitante se dirige, que é um número de 1 a 4;\n- Os dois próximos dígitos correspondem ao número do setor da empresa ao qual o visitante se destina, variando de 01 a 20;\n- Os três dígitos seguintes correspondem ao número do funcionário da empresa com quem o visitante irá se reunir, variando de 001 a 135;\n- O último dígito indica se o visitante chegou à empresa pela manhã (0) ou à tarde (1).\n\nUm visitante chegou à empresa às 10 horas da manhã para se reunir com o funcionário identificado pelo número 109, que trabalha no setor 08 da empresa, localizado no 2º andar.\n\nQual é o código de identificação desse visitante?",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é o código de identificação desse visitante?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0109082",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2081090",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1010982",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0281090",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2810910",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "numeracao-e-sistemas-de-numeração",
+    "competency": "C7",
+    "skill": "H15"
+}

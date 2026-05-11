@@ -1,0 +1,46 @@
+{
+    "title": "Questão 27 - ENEM 2025",
+    "index": 27,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Disponível em: www.tjdft.jus.br. Acesso em: 15 out. 2024 (adaptado).\nMURRAY, R.; KLIGERMAN, E. Teias de afeto e poesia. Disponível em: https://roseanamurray.com. Acesso em: 5 maio 2024.\n\nNesse texto, a autora aborda diferentes sentidos da palavra “rede” para evidenciar\n\nA as formas de comunicação em meios digitais.\nB a necessidade de atualização das mídias sociais.\nC os conflitos de identidade dos usuários da internet.\nD o impacto das tecnologias nas interações humanas.\nE os desejos de compartilhar vivências com os amigos.\n\nEsse texto trata de um problema social com o propósito de\n\nA divulgar campanha virtual contra casos de feminicídio.\nB promover engajamento do setor educacional na luta contra a violência.\nC comparar o impacto da violência na qualidade de vida de meninas e meninos.\nD ressaltar a importância da segurança dos estudantes no ambiente escolar.\nE dar visibilidade a estudos e pesquisas do setor de segurança.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse texto, a autora aborda diferentes sentidos da palavra “rede” para evidenciar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as formas de comunicação em meios digitais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a necessidade de atualização das mídias sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "os conflitos de identidade dos usuários da internet.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "o impacto das tecnologias nas interações humanas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "os desejos de compartilhar vivências com os amigos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

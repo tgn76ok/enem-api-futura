@@ -1,0 +1,46 @@
+{
+    "title": "Questão 149 - ENEM 2024",
+    "index": 149,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A criptografia refere-se à construção e análise de protocolos que impedem terceiros de lerem mensagens privadas.\nJúlio César, imperador romano, utilizava um código para proteger as mensagens enviadas a seus generais. Assim, se a mensagem caísse em mãos inimigas, a informação não poderia ser compreendida. Nesse código, cada letra do alfabeto era substituída pela letra três posições à frente, ou seja, o “A” era substituído pelo “D”, o “B” pelo “E”, o “C” pelo “F”, e assim sucessivamente.\n\nA B C D E F G H I\n\nJ K L M N O P Q R S T U V W X Y Z A B C  Letra do texto codificado\n\nA B C D E F G H I\n\nJ K L M N O P Q R S T U V W X Y Z  Letra do texto original\n\nDisponível em: www.codifica.ibict.br. Acesso em: 15 out. 2019.\n\nQualquer código que tenha um padrão de substituição de letras como o descrito é considerado uma Cifra de César ou um Código de César. Note que, para decifrar uma Cifra de César, basta descobrir por qual letra o “A” foi substituído, pois isso define todas as demais substituições a serem feitas.\n\nUma mensagem, em um alfabeto de 26 letras, foi codificada usando uma Cifra de César. Considere a probabilidade de se descobrir, aleatoriamente, o padrão utilizado nessa codificação, e que uma tentativa frustrada deverá ser eliminada nas tentativas seguintes.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A probabilidade de se descobrir o padrão dessa Cifra de César apenas na terceira tentativa é dada por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1/25 + 1/25 + 1/25",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "24/25 + 23/24 + 1/23",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1/25 × 1/24 × 1/23",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "24/25 × 23/25 × 1/25",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "24/25 × 23/24 × 1/23",
+            "file": null,
+            "isCorrect": true
+        }
+    ],
+    "subcategory": "probabilidade",
+    "competency": "C7",
+    "skill": "H29"
+}

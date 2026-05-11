@@ -1,0 +1,46 @@
+{
+    "title": "Questão 76 - ENEM 2025",
+    "index": 76,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A instituição apresentada no texto justificava-se pelo(a)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A instituição apresentada no texto justificava-se pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "defesa de direitos humanos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "preceito de natureza sociorreligiosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "reconhecimento de vínculos familiares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "discurso de cunho técnico-científico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ideologia de caráter abolicionista.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

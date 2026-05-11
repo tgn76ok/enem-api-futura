@@ -1,0 +1,46 @@
+{
+    "title": "Questão 131 - ENEM 2025",
+    "index": 131,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O ácido úsnico é retirado de liquens e foi testado contra diversas espécies, conforme o quadro abaixo:\n\n| Espécie                  | Resultado       |\n|--------------------------|-----------------|\n| Aedes aegypti (larvas)   | Baixa eficiência|\n| Bacilo de Koch           | Média eficiência|\n| Moluscos aquáticos (adultos) | Alta eficiência |\n| Pernilongo (larvas)      | Média eficiência|\n| Vermes platelmintos       | Ineficiente     |\n\nConsiderando os resultados apresentados, o ácido úsnico mostrou-se mais indicado para o controle de qual das seguintes doenças?",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O ácido úsnico mostrou-se mais indicado para o controle da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "esquistossomose.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "febre amarela.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "coqueluche.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "tuberculose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "dengue.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "biologia-molecular-e-microbiologia",
+    "competency": "C7",
+    "skill": "H12"
+}

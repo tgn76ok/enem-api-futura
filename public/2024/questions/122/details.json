@@ -1,0 +1,46 @@
+{
+    "title": "Questão 122 - ENEM 2024",
+    "index": 122,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Metabolismo de procariontes\n\nO esquema representa a ação de organismos no ciclo do nitrogênio e no ciclo do carbono. Os números correspondem a algumas etapas dos dois ciclos distintos.\n\n[Imagem/Gráfico não disponível no texto]\n\nDisponível em: https://pt.khanacademy.org.\nAcesso em: 27 jun. 2024 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Em qual etapa numerada ocorre uma transformação redox como a que ocorre nos procariontes nitrificantes?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Etapa 1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Etapa 2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Etapa 3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Etapa 4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Etapa 5",
+            "file": null,
+            "isCorrect": true
+        }
+    ],
+    "subcategory": "biologia-microbiologia",
+    "competency": "C3",
+    "skill": "H12"
+}

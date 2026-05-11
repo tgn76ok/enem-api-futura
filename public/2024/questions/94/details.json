@@ -1,0 +1,46 @@
+{
+    "title": "Questão 94 - ENEM 2024",
+    "index": 94,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A hidroxiapatita, Ca5(PO4)3OH, é um mineral constituinte do esmalte dos dentes. Entre as diversas reações que ocorrem no meio bucal, encontram-se em equilíbrio as reações de desmineralização e mineralização da hidroxiapatita em meio aquoso, ilustradas a seguir.\n\nDesmineralização:\nCa5(PO4)3OH (s) + H+ (aq) ⇌ 5 Ca2+ (aq) + 3 PO43− (aq) + H2O (l)\n\nA desmineralização está associada à fragilização do esmalte do dente e à formação de cáries.\n\nO uso de creme dental pode minimizar a perda da hidroxiapatita. O quadro apresenta o agente de polimento e o pH de alguns cremes dentais comerciais.\n\n| Creme dental | Agente de polimento    | pH  |\n|--------------|-----------------------|-----|\n| I            | Bicarbonato de sódio   | 9,5 |\n| II           | Carbonato de cálcio    | 11,0|\n| III          | Citrato de potássio    | 7,7 |\n| IV           | Dióxido de silício     | 6,9 |\n| V            | Fosfato de cálcio      | 7,3 |\n\nSTORGATTO, G. A.; BRAIBANTE, M. E. F.; BRAIBANTE, H. T. S. A química na odontologia. Química Nova na Escola, v. 39, fev. 2017 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando o equilíbrio químico envolvido, qual creme dental promove a maior desmineralização do esmalte do dente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Creme dental I, com bicarbonato de sódio e pH 9,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Creme dental II, com carbonato de cálcio e pH 11,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Creme dental III, com citrato de potássio e pH 7,7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Creme dental IV, com dióxido de silício e pH 6,9",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Creme dental V, com fosfato de cálcio e pH 7,3",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "quimica-inorganica",
+    "competency": "C5",
+    "skill": "H7"
+}

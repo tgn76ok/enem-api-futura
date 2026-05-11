@@ -1,0 +1,46 @@
+{
+    "title": "Questão 63 - ENEM 2025",
+    "index": 63,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Salvador, capital do estado da Bahia.\n\nIndependência de pensamento, autonomia e direito à oposição política estão perdendo sua função crítica básica numa sociedade que parece cada vez mais capaz de atender às necessidades dos indivíduos através da forma pela qual é organizada. Nas condições de um padrão de vida crescente, o não conformismo com o próprio sistema parece socialmente inútil, principalmente quando acarreta desvantagens econômicas e políticas tangíveis e ameaça o funcionamento suave do todo.\n\nMARCUSE, H. Ideologia da sociedade industrial. Rio de Janeiro: Zahar, 1969.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a característica da sociedade industrial do século XX apresentada no texto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Gestão integrada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Relativismo moral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Desobediência civil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Realidade unidimensional.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Desenvolvimento tecnológico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

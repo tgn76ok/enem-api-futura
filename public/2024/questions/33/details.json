@@ -1,0 +1,46 @@
+{
+    "title": "Questão 33 - ENEM 2024",
+    "index": 33,
+    "year": 2024,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Influenciadores negros têm recorrentemente chamado a atenção para o fato de terem muito menos repercussão em suas postagens e nas entregas do seu conteúdo quando comparados com os influenciadores brancos, mesmo se fotos, contextos e anúncios forem extremamente semelhantes. Segundo o site Negrê, a digital influencer e youtuber criadora do projeto digital Preta Pariu iniciou um experimento em uma plataforma. Após perceber a crescente queda nos índices de alcance digital, a paulista publicou fotografias de modelos brancas em seu perfil e analisou as métricas de engajamento. Surpreendentemente, a ferramenta de estatísticas aferiu um aumento de 6 000% em seu alcance.\n\nDisponível em: https://diplomatique.org.br.\nAcesso em: 21 jan. 2024 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A apresentação do dado estatístico ao final desse texto revela a intenção de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "demonstrar a repercussão de projetos como o Preta Pariu.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "informar o quantitativo de postagens da comunidade negra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "potencializar o alcance de textos e imagens em sites como o Negrê.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "exaltar a qualidade das publicações sobre negritude em redes sociais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "comprovar a relação entre o alcance de conteúdos digitais e o viés racial.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

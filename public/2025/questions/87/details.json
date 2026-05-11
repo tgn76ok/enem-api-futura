@@ -1,0 +1,46 @@
+{
+    "title": "Questão 87 - ENEM 2025",
+    "index": 87,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "TEXTO I\nEm conjunto: todo e não todo, unido e separado, em consonância e em dissonância. De todos um e de um todos. (Fragmento B10)\n\nTEXTO II\nDeus é dia-noite, inverno-verão, guerra-paz, saciedade-fome. (Fragmento B67)\n\nRAMINELLI, R. Canibalismo para alemão ver. In: FIGUEIREDO, L. (Org.). História do Brasil para ocupados. Rio de Janeiro: Casa da Palavra, 2013 (adaptado).\n\nPRANDI, R. O Brasil com axé. Estudos Avançados, n. 52, dez. 2004.\n\nNo processo de invisibilização dos cultos afro-brasileiros, o texto associa os seguintes elementos essenciais:",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No processo de invisibilização dos cultos afro-brasileiros, o texto associa os seguintes elementos essenciais:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ausência de soluções partidárias e rejeição da laicidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Precariedade de coesão representativa e recusa da alteridade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Insuficiência de estruturas decisórias e exclusão da dialogicidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Inexistência de direitos constitucionais e negação do ecumenismo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Efemeridade das relações políticas e debilidade do pertencimento étnico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "religioes-afro-brasileiras",
+    "competency": "C1",
+    "skill": "H1"
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 125 - ENEM 2024",
+    "index": 125,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma agricultora, com a intenção de comercializar o milho recém-colhido, testou uma forma de preservar o sabor adocicado do seu produto. O melhor resultado foi obtido quando ela imergiu as espigas em água fervente durante alguns minutos e, em seguida, em água gelada. Com esse procedimento, parte da glicose do milho não foi transformada em amido, mantendo o seu sabor adocicado.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com esse procedimento, o sabor foi conservado porque houve",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "desnaturação enzimática pela alta temperatura.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "conversão de nutrientes pela redução de temperatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "degradação das reservas nutritivas pelo choque térmico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "impedimento da entrada de oxigênio pela fervura da água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "desidratação dos grãos por causa da alteração da temperatura.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "bioquimica",
+    "competency": "C5",
+    "skill": "H12"
+}

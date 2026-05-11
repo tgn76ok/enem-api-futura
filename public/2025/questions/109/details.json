@@ -1,0 +1,46 @@
+{
+    "title": "Questão 109 - ENEM 2025",
+    "index": 109,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O fruto do cajueiro é um aquênio repleto de um líquido escuro, quase preto, cáustico e inflamável. Esse líquido da casca da castanha do caju (LCC) representa aproximadamente 25% da massa da castanha e é um subproduto de agronegócio do caju. Quando submetido a altas temperaturas, o ácido anacárdico presente no LCC é convertido a cardanol, que recebe a denominação de LCC técnico, conforme o esquema:\n\nO LCC técnico é produzido por meio de uma reação orgânica do tipo:",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O LCC técnico é produzido por meio de uma reação orgânica do tipo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "hidrólise.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fenilação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "esterificação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "hidrogenação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "descarboxilação.",
+            "file": null,
+            "isCorrect": true
+        }
+    ],
+    "subcategory": "quimica-organica",
+    "competency": "C7",
+    "skill": "H12"
+}

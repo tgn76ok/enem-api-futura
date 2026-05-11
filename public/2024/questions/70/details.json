@@ -1,0 +1,46 @@
+{
+    "title": "Questão 70 - ENEM 2024",
+    "index": 70,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A mudança do clima nas cidades brasileiras é um desafio de adaptação e equidade. Inundações, alagamentos e ondas de calor são cada vez mais frequentes e intensas. Cidades precisam se adaptar com urgência, a começar pelas áreas e populações mais vulneráveis. Implementar soluções baseadas na natureza de forma sistêmica pode contribuir para a redução de desastres relacionados às mudanças do clima e ainda gerar múltiplos benefícios para a economia, o ambiente e as pessoas.\n\nEVERS, H. et al. Soluções baseadas na natureza para adaptação em cidades. Disponível em: www.wribrasil.org.br. Acesso em: 19 out. 2023 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual medida atenua os problemas abordados no texto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Criação de faixas sinalizadoras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Incineração de resíduos sólidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Implantação de parques públicos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Verticalização de espaços centrais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Construção de estacionamentos privados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "geografia-urbana",
+    "competency": "C3",
+    "skill": "H12"
+}

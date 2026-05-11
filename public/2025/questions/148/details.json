@@ -1,0 +1,46 @@
+{
+    "title": "Questão 148 - ENEM 2025",
+    "index": 148,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um jogo digital, há três personagens: um herói e dois vilões. A programação é feita de tal forma que o herói sempre será atacado pelo vilão que estiver mais próximo dele. Uma das maneiras de “confundir” os vilões é movimentar o herói por trajetórias que o mantenham equidistante dos vilões, gerando indefinição entre eles e, com isso, não sendo atacado.\n\nPara a programação de uma das etapas desse jogo, o programador considerou, no plano cartesiano, o quadrado STUV como a região de movimentação dos personagens, onde V e T representam as posições fixas dos vilões, e S, a posição inicial do herói, como apresentado na figura.\n\nQual é a equação da trajetória em que o herói poderá se movimentar sem ser atacado?",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é a equação da trajetória em que o herói poderá se movimentar sem ser atacado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "y = −3x + 20",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "y = −3x + 16",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "y = −3x − 20",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "y = 3x + 16",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "y = 3x − 16",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "funcoes-matematicas",
+    "competency": "C7",
+    "skill": "H25"
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 20 - ENEM 2025",
+    "index": 20,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Leia o trecho a seguir, extraído da obra *Inocência*, de A. d’E. Taunay:\n\n— Vejo, disse ele com algum acanhamento, que o doutor não é nenhum pé-rapado, mas nunca é bom facilitar... Minha filha Nocência fez 18 anos pelo Natal, e é rapariga que pela feição parece moça de cidade, muito ariscazinha de modos, mas bonita e boa deveras... Coitada, foi criada sem mãe, e aqui nestes fundões. [...]\n— Ora muito que bem, continuou Pereira caindo aos poucos na habitual garrulice, quando vi a menina tomar corpo, tratei logo de casá-la.\n— Ah! é casada? perguntou Cirino.\n— Isto é, é e não é. A coisa está apalavrada. Por aqui costuma labutar no costeio do gado para São Paulo um homem de mãocheia, que talvez o sr. conheça... o Manecão Doca...\n— Não, respondeu Cirino abanando a cabeça.\n— Pois isso é um homem às direitas, desempenado e trabucador como ele só... fura estes sertões todos e vem tangendo pontes de gado que metem pasmo. Também dizem que tem bichado muito e ajuntado cobre grosso, o que é possível, porque não é gastador nem dado a mulheres. Uma feita que estava aqui de pousada... olhe, mesmo neste lugar onde estava mecê inda agorinha, falei-lhe em casamento... isto é, dei-lhe uns toques... porque os pais devem tomar isso a si para bem de suas famílias; não acha?\n— Boa dúvida, aprovou Cirino, dou-lhe toda a razão; era do seu dever.\n\nConsiderando o trecho acima e o contexto da literatura romântica brasileira, analise a afirmativa a seguir:\n\n\"Nesse trecho, ao se referir à sua filha, o pai de Inocência reproduz os ideais românticos presentes na valorização da mulher como figura decorativa, subordinada ao protagonismo masculino.\"\n\nCom base nisso, responda:\n\nNesse trecho, ao se referir à sua filha, o pai de Inocência reproduz os ideais românticos, presentes na",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesse trecho, ao se referir à sua filha, o pai de Inocência reproduz os ideais românticos, presentes na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "valorização do ambiente rural na formação moral da mulher.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "figura decorativa da mulher ante o protagonismo masculino.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "equivalência de origem social para a harmonia do casal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "importância do dote como condição para o casamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aura de mistério sobre a identidade da jovem.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

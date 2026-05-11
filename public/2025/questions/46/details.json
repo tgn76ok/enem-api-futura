@@ -1,0 +1,46 @@
+{
+    "title": "Questão 46 - ENEM 2025",
+    "index": 46,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Considere os seguintes elementos relacionados a manifestações sociais e políticas:\n\nA) Casos de desobediência civil.\nB) Repressões do aparato estatal.\nC) Conflitos de natureza intercontinental.\nD) Manifestações do movimento sindical.\nE) Mobilizações de agremiações estudantis.\n\nCom base nesses elementos, analise qual deles caracteriza uma forma de resistência pacífica e organizada contra leis ou normas consideradas injustas, geralmente com o objetivo de provocar mudanças sociais ou políticas.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual das alternativas abaixo corresponde a uma forma de resistência pacífica e organizada contra normas consideradas injustas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Casos de desobediência civil.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Repressões do aparato estatal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Conflitos de natureza intercontinental.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Manifestações do movimento sindical.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Mobilizações de agremiações estudantis.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "movimentos-sociais",
+    "competency": "C1",
+    "skill": "H1"
+}

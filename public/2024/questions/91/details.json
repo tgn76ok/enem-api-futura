@@ -1,0 +1,46 @@
+{
+    "title": "Questão 91 - ENEM 2024",
+    "index": 91,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O esquema representa um experimento feito com células do protozoário Amoeba proteus. Nele, um grupo de células foi tratado com a droga citocalasina B, enquanto outro grupo não foi tratado, servindo como controle. O formato e o movimento das células tratadas foram comprometidos.\n\nSADAVA, D. et al. Vida: a ciência da biologia — volume I: célula e hereditariedade. Porto Alegre: Artmed, 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual componente celular foi afetado pela droga utilizada no experimento?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Vacúolos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Mitocôndrias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Microfilamentos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Material genético.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Membrana plasmática.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "biologia-celular",
+    "competency": "C5",
+    "skill": "H12"
+}

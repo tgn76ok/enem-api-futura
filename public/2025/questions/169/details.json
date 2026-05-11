@@ -1,0 +1,46 @@
+{
+    "title": "Questão 169 - ENEM 2025",
+    "index": 169,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Três dados cúbicos, com faces numeradas de 1 a 6, foram utilizados em um jogo. Artur escolheu dois dados, e João ficou com o terceiro. O jogo consiste em ambos lançarem seus dados, observarem os números nas faces voltadas para cima e compararem o maior número obtido por Artur com o número obtido por João. Vence o jogador que obtiver o maior número. Em caso de empate, a vitória é de João.\n\nO jogador que tem a maior probabilidade de vitória é",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual é o jogador com maior probabilidade de vitória e qual é essa probabilidade?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Artur, com probabilidade de \\( \\frac{2}{3} \\)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "João, com probabilidade de \\( \\frac{4}{9} \\)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Artur, com probabilidade de \\( \\frac{91}{216} \\)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "João, com probabilidade de \\( \\frac{91}{216} \\)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Artur, com probabilidade de \\( \\frac{125}{216} \\)",
+            "file": null,
+            "isCorrect": true
+        }
+    ],
+    "subcategory": "probabilidade",
+    "competency": "C7",
+    "skill": "H25"
+}

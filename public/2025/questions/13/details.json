@@ -1,0 +1,46 @@
+{
+    "title": "Questão 13 - ENEM 2025",
+    "index": 13,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Disponível em: www.masp.org.br. Acesso em: 5 maio 2024 (adaptado).\n\nAntes do inverno chegar.\nEla tinha olhinhos brilhantes. Os mesmos de antes. Antes\nda fome. Antes das 17 mudanças de cidade. Dos sete filhos e\ndos muitos anos de trabalho dentro e fora de casa.\nEla fazia ambrosia, bolo de fubá e pedacinhos de queijo.\nAntes do inverno, ela plantava flores novas e diferentes para\nnos esperar nas próximas férias de verão.\nEla tinha o jeito de menina. Menina sapeca, correndo na\ngrama seca do cerrado. O mesmo jeito de antes. Antes do\nmarido (e mesmo com o marido). Antes do cansaço dos anos.\nAntes da dureza do trato com a terra.\nEla tinha histórias. Compridas, curtas, divertidas e\nverdadeiras. Mas isso foi antes. Antes das lembranças se\nbagunçarem feito bolas coloridas de Natal esperando para\nserem montadas na árvore.\nEu era sua neta. Antes do Alzheimer chegar, eu era sua\nneta. Mas ela é e sempre será minha avó.\n\nAo dar protagonismo a Zeferina e a João de Deus Nascimento,\no artista Dalton Paula evidencia que a(s)",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A arte pode promover formas de afirmação de identidade social. Assinale a alternativa que melhor expressa essa ideia a partir do texto e da obra mencionados.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A arte pode promover formas de afirmação de identidade social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Comunidades periféricas passam a adquirir o gênero retrato.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Personagens retratadas simbolizam a sociedade brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A pintura funciona como instrumento de ascensão social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Imagens tradicionais preservam memórias afetivas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

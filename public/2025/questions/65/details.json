@@ -1,0 +1,46 @@
+{
+    "title": "Questão 65 - ENEM 2025",
+    "index": 65,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "LISPECTOR, C. Aprendendo a viver. Rio de Janeiro: Rocco Digital, 2013.\n\nA reflexão contida no texto faz referência aos pressupostos de uma doutrina ética representada pelo",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A reflexão contida no texto faz referência aos pressupostos de uma doutrina ética representada pelo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estado eudaimônico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "referencial hedonista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pensamento altruísta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "movimento antiespecista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "comportamento pragmático.",
+            "file": null,
+            "isCorrect": true
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

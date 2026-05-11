@@ -1,0 +1,46 @@
+{
+    "title": "Questão 66 - ENEM 2025",
+    "index": 66,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A difusão pelos cônegos do ideal apostólico, bem como a influência dos eremitas e dos pregadores errantes que na sua esteira propagavam temas evangélicos, contribuíram para fazer nascer, entre os fiéis, o desejo de se erguerem ao nível espiritual do clero e de obterem a sua salvação, sem que para isso tivessem de renunciar ao seu estado. Pela primeira vez, a Igreja entreabria as portas da graça em benefício da totalidade dos fiéis, colocando, como única condição, a sua partida para o Oriente, a fim de aí lutarem contra os inimigos de Cristo.\n\nVAUCHEZ, A. A espiritualidade da Idade Média Ocidental, séc. VIII-XIII. Lisboa: Estampa, 1995.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Conforme o texto, no imaginário dos fiéis cristãos do período medieval, a salvação era alcançada por meio das",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "palavras escritas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "práticas litúrgicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ações voluntárias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "ideias messiânicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "celebrações coletivas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "historia-medieval",
+    "competency": "C1",
+    "skill": "H1"
+}

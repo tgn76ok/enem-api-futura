@@ -1,0 +1,46 @@
+{
+    "title": "Questão 36 - ENEM 2025",
+    "index": 36,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "TEXTO I\n\nA Ilha do Ferro, situada a 18 km do município de Pão de Açúcar, não é uma ilha, como o nome indica. A história do povoado é semelhante à de inúmeros outros que encontramos às margens do Rio São Francisco, entre Alagoas e Sergipe. O que torna diferente o lugar é sua gente. Hoje, dezenas de artistas populares povoam a Ilha do Ferro, trabalhando principalmente com o entalhe em madeira. Onde pessoas comuns enxergariam apenas troncos e galhos retorcidos, eles vislumbram bancos, bonecos, pássaros, cobras e bailarinas. “Às vezes, você passa por um pedaço de madeira uma vez e não vê nada, passa cinco vezes por ele e não vê nada”, conta um dos artistas, “mas, na décima vez, você consegue enxergar alguma forma nesse pedaço de madeira e transformá-lo em arte”.\n\nTEXTO II\n\nFARIAS, Y. Bailarino entalhado em gravetos de madeira. Artesanato em madeira, 20 × 13 × 51 cm. Ilha do Ferro (AL).\n\nA originalidade do trabalho dos artistas da Ilha do Ferro se dá pela\n\nA reutilização de materiais para redução do impacto ambiental.\nB ressignificação da matéria-prima atribuindo-lhe nova função.\nC reprodução em madeira de modelos artísticos canônicos.\nD representação de práticas corporais da comunidade.\nE replicação seriada para distribuição em larga escala.\n\nVAREJÃO, A. Azulejaria em carne viva. Óleo sobre tela, poliuretano, madeira e alumínio, 160 × 200 × 25 cm. 1999.\n\nA utilização de recursos visuais como suturas, cortes e ruínas por Adriana Varejão, na obra Azulejaria em carne viva, remete à(s)\n\nA sobreposição da cultura brasileira à arte portuguesa.\nB manutenção da representação realista na arte brasileira.\nC violências desencadeadas pelo processo colonial brasileiro.\nD desigualdades nos incentivos à produção artística brasileira.\nE negligência na conservação do patrimônio arquitetônico luso-brasileiro.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A originalidade do trabalho dos artistas da Ilha do Ferro se dá pela\n\nA reutilização de materiais para redução do impacto ambiental.\nB ressignificação da matéria-prima atribuindo-lhe nova função.\nC reprodução em madeira de modelos artísticos canônicos.\nD representação de práticas corporais da comunidade.\nE replicação seriada para distribuição em larga escala.\n\nA utilização de recursos visuais como suturas, cortes e ruínas por Adriana Varejão, na obra Azulejaria em carne viva, remete à(s)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "sobreposição da cultura brasileira à arte portuguesa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "manutenção da representação realista na arte brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "violências desencadeadas pelo processo colonial brasileiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "desigualdades nos incentivos à produção artística brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "negligência na conservação do patrimônio arquitetônico luso-brasileiro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

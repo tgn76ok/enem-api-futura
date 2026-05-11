@@ -1,0 +1,46 @@
+{
+    "title": "Questão 6 - ENEM 2025",
+    "index": 6,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A autora conclui que as novas tecnologias de escrita",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual conclusão a autora apresenta sobre as novas tecnologias de escrita?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "evoluem para facilitar a vida cotidiana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "alcançam diferentes realidades sociais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "coexistem com outras já estabelecidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "promovem maior agilidade na comunicação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "surgem nos contextos em que são necessárias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 105 - ENEM 2025",
+    "index": 105,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A Figura 1 apresenta o esquema de um tubo de imagem em que um filamento, na posição A, libera elétrons por efeito termiônico. Esses elétrons formam um feixe estreito, que é acelerado por campos elétricos em direção à parte interna da tela. Nesse caminho, o feixe de elétrons passa por outro campo elétrico, na região B, atingindo, em seguida, a parte interna da tela do tubo, a qual é recoberta por um material que emite luz ao receber o impacto dos elétrons.\n\nA tirinha ilustra um processo físico em que uma onda sonora, produzida pela Mônica, causa a quebra das taças de cristal. O fenômeno ondulatório que provoca a quebra das taças só é possível em razão de uma característica da voz produzida pela Mônica naquele momento, que, diferentemente do que sugere a tirinha, não está relacionada à sua intensidade.\n\nDisponível em: https://artedafisicapibid.blogspot.com.\nAcesso em: 23 nov. 2021 (adaptado).\n\nEsse fenômeno e a característica associada à voz da Mônica são, respectivamente,",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse fenômeno e a característica associada à voz da Mônica são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reflexão e comprimento de onda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ressonância e frequência.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "interferência e velocidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ressonância e timbre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reflexão e amplitude.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "fisica-ondas",
+    "competency": "C7",
+    "skill": "H5"
+}

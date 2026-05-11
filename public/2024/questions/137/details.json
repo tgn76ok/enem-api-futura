@@ -1,0 +1,46 @@
+{
+    "title": "Questão 137 - ENEM 2024",
+    "index": 137,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A umidade relativa do ar é um dos indicadores utilizados na meteorologia para fazer previsões sobre o clima. O quadro apresenta as médias mensais, em porcentagem, da umidade relativa do ar em um período de seis meses consecutivos em uma cidade.\n\n| Meses | Média mensal da umidade relativa do ar (%) |\n|-------|-------------------------------------------|\n| Maio  | 66                                        |\n| Jun.  | 64                                        |\n| Jul.  | 54                                        |\n| Ago.  | 46                                        |\n| Set.  | 60                                        |\n| Out.  | 64                                        |\n\nNessa cidade, a mediana desses dados, em porcentagem, da umidade relativa do ar no período considerado foi:",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nessa cidade, a mediana desses dados, em porcentagem, da umidade relativa do ar no período considerado foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "56",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "58",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "59",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "60",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "62",
+            "file": null,
+            "isCorrect": true
+        }
+    ],
+    "subcategory": "estatistica-medidas-de-posicao",
+    "competency": "C7",
+    "skill": "H12"
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 30 - ENEM 2025",
+    "index": 30,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Com base no trecho a seguir, analise a repetição da forma “daí” no discurso oral:\n\n\"I: o nome do filme é roupa suja ... eu assisti na minha casa ... com minha mãe ... tinha um ... o filme era sobre um homem que colocaram ... trocaram as bolsas ... daí o homem levou uma bolsa cheia de dinheiro sem ele saber que na mala dele ... pensando que era dele mas era errada ... quando ele chegou onde ele ia trabalhar ... tinha uma moça tentando abrir a porta pra fazer entrevista com uns cantores lá que tinham ... daí ele perguntou ... “você tá tentando abrir a porta?”... daí ele ... “não ... não” ... daí ele disse ... “ah ... tá ... sim” ... daí ela ... “é ... e quero fazer a entrevista” ... daí ele disse ... “você quer entrar ... então pode entrar” ... daí entraram ... daí ficaram lá ... quando ela entrou e queria fazer a entrevista um homem num deixou ... daí a mulher pegou ... subiu onde o homem tava trabalhando ... rapaz né ... onde ele tava trabalhando e ficou lá e dando o show ...\"\n\nNesse texto, a repetição da forma “daí” revela:",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse texto, a repetição da forma “daí” revela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a necessidade de adequação ao interlocutor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a origem regional do locutor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a escolaridade do falante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "uma estratégia presente na linguagem oral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "uma ênfase em determinadas partes do discurso.",
+            "file": null,
+            "isCorrect": true
+        }
+    ],
+    "subcategory": "linguagem-oral",
+    "competency": "C1",
+    "skill": "H1"
+}

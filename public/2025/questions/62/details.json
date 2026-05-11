@@ -1,0 +1,46 @@
+{
+    "title": "Questão 62 - ENEM 2025",
+    "index": 62,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Leia o trecho a seguir, extraído do texto \"O que eu queria ter sido\", de Clarice Lispector:\n\n\"Um nome para o que sou, importa muito pouco. Importa o que eu gostaria de ser. O que eu gostaria de ser era uma lutadora. Quero dizer, uma pessoa que luta pelo bem dos outros. Isso desde pequena eu quis. Por que foi o destino me levando a escrever o que já escrevi, em vez de também desenvolver em mim a qualidade de lutadora que eu tinha? Em pequena, minha família por brincadeira chamava-me de “a protetora dos animais”. Porque bastava acusarem uma pessoa para eu imediatamente defendê-la. E eu sentia o drama social com tanta intensidade que vivia de coração perplexo diante das grandes injustiças a que são submetidas as chamadas classes menos privilegiadas.\"\n\nConsiderando o texto acima, a promoção da justiça social pode ser entendida como um mecanismo de:",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Assinale a alternativa que indica corretamente o mecanismo social referido no texto:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a manutenção da ordem agrária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a legitimação da propriedade privada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a hegemonia das classes dominantes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a revisão das desigualdades econômicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a homogeneização da distribuição fundiária.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

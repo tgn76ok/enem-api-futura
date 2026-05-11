@@ -1,0 +1,46 @@
+{
+    "title": "Questão 139 - ENEM 2025",
+    "index": 139,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa de tecnologia vai padronizar a velocidade de conexão de internet que oferece a seus clientes em dez cidades. A direção da empresa decide que seu novo padrão de velocidade de referência será a mediana dos valores das velocidades de referência de conexões nessas dez cidades. Esses valores, em megabyte por segundo (MB/s), são apresentados no quadro abaixo:\n\n| Cidade | Velocidade de referência (MB/s) |\n|--------|---------------------------------|\n| C1     | 390                             |\n| C2     | 380                             |\n| C3     | 320                             |\n| C4     | 390                             |\n| C5     | 340                             |\n| C6     | 380                             |\n| C7     | 390                             |\n| C8     | 400                             |\n| C9     | 350                             |\n| C10    | 360                             |\n\nConsiderando esses dados, qual será a velocidade de referência, em megabyte por segundo, a ser adotada pela empresa?",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A velocidade de referência, em megabyte por segundo, a ser adotada por essa empresa é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "360.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "370.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "380.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "390.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "400.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "estatistica-mediana",
+    "competency": "C7",
+    "skill": "H12"
+}

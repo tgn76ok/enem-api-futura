@@ -1,0 +1,46 @@
+{
+    "title": "Questão 18 - ENEM 2024",
+    "index": 18,
+    "year": 2024,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "— Eu lhe juro, Aurélia. Estes lábios nunca tocaram a face de outra mulher, que não fosse minha mãe. Meu primeiro beijo de amor, guardei-o para minha esposa, para ti...\n[...]\n— Ou de outra mais rica! — disse ela, retraindo-se para fugir ao beijo do marido, e afastando-o com a ponta dos dedos.\nA voz da moça tomara o timbre cristalino, eco da rispidez e aspereza do sentimento que lhe sublevava o seio, e que parecia ringir-lhe nos lábios como aço.\n— Aurélia! Que significa isto?\n— Representamos uma comédia, na qual ambos desempenhamos o nosso papel com perícia consumada. Podemos ter este orgulho, que os melhores atores não nos excederiam. Mas é tempo de pôr termo a esta cruel mistificação, com que nos estamos escarnecendo mutuamente, senhor. Entremos na realidade por mais triste que ela seja; e resigne-se cada um ao que é, eu, uma mulher traída; o senhor, um homem vendido.\n— Vendido! — exclamou Seixas ferido dentro d’alma.\n— Vendido, sim: não tem outro nome. Sou rica, muito rica; sou milionária; precisava de um marido, traste indispensável às mulheres honestas. O senhor estava no mercado; comprei-o. Custou-me cem contos de réis, foi barato; não se fez valer. Eu daria o dobro, o triplo, toda a minha riqueza por este momento.\nALENCAR, J. Senhora. Rio de Janeiro: Tecnoprint, 2003.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Ao tematizar o casamento, esse fragmento reproduz uma concepção de literatura romântica evidenciada na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "defesa da igualdade de gêneros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "importância atribuída à castidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "indignação com as injustiças sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "interferência da riqueza sobre o amor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "valorização das relações interpessoais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "literatura",
+    "competency": "C1",
+    "skill": "H1"
+}

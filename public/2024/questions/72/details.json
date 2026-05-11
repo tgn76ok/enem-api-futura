@@ -1,0 +1,46 @@
+{
+    "title": "Questão 72 - ENEM 2024",
+    "index": 72,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Uma fábrica na qual os operários fossem, efetiva e integralmente, simples peças de máquinas executando cegamente as ordens da direção pararia em quinze minutos. O capitalismo só pode funcionar com a contribuição constante da atividade propriamente humana de seus subjugados que, ao mesmo tempo, tenta reduzir e desumanizar o mais possível.\n\nCASTORIADIS, C. A instituição imaginária da sociedade. Rio de Janeiro: Paz e Terra, 1982.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto apresenta uma contradição interna do capitalismo caracterizada pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "obsolescência associada ao uso da tecnologia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "orientação voltada à administração de conflitos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "alienação decorrente da organização do trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "isonomia remanescente da geração de riquezas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "produtividade vinculada ao fortalecimento da autonomia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 127 - ENEM 2024",
+    "index": 127,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As autoridades sanitárias brasileiras têm se preocupado muito nos últimos anos com o aumento da ocorrência de doenças transmitidas por mosquitos, principalmente arboviroses como chikungunya e zika, que se tornaram epidêmicas ou endêmicas em áreas urbanas. Parte de uma análise da relação entre a urbanização e a incidência dessas doenças está representada no fluxograma.\n\nALMEIDA, L. S.; COTA, A. L. S.; RODRIGUES, D. F. Saneamento, arboviroses e determinantes ambientais: impactos na saúde urbana. Ciência & Saúde Coletiva, v. 25, n. 10, 2020 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nesse contexto, como a urbanização está causando riscos à saúde humana?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Disseminando verminoses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Causando a eutrofização de lagoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aumentando a chance de contato com coliformes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Diminuindo a população de predadores aquáticos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Aproximando as pessoas das áreas de ocorrência de mosquitos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "ecologia-do-ambiente-urbano",
+    "competency": "C7",
+    "skill": "H12"
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 169 - ENEM 2024",
+    "index": 169,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma criança, utilizando um aplicativo, escreveu uma mensagem para enviar a um amigo. Essa mensagem foi escrita seguindo estas etapas:\n\n**Etapas**\n\n- 1ª etapa: inseriu três figuras no visor de escrita da mensagem;\n- 2ª etapa: copiou o que havia inserido anteriormente e colou (inseriu o que havia copiado) ao lado;\n- 3ª etapa: copiou o que tinha no visor na 2ª etapa e colou ao lado.\n\nA criança seguiu copiando e colando, em cada etapa, o que tinha no visor na etapa imediatamente anterior, até concluir a 20ª etapa. Em seguida, enviou a mensagem.\n\nQual foi o total de figuras contidas na mensagem enviada?",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual foi o total de figuras contidas na mensagem enviada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3 × 2¹⁹",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "3 × 2²⁰",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3 × 2²¹",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3 × 2²⁰ − 1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3 × 2²⁰ − 3",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "funcoes-matematicas",
+    "competency": "C7",
+    "skill": "H12"
+}

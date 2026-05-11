@@ -1,0 +1,46 @@
+{
+    "title": "Questão 55 - ENEM 2024",
+    "index": 55,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O rompimento da barragem de Fundão levou muito consigo. A lama soterrou sonhos e modificou de forma permanente centenas de vidas nascidas e criadas em Bento Rodrigues e Paracatu, em Mariana (MG). Mas não somente. Ao se estender ao longo do rio, outras famílias e histórias foram atingidas de formas diferentes. Ao fugirem dos rejeitos que rapidamente tomaram as localidades, deixaram para trás os resquícios da vida que tiveram até o 5 de novembro de 2015. Nada jamais seria igual.\n\nSANTOS, P. Histórias soterradas. Curinga, n. 19, nov. 2016 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Conforme o texto, o evento gerou o seguinte impacto na relação entre as pessoas e o seu espaço vivido:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Flexibilização de parâmetros ambientais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Consolidação de identidades regionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Fragilização de vínculos afetivos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Supressão de práticas exploratórias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Recuperação de tradições ancestrais.",
+            "file": null,
+            "isCorrect": true
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

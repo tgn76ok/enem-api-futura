@@ -1,0 +1,46 @@
+{
+    "title": "Questão 134 - ENEM 2025",
+    "index": 134,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A filtração em carvão é uma das mais antigas formas de purificação de água. O carvão ativado, diferentemente do carvão comum, é útil para ser empregado na remoção de material orgânico, cloro e outros contaminantes. Essa capacidade decorre de suas propriedades de adsorção. A origem do material utilizado para produzir o carvão ativado pode influenciar sua porosidade e, consequentemente, interferir na capacidade do material de remover impurezas. Na figura, é ilustrada esquematicamente a diferença entre as estruturas físicas do carvão comum e do carvão ativado.\n\nOs funcionários de um zoológico observaram um aumento na taxa de mortalidade de aves aquáticas por afogamento. Um grupo de biólogos analisou o comportamento das aves por várias semanas e observou que elas apresentavam dificuldade de flutuação, por causa do encharcamento das penas com água. O aumento na taxa de mortalidade dessas aves estava associado a uma redução na",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O aumento na taxa de mortalidade dessas aves estava associado a uma redução na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "dilatação do papo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "reposição de penas das asas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "secreção da glândula uropigial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "formação da membrana natatória.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "largura das cavidades de ossos pneumáticos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "biologia-ecologia",
+    "competency": "C3",
+    "skill": "H5"
+}

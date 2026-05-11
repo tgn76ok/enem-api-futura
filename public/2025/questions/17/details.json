@@ -1,0 +1,46 @@
+{
+    "title": "Questão 17 - ENEM 2025",
+    "index": 17,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Leia o trecho a seguir, extraído da obra *Contos negreiros*, de Marcelino Freire:\n\n> O meu medo é entrar na faculdade e tirar zero eu que nunca\n> fui bom de matemática fraco no inglês eu que nunca gostei de\n> química geografia e português o que é que eu faço agora hein\n> mãe não sei. [...]\n>\n> O meu medo é a vida piorar e eu não conseguir arranjar\n> emprego nem de faxineiro nem de porteiro nem de ajudante\n> de pedreiro e o pessoal dizer que o governo já fez o que pôde\n> já pôde o que fez já deu a sua cota de participação hein mãe\n> não sei.\n>\n> O meu medo é que mesmo com diploma debaixo do braço\n> andando por aí desiludido e desempregado o policial me olhe\n> de cara feia e eu acabe fazendo uma burrice sei lá uma besteira\n> será que eu vou ter direito a uma cela especial hein mãe não sei.\n\nCom base nesse texto, responda:\n\n1. A reiteração dos medos e das angústias do narrador exprime\n2. As incertezas do narrador estão centradas em sua condição",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "1. A reiteração dos medos e das angústias do narrador exprime\n\nA) investimento na modernização de equipamentos.\nB) subordinação do treinamento físico ao mental.\nC) estímulo à competição entre adversárias.\nD) aprimoramento da expressão corporal.\nE) importância da saúde emocional.\n\n2. As incertezas do narrador estão centradas em sua condição\n\nA) inseguranças sobre o futuro familiar.\nB) dilemas resultantes de seu fracasso escolar.\nC) incertezas centradas em sua condição social.\nD) hesitações em relação à sua formação profissional.\nE) preocupações com as políticas públicas assistenciais.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "inseguranças sobre o futuro familiar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "dilemas resultantes de seu fracasso escolar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "incertezas centradas em sua condição social.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "hesitações em relação à sua formação profissional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "preocupações com as políticas públicas assistenciais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

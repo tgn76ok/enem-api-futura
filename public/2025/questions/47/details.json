@@ -1,0 +1,46 @@
+{
+    "title": "Questão 47 - ENEM 2025",
+    "index": 47,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O direito não é a justiça. O direito é o elemento do cálculo, é justo que haja um direito, mas a justiça é incalculável, ela exige que se calcule o incalculável; e as experiências aporéticas são experiências tão improváveis quanto necessárias da justiça, isto é, são momentos em que a decisão entre o justo e o injusto nunca é garantida por uma regra.\n\nDERRIDA, J. Força de lei. São Paulo: Martins Fontes, 2010 (adaptado).\n\nA letra da canção apresenta a permanência de uma situação da vida cotidiana ao destacar a",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A letra da canção apresenta a permanência de uma situação da vida cotidiana ao destacar a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "diminuição do comportamento competitivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "importância da memória coletiva.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "redução da mobilidade urbana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "efemeridade dos vínculos de afetividade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "obsolescência dos meios de comunicação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 67 - ENEM 2025",
+    "index": 67,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Pesquisa pioneira no Brasil propõe o uso de energia do solo para climatizar edifícios. Pela primeira vez na história, o Brasil terá um prédio que usa energia do solo para climatizar seus ambientes. Uma pesquisa inovadora avaliou o uso das fundações de edifícios como meio para a troca de energia térmica entre o prédio e o subsolo. A energia geotérmica é aquela encontrada dentro da crosta terrestre, seja no solo, nas rochas ou mesmo na água, sendo identificada pela temperatura. Essa energia pode ser transferida para a superfície por processos de troca térmica a partir das fundações da edificação.\n\nPara o sistema elétrico brasileiro, a expansão de tecnologias como a descrita no texto representa uma tendência de:",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para o sistema elétrico brasileiro, a expansão de tecnologias como a descrita no texto representa uma tendência de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "homogeneização da oferta da matriz produtiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ampliação do consumo em unidades residenciais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "redução da pressão sobre as usinas hidrelétricas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "estagnação do consumo em unidades industriais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "superação da necessidade de recursos renováveis.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

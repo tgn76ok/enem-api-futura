@@ -1,0 +1,46 @@
+{
+    "title": "Questão 78 - ENEM 2024",
+    "index": 78,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O que alicerça, portanto, o acolhimento de refugiados pelos Estados gira em torno da fronteira erguida entre inclusão e exclusão, admissão e rejeição, desejáveis e indesejáveis; ao mesmo tempo, enseja vulnerabilidade, indefinição e incerteza a esses migrantes internacionais forçados.\n\nMOREIRA, J. B. Refugiados no Brasil. REMHU, n. 43, jul.-dez. 2014.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A eliminação, para os refugiados, do tipo de fronteira descrita no texto necessita de políticas públicas de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "planejamento familiar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "segregação territorial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "homogeneização cultural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "diferenciação étnico-racial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "integração socioeconômica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "geografia-humana",
+    "competency": "C1",
+    "skill": "H1"
+}

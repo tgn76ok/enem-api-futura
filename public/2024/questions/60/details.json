@@ -1,0 +1,46 @@
+{
+    "title": "Questão 60 - ENEM 2024",
+    "index": 60,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Eu sentia falta do futuro. É claro que eu sabia, muito mesmo antes da recorrência dele, que nunca envelheceria. Era muito provável que eu nunca mais fosse ver o oceano de uma altura de trinta mil pés de novo, uma distância tão grande que não dá nem para distinguir as ondas, nem nenhum barco, de um jeito que faz o oceano parecer um enorme e infinito monólito. Eu poderia imaginá-lo. Eu poderia me lembrar dele. Mas não poderia vê-lo de novo, e me ocorreu que a ambição voraz dos seres humanos nunca é saciada quando os sonhos são realizados, porque há sempre a sensação de que tudo poderia ter sido feito melhor e ser feito outra vez.\n\nGREEN, J. A culpa é das estrelas. Rio de Janeiro: Intrínseca, 2012.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto apresenta uma reflexão da personagem acerca de um problema característico da filosofia contemporânea, que trata da(s)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "implicações éticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "finitude humana.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "limitações da linguagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "pressuposição existencial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "objetividade do conhecimento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "filosofia-contemporanea",
+    "competency": "C1",
+    "skill": "H1"
+}

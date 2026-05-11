@@ -1,0 +1,46 @@
+{
+    "title": "Questão 39 - ENEM 2025",
+    "index": 39,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A artista Marija Tiurina criou uma série chamada *Palavras intraduzíveis*, com diversas ilustrações detalhadas que transmitem o sentido desses vocábulos, que nenhuma palavra única em outras línguas pode descrever.\n\nDisponível em: www.sesc-ce.com.br. Acesso em: 15 set. 2024 (adaptado).\n\nAo abordar a realidade da etnia Jenipapo-Kanindé, essa reportagem cumpre uma função social quando destaca o(a)",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Ao abordar a realidade da etnia Jenipapo-Kanindé, essa reportagem cumpre uma função social quando destaca o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "quantidade de famílias indígenas em Aquiraz.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "força da tradição nas comunidades indígenas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "estudo sobre a demarcação das terras indígenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "protagonismo feminino na linha sucessória desse povo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reconhecimento dessa comunidade pelo governo brasileiro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

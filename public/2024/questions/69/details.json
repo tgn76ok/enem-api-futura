@@ -1,0 +1,46 @@
+{
+    "title": "Questão 69 - ENEM 2024",
+    "index": 69,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A democracia responde a esta pergunta: quem deve exercer o poder público? A resposta é: o exercício do poder público corresponde à coletividade dos cidadãos. Contudo, nessa pergunta não se fala sobre qual extensão deva ter o poder público. Trata-se somente de determinar o sujeito a quem o mando compete. A democracia propõe que mandemos todos; quer dizer, que todos intervenham nos fatos sociais.\n\nORTEGA Y GASSET, J. apud MAIA, E. C. Mario Vargas Llosa e o indivíduo para além da tribo. Disponível em: www.estadodaarte.estadao.com.br. Acesso em: 10 out. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O que sustenta o exercício do poder, conforme a configuração apresentada no texto escrito na década de 1920?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Soberania popular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Divisão de classes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Acúmulo de capital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Defesa da propriedade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Centralização administrativa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

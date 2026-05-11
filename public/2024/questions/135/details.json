@@ -1,0 +1,46 @@
+{
+    "title": "Questão 135 - ENEM 2024",
+    "index": 135,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um dos exemplos mais conhecidos de herança recessiva ligada ao cromossomo X é o daltonismo. Como em qualquer distúrbio recessivo ligado ao cromossomo X, existem muito mais homens apresentando o fenótipo com esse tipo de daltonismo do que mulheres.\n\nUm casal formado por um homem não daltônico e por uma mulher gestante também não daltônica, mas portadora do gene recessivo para esse tipo de daltonismo, está esperando um bebê. Em uma das consultas de pré-natal, o casal recebeu um heredograma que contém todas as possibilidades de genótipo para esse bebê.\n\nConsidere a legenda:\n\n- Mulher heterozigota portadora do gene para daltonismo\n- Mulher não daltônica\n- Mulher daltônica\n- Homem não daltônico\n- Homem daltônico\n\n(GRIFFITHS, A. et al. Introdução à genética. Rio de Janeiro: Guanabara Koogan, 2016 (adaptado))",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual heredograma foi recebido pelo casal?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Heredograma que não apresenta a possibilidade do bebê ser homem daltônico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Heredograma que apresenta as possibilidades corretas de genótipos para o bebê, considerando que o pai é homem não daltônico e a mãe é mulher heterozigota portadora do gene recessivo para daltonismo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Heredograma que apresenta o bebê apenas como mulher não daltônica, sem considerar a possibilidade de ser homem daltônico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Heredograma que apresenta o bebê apenas como homem não daltônico, sem considerar a possibilidade de ser mulher portadora ou daltônica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Heredograma que apresenta o bebê apenas como mulher daltônica, ignorando a condição dos pais e a herança recessiva ligada ao cromossomo X.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "genetica",
+    "competency": "C7",
+    "skill": "H12"
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 1 - ENEM 2025",
+    "index": 1,
+    "year": 2025,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Leia o fragmento da letra da canção \"Cuando yo era un enano\", de Silvio Rodríguez:\n\n> Cuando yo era chiquito\n> todo quedaba cerca, cerquita.\n> Para llegar al cielo\n> no más bastaba una subidita.\n> El sueño me alcanzaba\n> para ir tan lejos como quería.\n> Cuando yo era chiquito\n> yo sí podía, yo sí podía.\n> Libertad, libertad,\n> libertad para mi niño.\n> [...]\n> Cuando yo era vejigo\n> me iba pa’l río porque era hermoso,\n> aunque estaba prohibido\n> por peligroso, por peligroso.\n> Como jagüey y ceiba,\n> como la palma y la yagruma,\n> cuando yo era vejigo\n> yo era del monte y soñaba espuma.\n> Libertad, libertad,\n> libertad para mi niño.\n\nO recurso que caracteriza essa letra de canção como um relato das memórias do eu poético é o uso de:",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O recurso que caracteriza essa letra de canção como um relato das memórias do eu poético é o uso de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "palavras no grau diminutivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "adjetivos na descrição da paisagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "vocábulos relacionados à fauna cubana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "verbos no pretérito imperfeito do indicativo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "marcas linguísticas de uma variedade caribenha.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

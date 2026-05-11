@@ -1,0 +1,46 @@
+{
+    "title": "Questão 12 - ENEM 2025",
+    "index": 12,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A narradora, ao resgatar memórias da história de vida da avó, faz uso recorrente da locução “antes de”. Esse termo colabora para a progressão temática na medida em que",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A locução “antes de” utilizada no texto tem a função de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "relacionar eventos ocorridos simultaneamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "estabelecer uma comparação entre as lembranças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ressaltar fatos que ressignificam o momento presente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "sinalizar uma sequência que denota ações consecutivas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "apresentar uma explicação para as memórias resgatadas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 23 - ENEM 2025",
+    "index": 23,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Nesse trecho, ao se referir à sua filha, o pai de Inocência reproduz os ideais românticos, presentes na",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Assinale a alternativa que indica o ideal romântico reproduzido pelo pai de Inocência ao se referir à sua filha:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "valorização do ambiente rural na formação moral da mulher.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "figura decorativa da mulher ante o protagonismo masculino.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "equivalência de origem social para a harmonia do casal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "importância do dote como condição para o casamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aura de mistério sobre a identidade da jovem.",
+            "file": null,
+            "isCorrect": true
+        }
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H1"
+}

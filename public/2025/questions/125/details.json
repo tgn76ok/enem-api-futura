@@ -1,0 +1,46 @@
+{
+    "title": "Questão 125 - ENEM 2025",
+    "index": 125,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As cangas são ambientes resultantes da atuação, ao longo de milhões de anos, de chuvas, enxurradas, calor e ventos em rochas ricas em ferro. São compostas por até 90% de óxidos de ferro e contêm solos muito ácidos, rasos, com reduzidos índices de fertilidade e temperaturas que atingem quase 70 °C na superfície. Ao contrário do que se imagina, esse tipo de ambiente abriga comunidades de plantas e animais com elevado número de espécies e distribuição restrita.\n\nA seleção adaptativa nesses ambientes favorece a ocorrência de espécies:",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Assinale a alternativa que indica o tipo de espécies favorecidas pela seleção adaptativa nas cangas:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "espécies exóticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "espécies endêmicas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "espécies migratórias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "espécies dominantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "espécies generalistas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "ecologia",
+    "competency": "C7",
+    "skill": "H12"
+}

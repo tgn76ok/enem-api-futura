@@ -1,0 +1,46 @@
+{
+    "title": "Questão 157 - ENEM 2025",
+    "index": 157,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um estudo clínico, 55 mulheres foram distribuídas, aleatoriamente, em 5 grupos de 11 pessoas. Para testar uma nova medicação, será escolhido um grupo no qual a maioria das mulheres tenha idades entre 20 e 30 anos. Os demais grupos tomarão placebo ou medicações já existentes no mercado. O quadro, parcialmente preenchido, informa alguns dados relativos às idades das mulheres desses grupos.\n\nGrupos\n\n| Grupo | Menor idade | Maior idade | Média | Mediana | Desvio padrão | Moda |\n|-------|-------------|-------------|-------|---------|---------------|------|\n| 1     | 25          | ?           | ?     | ?       | ?             | 35   |\n| 2     | ?           | 10          | 25    | ?       | ?             | ?    |\n| 3     | 9           | 25          | ?     | ?       | ?             | ?    |\n| 4     | 5           | ?           | ?     | 25      | ?             | 20   |\n| 5     | ?           | ?           | ?     | ?       | ?             | ?    |\n\nMesmo com o quadro incompleto, foi possível selecionar um desses grupos porque, apenas com os dados apresentados no quadro, foi identificado um grupo que certamente atendia ao critério de escolha (maioria das mulheres com idades entre 20 e 30 anos).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O grupo escolhido foi o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "estatistica",
+    "competency": "C7",
+    "skill": "H15"
+}

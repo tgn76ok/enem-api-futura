@@ -1,0 +1,46 @@
+{
+    "title": "Questão 155 - ENEM 2024",
+    "index": 155,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um proprietário pretende instalar um sensor de presença para a proteção de seu imóvel. O sensor deverá detectar movimentos de objetos e pessoas numa determinada região plana. A figura ilustra a vista superior da área de cobertura (setor circular em azul) de um sensor colocado no ponto S. Essa área depende da medida do ângulo α, em grau, e do raio R, em metro.\n\nAo aumentar o ângulo α ou o raio R aumenta-se a área de cobertura do sensor. Entretanto, quanto maior essa área, maior o preço do sensor.\n\nPara esse fim, há cinco tipos de sensores disponíveis no mercado, cada um com as seguintes características:\n• tipo I: α = 15° e R = 20 m;\n• tipo II: α = 30° e R = 22 m;\n• tipo III: α = 40° e R = 12 m;\n• tipo IV: α = 60° e R = 16 m;\n• tipo V: α = 90° e R = 10 m.\n\nEsse proprietário pretende adquirir um desses sensores que seja capaz de cobrir, no mínimo, uma área de medida 70 m², com o menor preço possível.\n\nUse 3 como valor aproximado para π.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O proprietário do imóvel deverá adquirir o sensor do tipo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I (α = 15°, R = 20 m)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II (α = 30°, R = 22 m)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III (α = 40°, R = 12 m)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV (α = 60°, R = 16 m)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V (α = 90°, R = 10 m)",
+            "file": null,
+            "isCorrect": true
+        }
+    ],
+    "subcategory": "funcoes-matematicas",
+    "competency": "C7",
+    "skill": "H15"
+}
