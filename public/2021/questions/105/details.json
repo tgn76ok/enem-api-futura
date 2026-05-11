@@ -36,6 +36,12 @@
             "text": null,
             "file": "https://enem.dev/2021/questions/105/b68b115c-a5ed-4665-99a7-01cdc4305c38.jpg",
             "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Nenhuma das anteriores.",
+            "file": null,
+            "isCorrect": false
         }
     ],
     "subcategory": "eletrodinamica",

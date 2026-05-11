@@ -34,6 +34,12 @@
             "text": "8 trapézios isósceles",
             "file": null,
             "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Nenhuma das anteriores.",
+            "file": null,
+            "isCorrect": false
         }
     ],
     "subcategory": "geometria-plana",

@@ -32,6 +32,12 @@
             "text": "13 183,04",
             "file": null,
             "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Nenhuma das anteriores.",
+            "file": null,
+            "isCorrect": false
         }
     ],
     "subcategory": "trabalho-energia",

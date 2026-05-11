@@ -32,6 +32,12 @@
             "text": "5",
             "file": null,
             "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
         }
     ],
     "subcategory": "funcoes",

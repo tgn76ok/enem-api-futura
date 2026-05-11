@@ -43,6 +43,12 @@
             "text": "9",
             "file": null,
             "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Nenhuma das anteriores.",
+            "file": null,
+            "isCorrect": false
         }
     ],
     "subcategory": "numeros-proporcionalidade",
