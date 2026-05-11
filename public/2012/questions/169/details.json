@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2012/questions/169/c2bcaf1c-20e6-43b6-801f-19302b2260bb.png",
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "algebra",
+    "competency": "C5",
+    "skill": "H29"
 }

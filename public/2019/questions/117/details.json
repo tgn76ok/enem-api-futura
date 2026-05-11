@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "termoquimica",
+    "competency": "C6",
+    "skill": "H29"
 }

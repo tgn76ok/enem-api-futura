@@ -42,5 +42,8 @@
             "file": null,
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "questoes-ambientais",
+    "competency": "C1",
+    "skill": "H1"
 }

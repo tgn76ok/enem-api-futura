@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2022/questions/106/b5c54736-315b-449d-8903-3122dba1753c.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "estrutura-atomica",
+    "competency": "C5",
+    "skill": "H29"
 }

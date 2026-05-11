@@ -42,5 +42,8 @@
             "file": "https://enem.dev/2023/questions/110/8366e6b5-7909-4fdd-9106-4cef546cb54b.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "equilibrio-quimico",
+    "competency": "C5",
+    "skill": "H24"
 }

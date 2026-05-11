@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2010/questions/142/f9d1e289-c5ae-4438-927c-88b7ca5f62ef.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "funcoes",
+    "competency": "C3",
+    "skill": "H10"
 }

@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "algebra",
+    "competency": "C4",
+    "skill": "H16"
 }

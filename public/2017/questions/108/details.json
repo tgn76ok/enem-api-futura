@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2017/questions/108/36bdb8ae-b187-4ae8-bc1d-21c475dc645b.jpg",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "filosofia-antiga",
+    "competency": "C1",
+    "skill": "H1"
 }

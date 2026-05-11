@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2009/questions/85/fc415de4-03a9-4fcd-a402-932ab09d25a9.jpg",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "geografia-fisica",
+    "competency": "C3",
+    "skill": "H10"
 }

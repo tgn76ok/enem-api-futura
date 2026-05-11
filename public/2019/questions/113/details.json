@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2019/questions/113/cbf0771b-53f9-45cd-a27c-d92e7bf5a0fe.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "magnetismo",
+    "competency": "C4",
+    "skill": "H16"
 }

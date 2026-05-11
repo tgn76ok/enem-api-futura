@@ -42,5 +42,8 @@
             "file": null,
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "funcoes",
+    "competency": "C3",
+    "skill": "H12"
 }

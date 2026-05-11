@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2022/questions/95/6e7b0269-ad16-4031-b9df-fecb1c4a2acb.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "eletrodinamica",
+    "competency": "C6",
+    "skill": "H24"
 }

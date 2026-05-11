@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "corpo-saude",
+    "competency": "C9",
+    "skill": "H25"
 }

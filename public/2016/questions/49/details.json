@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2016/questions/49/18d92fb3-eac0-47f2-b405-898112bbce22.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "optica",
+    "competency": "C4",
+    "skill": "H15"
 }

@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2013/questions/55/8c70acab-8fef-4ead-b349-d2a1d8b76581.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "bioquimica",
+    "competency": "C5",
+    "skill": "H24"
 }

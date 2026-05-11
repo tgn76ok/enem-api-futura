@@ -39,5 +39,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "geometria-espacial",
+    "competency": "C4",
+    "skill": "H19"
 }

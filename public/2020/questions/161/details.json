@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2020/questions/161/f2ebf7bd-9cea-4c0c-b51b-3ab66f0856b2.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "geometria-espacial",
+    "competency": "C4",
+    "skill": "H15"
 }

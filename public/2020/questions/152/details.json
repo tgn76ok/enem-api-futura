@@ -42,5 +42,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "hidrostatica",
+    "competency": "C4",
+    "skill": "H16"
 }

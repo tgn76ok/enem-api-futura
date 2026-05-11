@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2013/questions/72/3cafe3f7-385f-46c8-b0e3-8d6c9691c84d.png",
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "hidrostatica",
+    "competency": "C5",
+    "skill": "H24"
 }

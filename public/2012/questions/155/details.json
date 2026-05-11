@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "leitura-graficos-tabelas",
+    "competency": "C3",
+    "skill": "H10"
 }

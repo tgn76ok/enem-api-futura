@@ -39,5 +39,8 @@
             "file": null,
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "industrializacao",
+    "competency": "C4",
+    "skill": "H20"
 }

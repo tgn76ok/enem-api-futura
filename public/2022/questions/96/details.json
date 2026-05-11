@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2022/questions/96/ff6f131d-afb1-4c4b-a8d4-f1f201170062.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "eletrostatica",
+    "competency": "C4",
+    "skill": "H16"
 }

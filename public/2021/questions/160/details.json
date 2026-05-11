@@ -39,5 +39,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "algebra",
+    "competency": "C3",
+    "skill": "H10"
 }

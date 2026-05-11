@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2017/questions/136/07869d30-eb4d-4450-a76a-ea0654e459f8.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "matematica-financeira",
+    "competency": "C6",
+    "skill": "H24"
 }

@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "urbanizacao",
+    "competency": "C4",
+    "skill": "H16"
 }

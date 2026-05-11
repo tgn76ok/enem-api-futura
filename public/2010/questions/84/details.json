@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2010/questions/84/3302afe8-7fca-45b0-b1c3-59e696c5865f.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "optica",
+    "competency": "C4",
+    "skill": "H12"
 }

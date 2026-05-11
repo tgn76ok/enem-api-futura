@@ -3,7 +3,7 @@
     "index": 180,
     "year": 2013,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "matematica",
     "context": "![](https://enem.dev/2013/questions/180/a6d3cee1-2e6e-4bdd-974c-c780c2c728fe.png)",
     "files": [
         "https://enem.dev/2013/questions/180/a6d3cee1-2e6e-4bdd-974c-c780c2c728fe.png"
@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2013/questions/180/fc9505d9-3e46-403f-9665-1650f7767ec6.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "geometria-plana",
+    "competency": "C1",
+    "skill": "H1"
 }

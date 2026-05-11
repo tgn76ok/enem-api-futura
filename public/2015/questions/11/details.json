@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "historia-medieval",
+    "competency": "C3",
+    "skill": "H10"
 }

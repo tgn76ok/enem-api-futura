@@ -42,5 +42,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "geometria-plana",
+    "competency": "C4",
+    "skill": "H16"
 }

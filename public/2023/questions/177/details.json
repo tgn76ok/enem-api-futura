@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2023/questions/177/0624eace-e934-40dc-895c-a505c0c9f183.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "trigonometria",
+    "competency": "C4",
+    "skill": "H15"
 }

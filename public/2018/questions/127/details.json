@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "genetica",
+    "competency": "C6",
+    "skill": "H29"
 }

@@ -39,5 +39,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "grandezas-medidas",
+    "competency": "C5",
+    "skill": "H16"
 }

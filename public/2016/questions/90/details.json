@@ -3,7 +3,7 @@
     "index": 90,
     "year": 2016,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "ciencias-natureza",
     "context": null,
     "files": [],
     "correctAlternative": "E",
@@ -39,5 +39,8 @@
             "file": null,
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "bioquimica",
+    "competency": "C1",
+    "skill": "H1"
 }

@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2015/questions/154/4905391e-89e5-4c92-b16b-8c709883a102.png",
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "algebra",
+    "competency": "C3",
+    "skill": "H10"
 }

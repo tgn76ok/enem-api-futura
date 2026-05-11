@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2010/questions/100/3f6fed9e-14d8-46a4-b15b-91f7b75d4e5f.jpg",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "artes-visuais",
+    "competency": "C8",
+    "skill": "H25"
 }

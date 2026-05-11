@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2020/questions/113/da16bf97-bac6-407f-b7b9-813cfd8c39d0.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "cinematica",
+    "competency": "C2",
+    "skill": "H4"
 }

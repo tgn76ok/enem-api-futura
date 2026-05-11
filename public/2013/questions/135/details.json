@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C1",
+    "skill": "H2"
 }

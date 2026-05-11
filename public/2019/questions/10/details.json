@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "funcoes-da-linguagem",
+    "competency": "C6",
+    "skill": "H14"
 }

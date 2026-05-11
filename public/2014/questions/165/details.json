@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2014/questions/165/f3c38b54-c09a-429b-ba43-e4e735a5c9f0.bmp",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "grandezas-medidas",
+    "competency": "C2",
+    "skill": "H10"
 }

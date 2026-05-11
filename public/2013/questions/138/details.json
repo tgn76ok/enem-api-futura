@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2013/questions/138/e3ac6ce3-9ba0-4cf0-b0d7-bdc11bca203c.bmp",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "funcoes",
+    "competency": "C3",
+    "skill": "H14"
 }

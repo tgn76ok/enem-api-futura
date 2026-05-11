@@ -42,5 +42,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "estatistica",
+    "competency": "C5",
+    "skill": "H20"
 }

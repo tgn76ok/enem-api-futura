@@ -39,5 +39,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "quimica-organica",
+    "competency": "C7",
+    "skill": "H16"
 }

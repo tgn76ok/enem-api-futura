@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "fisiologia-humana",
+    "competency": "C7",
+    "skill": "H18"
 }

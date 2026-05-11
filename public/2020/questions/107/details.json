@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "mecanica",
+    "competency": "C3",
+    "skill": "H5"
 }

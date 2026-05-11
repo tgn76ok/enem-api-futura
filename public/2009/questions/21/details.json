@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2009/questions/21/a7fa1fd3-06fa-488f-8389-b8dd42eef74e.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "fisiologia-humana",
+    "competency": "C5",
+    "skill": "H18"
 }

@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2013/questions/58/6abc6fe2-a2e1-4b92-8bcb-91c6b7d1dc59.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "citologia",
+    "competency": "C5",
+    "skill": "H18"
 }

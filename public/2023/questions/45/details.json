@@ -39,5 +39,8 @@
             "file": null,
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "interpretacao-textual",
+    "competency": "C3",
+    "skill": "H10"
 }

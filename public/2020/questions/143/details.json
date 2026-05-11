@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "analise-combinatoria",
+    "competency": "C6",
+    "skill": "H19"
 }

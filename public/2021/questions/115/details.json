@@ -49,5 +49,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "termologia",
+    "competency": "C5",
+    "skill": "H24"
 }

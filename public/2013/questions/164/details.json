@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2013/questions/164/c419ee0c-1323-40b2-9161-666cae5345d2.png",
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "geometria-plana",
+    "competency": "C4",
+    "skill": "H12"
 }

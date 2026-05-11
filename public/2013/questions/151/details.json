@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2013/questions/151/d362f4ac-dda0-4c50-9c5b-8cd7582bfe09.png",
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "geometria-analitica",
+    "competency": "C4",
+    "skill": "H16"
 }

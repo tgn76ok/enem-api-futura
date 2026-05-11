@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "cinematica",
+    "competency": "C6",
+    "skill": "H10"
 }

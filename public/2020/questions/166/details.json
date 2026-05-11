@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2020/questions/166/e96561ab-4696-4165-bb85-dba7f6650dec.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "leitura-graficos-tabelas",
+    "competency": "C7",
+    "skill": "H29"
 }

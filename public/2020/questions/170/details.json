@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2020/questions/170/ffbeb7f2-cdbe-4f49-8acd-939a629ec5fc.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "matematica-financeira",
+    "competency": "C4",
+    "skill": "H18"
 }

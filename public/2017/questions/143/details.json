@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "analise-combinatoria",
+    "competency": "C5",
+    "skill": "H29"
 }

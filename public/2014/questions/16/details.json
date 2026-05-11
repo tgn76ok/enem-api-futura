@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2014/questions/16/c56d2864-d05d-47e8-8f52-828fb4ee72ec.jpg",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "cultura-memoria",
+    "competency": "C5",
+    "skill": "H24"
 }

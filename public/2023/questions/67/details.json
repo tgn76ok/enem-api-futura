@@ -39,5 +39,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "agropecuaria",
+    "competency": "C5",
+    "skill": "H24"
 }

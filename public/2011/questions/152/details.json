@@ -3,7 +3,7 @@
     "index": 152,
     "year": 2011,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "matematica",
     "context": "As frutas que antes se compravam por dúzias, hoje em dia, podem ser compradas por quilogramas, existindo também a variação dos preços de acordo com a época de produção. Considere que, independente da época ou variação de preço, certa fruta custa R$ 1,75 o quilograma.",
     "files": [],
     "correctAlternative": "E",
@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2011/questions/152/4b1fa83c-c27c-40ce-8fc4-254e78e70c0b.png",
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "funcoes",
+    "competency": "C5",
+    "skill": "H29"
 }

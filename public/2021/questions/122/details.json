@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "quimica-ambiental",
+    "competency": "C7",
+    "skill": "H29"
 }

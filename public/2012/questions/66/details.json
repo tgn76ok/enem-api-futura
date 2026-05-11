@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2012/questions/66/fa900048-a372-4e92-ba9a-e9605c53ab3b.jpg",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "quimica-organica",
+    "competency": "C6",
+    "skill": "H24"
 }

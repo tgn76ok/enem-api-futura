@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "cartografia",
+    "competency": "C4",
+    "skill": "H16"
 }

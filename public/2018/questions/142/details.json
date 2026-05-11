@@ -43,5 +43,8 @@
             "file": "https://enem.dev/2018/questions/142/1f581f02-617c-46ec-8e9d-dca345861942.png",
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "mecanica",
+    "competency": "C3",
+    "skill": "H10"
 }

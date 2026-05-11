@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2020/questions/142/c1567e92-2b0f-4ee8-9b31-81dc1cdc1be6.png",
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "probabilidade",
+    "competency": "C6",
+    "skill": "H29"
 }

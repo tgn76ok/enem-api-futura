@@ -3,7 +3,7 @@
     "index": 110,
     "year": 2010,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
     "context": "![](https://enem.dev/2010/questions/110/7859a216-d85e-4f5d-b326-bc72cbef3815.jpg)",
     "files": [
         "https://enem.dev/2010/questions/110/7859a216-d85e-4f5d-b326-bc72cbef3815.jpg"
@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "praticas-corporais",
+    "competency": "C6",
+    "skill": "H24"
 }

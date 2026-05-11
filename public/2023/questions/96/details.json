@@ -3,7 +3,7 @@
     "index": 96,
     "year": 2023,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "ciencias-natureza",
     "context": null,
     "files": [],
     "correctAlternative": "D",
@@ -39,5 +39,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "estequiometria",
+    "competency": "C1",
+    "skill": "H1"
 }

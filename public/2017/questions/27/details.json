@@ -39,5 +39,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "vocabulario-em-contexto",
+    "competency": "C5",
+    "skill": "H14"
 }

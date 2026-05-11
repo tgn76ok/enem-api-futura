@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "parasitologia-saude",
+    "competency": "C5",
+    "skill": "H18"
 }

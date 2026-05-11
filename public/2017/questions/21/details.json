@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2017/questions/21/154e689a-5a77-4bfd-bfb8-0e2a86097c72.jpg",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "escolas-literarias",
+    "competency": "C5",
+    "skill": "H24"
 }

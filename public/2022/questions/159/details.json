@@ -47,5 +47,8 @@
             "file": "https://enem.dev/2022/questions/159/a9fa3b63-1dae-4542-9b0f-4338e80df580.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "numeros-proporcionalidade",
+    "competency": "C3",
+    "skill": "H10"
 }

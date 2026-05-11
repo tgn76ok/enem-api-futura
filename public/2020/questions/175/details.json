@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2020/questions/175/f718a2fc-7a30-4e17-b4b3-28dfb028a6f5.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "leitura-graficos-tabelas",
+    "competency": "C5",
+    "skill": "H24"
 }

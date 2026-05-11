@@ -42,5 +42,8 @@
             "file": null,
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "optica",
+    "competency": "C7",
+    "skill": "H29"
 }

@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2021/questions/126/d9e73712-b6a3-4e5d-afd8-ce5a8cfa379f.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "eletroquimica",
+    "competency": "C6",
+    "skill": "H24"
 }

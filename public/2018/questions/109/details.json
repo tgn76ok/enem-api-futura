@@ -44,5 +44,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "cinetica-quimica",
+    "competency": "C6",
+    "skill": "H23"
 }

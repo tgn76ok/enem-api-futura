@@ -43,5 +43,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "numeros-proporcionalidade",
+    "competency": "C3",
+    "skill": "H4"
 }

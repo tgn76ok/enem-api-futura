@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2016/questions/17/69076e28-d25a-44cf-a978-ab71c827c13e.jpg",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "cartografia",
+    "competency": "C4",
+    "skill": "H12"
 }

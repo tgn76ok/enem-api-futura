@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "trigonometria",
+    "competency": "C4",
+    "skill": "H12"
 }

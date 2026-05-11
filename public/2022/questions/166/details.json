@@ -35,5 +35,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "funcoes",
+    "competency": "C5",
+    "skill": "H16"
 }

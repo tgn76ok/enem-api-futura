@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "dinamica",
+    "competency": "C3",
+    "skill": "H6"
 }

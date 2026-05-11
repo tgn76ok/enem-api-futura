@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2017/questions/175/744d3069-d18a-4930-9697-45171bee53b2.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "probabilidade",
+    "competency": "C6",
+    "skill": "H25"
 }

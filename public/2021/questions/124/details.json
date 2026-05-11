@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "eletroquimica",
+    "competency": "C6",
+    "skill": "H25"
 }

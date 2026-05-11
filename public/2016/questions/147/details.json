@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2016/questions/147/3f06a01b-fdec-4bb2-affb-45cf27b74bfd.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "analise-combinatoria",
+    "competency": "C6",
+    "skill": "H29"
 }

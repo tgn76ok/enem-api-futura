@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "escolas-literarias",
+    "competency": "C5",
+    "skill": "H14"
 }

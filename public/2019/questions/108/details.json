@@ -39,5 +39,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "ligacoes-quimicas",
+    "competency": "C5",
+    "skill": "H16"
 }

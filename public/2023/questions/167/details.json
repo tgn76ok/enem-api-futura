@@ -39,5 +39,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "numeros-proporcionalidade",
+    "competency": "C6",
+    "skill": "H12"
 }

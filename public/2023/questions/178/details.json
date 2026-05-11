@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2023/questions/178/7ebc0f53-95db-497b-bc23-30cf64649c3a.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "funcoes",
+    "competency": "C3",
+    "skill": "H12"
 }

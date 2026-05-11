@@ -43,5 +43,8 @@
             "file": "https://enem.dev/2018/questions/128/c7002ed9-1acb-47ef-b652-132264c0402f.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "cinematica",
+    "competency": "C3",
+    "skill": "H10"
 }

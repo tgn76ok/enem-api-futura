@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2012/questions/78/75781572-77f0-459a-b554-17642fa454d9.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "dinamica",
+    "competency": "C4",
+    "skill": "H16"
 }

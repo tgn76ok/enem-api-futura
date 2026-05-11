@@ -42,5 +42,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "ondulatoria",
+    "competency": "C4",
+    "skill": "H15"
 }

@@ -39,5 +39,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "estequiometria",
+    "competency": "C7",
+    "skill": "H20"
 }

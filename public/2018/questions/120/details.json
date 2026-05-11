@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "eletrodinamica",
+    "competency": "C6",
+    "skill": "H29"
 }

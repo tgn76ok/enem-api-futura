@@ -39,5 +39,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "fisiologia-humana",
+    "competency": "C8",
+    "skill": "H29"
 }

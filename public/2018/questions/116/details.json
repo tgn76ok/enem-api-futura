@@ -45,5 +45,8 @@
             "file": "https://enem.dev/2018/questions/116/85dd2cd6-fc8f-4f02-802f-7a0b7d0533c1.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "bioquimica",
+    "competency": "C6",
+    "skill": "H29"
 }

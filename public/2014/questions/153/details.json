@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "matematica-financeira",
+    "competency": "C4",
+    "skill": "H25"
 }

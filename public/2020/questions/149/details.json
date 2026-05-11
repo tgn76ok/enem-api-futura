@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2020/questions/149/4f3b7abd-f603-4692-9c84-7db33533c78c.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "funcoes",
+    "competency": "C4",
+    "skill": "H16"
 }

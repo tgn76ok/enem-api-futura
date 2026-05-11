@@ -3,7 +3,7 @@
     "index": 147,
     "year": 2011,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "matematica",
     "context": "![](https://enem.dev/2011/questions/147/2391aaed-b47a-4b2e-bb7f-4208c8cf56d4.png)",
     "files": [
         "https://enem.dev/2011/questions/147/2391aaed-b47a-4b2e-bb7f-4208c8cf56d4.png"
@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "geometria-espacial",
+    "competency": "C1",
+    "skill": "H1"
 }

@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2023/questions/168/adeb932f-030f-4190-9b20-33a4a5f968f5.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "probabilidade",
+    "competency": "C6",
+    "skill": "H25"
 }

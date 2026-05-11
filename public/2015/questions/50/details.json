@@ -42,5 +42,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "optica",
+    "competency": "C5",
+    "skill": "H24"
 }

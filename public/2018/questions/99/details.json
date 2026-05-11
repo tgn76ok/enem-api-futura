@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2018/questions/99/8de912e3-67b5-430a-8408-165fc86858ac.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "quimica-ambiental",
+    "competency": "C6",
+    "skill": "H29"
 }

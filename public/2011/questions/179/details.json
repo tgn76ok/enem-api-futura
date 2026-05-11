@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2011/questions/179/949bee07-2abc-4dfc-8b47-1e012203652e.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "matematica-financeira",
+    "competency": "C4",
+    "skill": "H16"
 }

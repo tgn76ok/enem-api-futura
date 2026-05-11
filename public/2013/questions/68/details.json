@@ -41,5 +41,8 @@
             "file": "https://enem.dev/2013/questions/68/5a61ddab-1a34-4e3e-bc93-dd4173432d86.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "ligacoes-quimicas",
+    "competency": "C5",
+    "skill": "H24"
 }

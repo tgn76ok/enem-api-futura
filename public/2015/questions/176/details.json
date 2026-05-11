@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2015/questions/176/737b6f37-f58a-43c5-99e0-0dea2e316b4b.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "leitura-graficos-tabelas",
+    "competency": "C5",
+    "skill": "H29"
 }

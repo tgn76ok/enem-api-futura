@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "grandezas-medidas",
+    "competency": "C4",
+    "skill": "H9"
 }

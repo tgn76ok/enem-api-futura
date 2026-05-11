@@ -41,5 +41,8 @@
             "file": null,
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "eletrostatica",
+    "competency": "C4",
+    "skill": "H15"
 }

@@ -39,5 +39,8 @@
             "file": null,
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "relacoes-texto-contexto",
+    "competency": "C8",
+    "skill": "H29"
 }

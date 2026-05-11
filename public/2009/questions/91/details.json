@@ -39,5 +39,8 @@
             "file": "https://enem.dev/2009/questions/91/151cb81f-9bf4-4bea-ae04-790125cf0fb1.png",
             "isCorrect": false
         }
-    ]
+    ],
+    "subcategory": "escolas-literarias",
+    "competency": "C9",
+    "skill": "H25"
 }

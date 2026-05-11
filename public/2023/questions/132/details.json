@@ -42,5 +42,8 @@
             "file": "https://enem.dev/2023/questions/132/cba38af9-964d-43be-8f6a-3c1def3c9b39.jpg",
             "isCorrect": true
         }
-    ]
+    ],
+    "subcategory": "grandezas-medidas",
+    "competency": "C3",
+    "skill": "H10"
 }
