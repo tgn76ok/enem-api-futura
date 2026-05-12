@@ -1,0 +1,592 @@
+{
+  "info": {
+    "name": "ENEM API Futura",
+    "description": "Coleção completa para testar a ENEM API. Use a variável `base_url` para trocar entre local e produção.",
+    "_postman_id": "enem-api-futura-v1",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "http://localhost:3000",
+      "type": "string",
+      "description": "Trocar para a URL de produção quando necessário"
+    },
+    {
+      "key": "year",
+      "value": "2023",
+      "type": "string"
+    },
+    {
+      "key": "index",
+      "value": "1",
+      "type": "string"
+    }
+  ],
+  "item": [
+    {
+      "name": "Spec / Docs",
+      "item": [
+        {
+          "name": "GET OpenAPI Spec",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1",
+              "host": ["{{base_url}}"],
+              "path": ["v1"]
+            },
+            "description": "Retorna a especificação OpenAPI completa da API."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Exams",
+      "item": [
+        {
+          "name": "GET Listar todos os exames",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams"]
+            },
+            "description": "Lista todos os anos disponíveis (2009–2023)."
+          }
+        },
+        {
+          "name": "GET Detalhes de um exame",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}"]
+            },
+            "description": "Retorna metadados do exame de um ano: lista de questões (index + discipline), idiomas disponíveis etc."
+          }
+        },
+        {
+          "name": "GET Detalhes — ano inválido (erro 404)",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/1999",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "1999"]
+            },
+            "description": "Espera 404 not_found."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Questions — Filtros",
+      "item": [
+        {
+          "name": "GET Questões — sem filtro (paginação padrão)",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?limit=10&offset=0",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "limit", "value": "10" },
+                { "key": "offset", "value": "0" }
+              ]
+            },
+            "description": "Primeiras 10 questões do exame. Resposta inclui metadata.total e hasMore."
+          }
+        },
+        {
+          "name": "GET Questões — página 2",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?limit=10&offset=10",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "limit", "value": "10" },
+                { "key": "offset", "value": "10" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "GET Filtro: discipline = matematica",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?discipline=matematica&limit=10&offset=0",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "discipline", "value": "matematica" },
+                { "key": "limit", "value": "10" },
+                { "key": "offset", "value": "0" }
+              ]
+            },
+            "description": "Todas as questões de matemática do ano. Deve retornar ~45 questões."
+          }
+        },
+        {
+          "name": "GET Filtro: discipline = ciencias-humanas",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?discipline=ciencias-humanas&limit=20&offset=0",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "discipline", "value": "ciencias-humanas" },
+                { "key": "limit", "value": "20" },
+                { "key": "offset", "value": "0" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "GET Filtro: discipline = ciencias-natureza",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?discipline=ciencias-natureza&limit=20&offset=0",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "discipline", "value": "ciencias-natureza" },
+                { "key": "limit", "value": "20" },
+                { "key": "offset", "value": "0" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "GET Filtro: discipline = linguagens",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?discipline=linguagens&limit=20&offset=0",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "discipline", "value": "linguagens" },
+                { "key": "limit", "value": "20" },
+                { "key": "offset", "value": "0" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "GET Filtro: subcategory = geometria-plana",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?subcategory=geometria-plana&limit=10&offset=0",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "subcategory", "value": "geometria-plana" },
+                { "key": "limit", "value": "10" },
+                { "key": "offset", "value": "0" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "GET Filtro: subcategory = interpretacao-textual",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?subcategory=interpretacao-textual&limit=10&offset=0",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "subcategory", "value": "interpretacao-textual" },
+                { "key": "limit", "value": "10" },
+                { "key": "offset", "value": "0" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "GET Filtro: subcategory = evolucao",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?subcategory=evolucao&limit=10&offset=0",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "subcategory", "value": "evolucao" },
+                { "key": "limit", "value": "10" },
+                { "key": "offset", "value": "0" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "GET Filtro: subcategory = matematica-financeira",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?subcategory=matematica-financeira&limit=10&offset=0",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "subcategory", "value": "matematica-financeira" },
+                { "key": "limit", "value": "10" },
+                { "key": "offset", "value": "0" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "GET Filtro: competency = C3",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?competency=C3&limit=10&offset=0",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "competency", "value": "C3" },
+                { "key": "limit", "value": "10" },
+                { "key": "offset", "value": "0" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "GET Filtro: skill = H14",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?skill=H14&limit=10&offset=0",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "skill", "value": "H14" },
+                { "key": "limit", "value": "10" },
+                { "key": "offset", "value": "0" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "GET Filtros combinados: discipline + subcategory",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?discipline=matematica&subcategory=estatistica&limit=10&offset=0",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "discipline", "value": "matematica" },
+                { "key": "subcategory", "value": "estatistica" },
+                { "key": "limit", "value": "10" },
+                { "key": "offset", "value": "0" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "GET Filtros combinados: discipline + competency + skill",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?discipline=ciencias-humanas&competency=C3&skill=H14&limit=10&offset=0",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "discipline", "value": "ciencias-humanas" },
+                { "key": "competency", "value": "C3" },
+                { "key": "skill", "value": "H14" },
+                { "key": "limit", "value": "10" },
+                { "key": "offset", "value": "0" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "GET Filtros combinados: subcategory + competency + skill",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?subcategory=quimica-organica&competency=C5&skill=H18&limit=10&offset=0",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "subcategory", "value": "quimica-organica" },
+                { "key": "competency", "value": "C5" },
+                { "key": "skill", "value": "H18" },
+                { "key": "limit", "value": "10" },
+                { "key": "offset", "value": "0" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "GET Língua estrangeira = inglês",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?language=ingles&limit=10&offset=0",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "language", "value": "ingles" },
+                { "key": "limit", "value": "10" },
+                { "key": "offset", "value": "0" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "GET Língua estrangeira = espanhol",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?language=espanhol&limit=10&offset=0",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "language", "value": "espanhol" },
+                { "key": "limit", "value": "10" },
+                { "key": "offset", "value": "0" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "GET limit máximo = 50",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?limit=50&offset=0",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "limit", "value": "50" },
+                { "key": "offset", "value": "0" }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Questions — Erros",
+      "item": [
+        {
+          "name": "ERRO: limit > 50 (400)",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?limit=100",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "limit", "value": "100" }
+              ]
+            },
+            "description": "Espera 400 bad_request: Limit cannot be greater than 50."
+          }
+        },
+        {
+          "name": "ERRO: subcategory inválida (400)",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?subcategory=biologia-molecular",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "subcategory", "value": "biologia-molecular" }
+              ]
+            },
+            "description": "Slug que não existe na taxonomia. Espera 400 (Zod enum validation)."
+          }
+        },
+        {
+          "name": "ERRO: discipline inválida (400)",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?discipline=fisica",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "discipline", "value": "fisica" }
+              ]
+            },
+            "description": "\"fisica\" não é uma discipline válida (use ciencias-natureza). Espera 400."
+          }
+        },
+        {
+          "name": "ERRO: language inválida (400)",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions?language=frances",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions"],
+              "query": [
+                { "key": "language", "value": "frances" }
+              ]
+            },
+            "description": "Espera 400: Language frances not found in exam."
+          }
+        },
+        {
+          "name": "ERRO: ano não existe (404)",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/2024/questions",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "2024", "questions"]
+            },
+            "description": "Espera 404 not_found."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Question — Detalhe individual",
+      "item": [
+        {
+          "name": "GET Questão por índice",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions/{{index}}",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions", "{{index}}"]
+            },
+            "description": "Retorna todos os campos: context, files, correctAlternative, alternativesIntroduction, alternatives[], subcategory, competency, skill."
+          }
+        },
+        {
+          "name": "GET Questão — inglês",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions/{{index}}?language=ingles",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions", "{{index}}"],
+              "query": [
+                { "key": "language", "value": "ingles" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "GET Questão — espanhol",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions/{{index}}?language=espanhol",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions", "{{index}}"],
+              "query": [
+                { "key": "language", "value": "espanhol" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "GET Questão corrigida — 2011 #147 (era ciencias-humanas, agora matematica/geometria-espacial)",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/2011/questions/147",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "2011", "questions", "147"]
+            },
+            "description": "Verificar: discipline=matematica, subcategory=geometria-espacial. Era classificada errado como ciencias-humanas."
+          }
+        },
+        {
+          "name": "GET Questão corrigida — 2013 #53 (era ciencias-humanas, agora ciencias-natureza/fisiologia-humana)",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/2013/questions/53",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "2013", "questions", "53"]
+            },
+            "description": "Verificar: discipline=ciencias-natureza, subcategory=fisiologia-humana."
+          }
+        },
+        {
+          "name": "GET Questão corrigida — 2022 #144 (era sem subcategory, agora matematica/numeros-proporcionalidade)",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/2022/questions/144",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "2022", "questions", "144"]
+            },
+            "description": "Verificar: subcategory=numeros-proporcionalidade (dígito verificador bancário)."
+          }
+        },
+        {
+          "name": "ERRO: questão não existe (404)",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/questions/999",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "questions", "999"]
+            },
+            "description": "Espera 404 not_found."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Subcategories",
+      "item": [
+        {
+          "name": "GET Subcategorias de um ano",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/{{year}}/subcategories",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "{{year}}", "subcategories"]
+            },
+            "description": "Lista todas as subcategorias presentes no exame, com count e discipline. Ordenado por count desc."
+          }
+        },
+        {
+          "name": "GET Subcategorias — 2009 (formato unificado)",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/2009/subcategories",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "2009", "subcategories"]
+            }
+          }
+        },
+        {
+          "name": "GET Subcategorias — 2023",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/v1/exams/2023/subcategories",
+              "host": ["{{base_url}}"],
+              "path": ["v1", "exams", "2023", "subcategories"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

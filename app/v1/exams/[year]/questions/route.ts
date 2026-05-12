@@ -93,9 +93,10 @@ export async function GET(
             total = filtered.length;
             questions = filtered.slice(Number(offset), Number(offset) + Number(limit));
         } else {
-            const questionsToFetch = languageFiltered
-                .filter(question => question.index >= Number(offset))
-                .filter(question => question.index <= Number(offset) + Number(limit));
+            const questionsToFetch = languageFiltered.slice(
+                Number(offset),
+                Number(offset) + Number(limit),
+            );
 
             for (const question of questionsToFetch) {
                 const questionDetails = await getQuestionDetails({

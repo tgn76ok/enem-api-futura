@@ -7,40 +7,48 @@ export const VALID_DISCIPLINES = [
     'matematica',
 ] as const;
 
+// Taxonomia canônica — alinhada com scripts/classify-questions.ts (DISCIPLINE_CONFIG)
 export const VALID_SUBCATEGORIES = [
-    'agropecuaria', 'algebra', 'analise-literaria', 'argumentacao',
-    'artes-e-cultura', 'artes-visuais', 'biologia-ecologia', 'biologia-microbiologia',
-    'biologia-molecular', 'biologia-olhos-e-visao', 'biologia-zoologia', 'botanica',
-    'cidadania', 'corpo-saude', 'cultura-identidade', 'cultura-memoria',
-    'demografia', 'direito-agrario', 'diversidade-cultural', 'ecologia',
-    'ecologia-adaptacoes', 'eletrodinamica', 'eletrostatica', 'escolas-literarias',
-    'esporte', 'estado-poder-politica', 'estatistica', 'estrutura-atomica',
-    'filosofia', 'filosofia-contemporanea', 'filosofia-do-direito', 'filosofia-etica',
-    'filosofia-modernos', 'fisica', 'fisica-atomica', 'fisica-eletricidade',
-    'fisica-eletromagnetismo', 'fisica-mecanica', 'fisica-moderna', 'fisica-ondas',
-    'fisica-termica', 'fisica-termologia', 'fisiologia', 'fisiologia-muscular',
-    'funcoes', 'funcoes-da-linguagem', 'funcoes-inorganicas', 'funcoes-matematicas',
-    'generos-textuais', 'genetica', 'geografia-agropecuaria', 'geografia-fisica',
-    'geografia-humana', 'geografia-politica', 'geografia-urbana', 'geografia-urbana-e-regional',
-    'geologia-e-meio-ambiente', 'geometria', 'gramatica-contextualizada', 'grandezas-medidas',
-    'historia-america-latina', 'historia-cultural', 'historia-da-cultura-popular',
-    'historia-da-educacao', 'historia-da-politica', 'historia-do-brasil',
+    // Matemática
+    'numeros-proporcionalidade', 'algebra', 'funcoes', 'geometria-plana', 'geometria-espacial',
+    'geometria-analitica', 'trigonometria', 'grandezas-medidas', 'estatistica', 'probabilidade',
+    'analise-combinatoria', 'matematica-financeira', 'leitura-graficos-tabelas',
+    // Física
+    'mecanica', 'cinematica', 'dinamica', 'trabalho-energia', 'hidrostatica', 'termologia',
+    'termodinamica', 'optica', 'ondulatoria', 'eletrostatica', 'eletrodinamica', 'magnetismo',
+    'fisica-moderna',
+    // Química
+    'estrutura-atomica', 'tabela-periodica', 'ligacoes-quimicas', 'funcoes-inorganicas',
+    'estequiometria', 'solucoes', 'termoquimica', 'cinetica-quimica', 'equilibrio-quimico',
+    'eletroquimica', 'quimica-organica', 'quimica-ambiental',
+    // Biologia
+    'citologia', 'bioquimica', 'genetica', 'evolucao', 'ecologia', 'fisiologia-humana',
+    'parasitologia-saude', 'biotecnologia', 'botanica', 'zoologia',
+    // História
+    'historia-antiga', 'historia-medieval', 'historia-moderna', 'historia-contemporanea',
     'historia-do-brasil-colonia', 'historia-do-brasil-imperio', 'historia-do-brasil-republica',
-    'historia-dos-direitos-humanos', 'historia-geral', 'identidade-cultural',
-    'impactos-ambientais-na-agricultura', 'imunologia', 'interpretacao-de-dados',
-    'interpretacao-em-lem', 'interpretacao-grafica', 'interpretacao-textual',
-    'leitura-graficos-tabelas', 'lingua-estrangeira', 'linguagem-oral',
-    'linguagens-midiaticas', 'literatura', 'matematica-analise-de-dados',
-    'matematica-analise-dimensional', 'matematica-financeira', 'media-aritmetica',
-    'modernismo', 'movimentos-sociais-cidadania', 'musica', 'norma-padrao',
-    'numeracao-e-sistemas-de-numeracao', 'numeros-proporcionalidade', 'ondulatoria',
-    'operacoes-basicas', 'parasitologia-saude', 'poesia', 'politica',
-    'politicas-publicas', 'politicas-publicas-e-direitos-humanos', 'porcentagem-e-razoes',
-    'proporcionalidade-regra-de-tres', 'questoes-ambientais', 'quimica-analitica',
-    'quimica-estequiometria', 'quimica-fisica', 'quimica-inorganica', 'quimica-nuclear',
-    'quimica-organica', 'raciocinio-logico', 'relacoes-internacionais',
-    'religioes-afro-brasileiras', 'sociologia', 'trabalho', 'trabalho-energia',
-    'trigonometria', 'variedades-linguisticas', 'virologia', 'vocabulario-em-contexto',
+    'movimentos-sociais-cidadania', 'cultura-memoria',
+    // Geografia
+    'cartografia', 'geografia-fisica', 'geopolitica', 'demografia', 'urbanizacao',
+    'industrializacao', 'agropecuaria', 'questoes-ambientais', 'globalizacao',
+    // Filosofia
+    'filosofia-antiga', 'filosofia-moderna', 'filosofia-contemporanea', 'etica', 'politica',
+    'epistemologia',
+    // Sociologia
+    'cultura-identidade', 'cidadania', 'movimentos-sociais', 'trabalho', 'desigualdade-social',
+    'estado-poder-politica',
+    // Língua Portuguesa
+    'interpretacao-textual', 'generos-textuais', 'funcoes-da-linguagem', 'variacao-linguistica',
+    'gramatica-contextualizada', 'argumentacao', 'linguagens-midiaticas',
+    // Literatura
+    'escolas-literarias', 'analise-literaria', 'modernismo', 'poesia', 'prosa',
+    'relacoes-texto-contexto',
+    // Artes
+    'artes-visuais', 'musica', 'teatro', 'danca', 'patrimonio-cultural',
+    // Educação Física
+    'corpo-saude', 'esporte', 'praticas-corporais', 'inclusao-corporal', 'lazer-cultura-corporal',
+    // Língua Estrangeira
+    'interpretacao-em-lem', 'vocabulario-em-contexto', 'generos-em-lem', 'diversidade-cultural',
 ] as const;
 
 export const QuestionIndexPath = z.string().openapi({
@@ -215,10 +223,10 @@ export const GetQuestionsQuerySchema = z.object({
         .describe('Filtrar por disciplina (linguagens, ciencias-humanas, ciencias-natureza, matematica)')
         .openapi({ example: 'matematica' }),
     subcategory: z
-        .string()
+        .enum(VALID_SUBCATEGORIES)
         .optional()
-        .describe('Filtrar por subcategoria canônica (ex: historia-geral, biologia-molecular, geometria)')
-        .openapi({ example: 'historia-geral' }),
+        .describe('Filtrar por subcategoria canônica (ex: historia-moderna, geometria-plana)')
+        .openapi({ example: 'historia-moderna' }),
     competency: z
         .string()
         .optional()
