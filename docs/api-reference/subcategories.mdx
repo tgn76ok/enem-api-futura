@@ -1,0 +1,73 @@
+---
+title: 'Subcategorias'
+description: 'Mapeamento completo das subcategorias do ENEM para uso no front-end'
+---
+
+A API do ENEM utiliza slugs canônicos para identificar as subcategorias de cada questão (ex: `historia-geral`, `biologia-molecular`). Para exibir esses dados de forma amigável no front-end, disponibilizamos um arquivo de constantes com o mapeamento completo.
+
+## Arquivo de Constantes
+
+O arquivo `lib/constants/subcategories.ts` contém o mapeamento de todos os 120 slugs canônicos para seus respectivos nomes legíveis (`label`) e disciplinas associadas (`discipline`).
+
+### Como utilizar no Front-end
+
+Você pode importar as funções utilitárias diretamente nos seus componentes React/Next.js:
+
+```typescript
+import { getSubcategoryInfo, getSubcategoriesByDiscipline } from '@/lib/constants/subcategories';
+
+// 1. Obter informações de uma subcategoria específica
+const info = getSubcategoryInfo('historia-do-brasil-imperio');
+console.log(info.label); // "História do Brasil — Império"
+console.log(info.discipline); // "ciencias-humanas"
+
+// 2. Listar todas as subcategorias de Matemática para um filtro/select
+const mathSubcategories = getSubcategoriesByDiscipline('matematica');
+mathSubcategories.map(sub => (
+  <option key={sub.slug} value={sub.slug}>
+    {sub.label}
+  </option>
+));
+```
+
+## Estrutura dos Dados
+
+Cada subcategoria segue a interface `SubcategoryInfo`:
+
+```typescript
+export interface SubcategoryInfo {
+    slug: string;
+    label: string;
+    discipline: 'linguagens' | 'ciencias-humanas' | 'ciencias-natureza' | 'matematica';
+}
+```
+
+## Endpoint da API
+
+Além do mapeamento estático no front-end, você pode consultar quais subcategorias realmente caíram em um determinado ano usando o endpoint da API:
+
+```http
+GET /v1/exams/{year}/subcategories
+```
+
+Este endpoint retorna apenas as subcategorias que possuem questões naquele ano, incluindo a contagem de questões:
+
+```json
+{
+  "year": 2023,
+  "subcategories": [
+    {
+      "slug": "historia-geral",
+      "count": 5,
+      "discipline": "ciencias-humanas"
+    },
+    {
+      "slug": "ecologia",
+      "count": 8,
+      "discipline": "ciencias-natureza"
+    }
+  ]
+}
+```
+
+Você pode cruzar o `slug` retornado pela API com a função `getSubcategoryInfo(slug)` no front-end para exibir o nome formatado e o ícone/cor da disciplina correta.
