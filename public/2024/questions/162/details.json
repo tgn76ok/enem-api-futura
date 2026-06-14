@@ -1,46 +1,46 @@
 {
-    "title": "Questão 162 - ENEM 2024",
-    "index": 162,
-    "year": 2024,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Em um jogo virtual para celular, um personagem pode percorrer trajetórias retilíneas voando ou se deslocando ao longo de paredes. Considere que o personagem descreve a trajetória ABCDEF, em que os pontos A, D e E estão em um plano paralelo ao que contém os pontos B e C, sendo esses dois planos ortogonais ao plano da base que contém o ponto F, conforme a figura.\n\nA projeção ortogonal, sobre o plano da base, da trajetória ABCDEF descrita pelo personagem é:",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "A projeção ortogonal, sobre o plano da base, da trajetória ABCDEF descrita pelo personagem é:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "A trajetória projetada corresponde à sequência A-B-C-D-E-F.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "A trajetória projetada corresponde à sequência A-D-B-E-C-F.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "A trajetória projetada corresponde à sequência A-D-E-B-C-F.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "A trajetória projetada corresponde à sequência A-E-D-B-C-F.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "A trajetória projetada corresponde à sequência A-B-E-D-C-F.",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "funcoes-matematicas",
-    "competency": "C7",
-    "skill": "H25"
+  "title": "Questão 162 - ENEM 2024",
+  "index": 162,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Em um jogo virtual para celular, um personagem pode percorrer trajetórias retilíneas voando ou se deslocando ao longo de paredes. Considere que o personagem descreve a trajetória ABCDEF, em que os pontos A, D e E estão em um plano paralelo ao que contém os pontos B e C, sendo esses dois planos ortogonais ao plano da base que contém o ponto F, conforme a figura.\n\nA projeção ortogonal, sobre o plano da base, da trajetória ABCDEF descrita pelo personagem é:",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A projeção ortogonal, sobre o plano da base, da trajetória ABCDEF descrita pelo personagem é:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A trajetória projetada corresponde à sequência A-B-C-D-E-F.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A trajetória projetada corresponde à sequência A-D-B-E-C-F.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A trajetória projetada corresponde à sequência A-D-E-B-C-F.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "A trajetória projetada corresponde à sequência A-E-D-B-C-F.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "A trajetória projetada corresponde à sequência A-B-E-D-C-F.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "funcoes",
+  "competency": "C7",
+  "skill": "H25"
 }

@@ -1,46 +1,46 @@
 {
-    "title": "Questão 99 - ENEM 2025",
-    "index": 99,
-    "year": 2025,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "A deficiência da enzima lipase ácida causa uma doença em que o portador apresenta células que não degradam colesterol esterificado nem triglicerídeos, resultando no depósito desses compostos em diversos órgãos, principalmente no fígado.\n\nANDERSON, R. A. et al. In Situ Localization of the Genetic Locus Encoding [...]. Genomics, n. 1, jan. 1993 (adaptado).",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Essa doença resulta da insuficiência funcional de qual estrutura celular?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Lisossomos.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Ribossomos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Mitocôndrias.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Peroxissomos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Retículo endoplasmático liso.",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "biologia-molecular",
-    "competency": "C7",
-    "skill": "H12"
+  "title": "Questão 99 - ENEM 2025",
+  "index": 99,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "A deficiência da enzima lipase ácida causa uma doença em que o portador apresenta células que não degradam colesterol esterificado nem triglicerídeos, resultando no depósito desses compostos em diversos órgãos, principalmente no fígado.\n\nANDERSON, R. A. et al. In Situ Localization of the Genetic Locus Encoding [...]. Genomics, n. 1, jan. 1993 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Essa doença resulta da insuficiência funcional de qual estrutura celular?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Lisossomos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Ribossomos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Mitocôndrias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Peroxissomos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Retículo endoplasmático liso.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "citologia",
+  "competency": "C7",
+  "skill": "H12"
 }

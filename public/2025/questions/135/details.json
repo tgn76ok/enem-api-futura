@@ -1,46 +1,46 @@
 {
-    "title": "Questão 135 - ENEM 2025",
-    "index": 135,
-    "year": 2025,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "O carvão ativado é amplamente utilizado em processos de purificação e adsorção devido às suas propriedades físicas e químicas. Segundo Corrêa (2012), uma das características que explicam a maior eficiência do carvão ativado nesses processos está relacionada à sua estrutura interna.\n\nCORRÊA, M. A. Cosmetologia: ciência e técnica. São Paulo: Medfarma, 2012 (adaptado).",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Qual característica do carvão ativado explica a sua maior eficiência nesse processo?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Massa.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Dureza.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Densidade.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Superfície.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Condutividade.",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "quimica-fisica",
-    "competency": "C7",
-    "skill": "H12"
+  "title": "Questão 135 - ENEM 2025",
+  "index": 135,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "O carvão ativado é amplamente utilizado em processos de purificação e adsorção devido às suas propriedades físicas e químicas. Segundo Corrêa (2012), uma das características que explicam a maior eficiência do carvão ativado nesses processos está relacionada à sua estrutura interna.\n\nCORRÊA, M. A. Cosmetologia: ciência e técnica. São Paulo: Medfarma, 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Qual característica do carvão ativado explica a sua maior eficiência nesse processo?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Massa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Dureza.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Densidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Superfície.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Condutividade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "quimica-ambiental",
+  "competency": "C7",
+  "skill": "H12"
 }

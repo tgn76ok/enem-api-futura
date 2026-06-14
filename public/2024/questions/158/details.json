@@ -1,46 +1,46 @@
 {
-    "title": "Questão 158 - ENEM 2024",
-    "index": 158,
-    "year": 2024,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Uma tubulação despeja sempre o mesmo volume de água por unidade de tempo em uma caixa-d’água, o que significa dizer que a vazão de água nessa tubulação é constante. Na junção dessa tubulação com a caixa-d’água, está instalada uma membrana de filtragem cujo objetivo é filtrar eventuais impurezas presentes na água, combinado a um bom fluxo de água. O fluxo (φ) de água através da superfície da membrana é diretamente proporcional à vazão de água na tubulação, medida em mililitro por segundo, e inversamente proporcional à área da superfície da membrana, medida em centímetro quadrado.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "A unidade de medida adequada para descrever o fluxo (φ) de água que atravessa a superfície da membrana é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "mL ⋅ s ⋅ cm2",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "mL ⋅ cm2 / s",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "mL / (cm2 ⋅ s)",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "cm2 ⋅ s / mL",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "cm2 / (mL ⋅ s)",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "matematica-analise-dimensional",
-    "competency": "C7",
-    "skill": "H15"
+  "title": "Questão 158 - ENEM 2024",
+  "index": 158,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Uma tubulação despeja sempre o mesmo volume de água por unidade de tempo em uma caixa-d’água, o que significa dizer que a vazão de água nessa tubulação é constante. Na junção dessa tubulação com a caixa-d’água, está instalada uma membrana de filtragem cujo objetivo é filtrar eventuais impurezas presentes na água, combinado a um bom fluxo de água. O fluxo (φ) de água através da superfície da membrana é diretamente proporcional à vazão de água na tubulação, medida em mililitro por segundo, e inversamente proporcional à área da superfície da membrana, medida em centímetro quadrado.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A unidade de medida adequada para descrever o fluxo (φ) de água que atravessa a superfície da membrana é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "mL ⋅ s ⋅ cm2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "mL ⋅ cm2 / s",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "mL / (cm2 ⋅ s)",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "cm2 ⋅ s / mL",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "cm2 / (mL ⋅ s)",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "grandezas-medidas",
+  "competency": "C7",
+  "skill": "H15"
 }

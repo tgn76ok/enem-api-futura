@@ -1,46 +1,46 @@
 {
-    "title": "Questão 132 - ENEM 2024",
-    "index": 132,
-    "year": 2024,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "As fibras musculares esqueléticas não são todas iguais. As fibras lentas, também conhecidas como fibras vermelhas, apresentam muitas mitocôndrias e são bem supridas por vasos sanguíneos. Já as fibras rápidas, ou fibras brancas, apresentam poucas mitocôndrias e recebem menor suprimento sanguíneo. Dessa forma, a distribuição das fibras nos músculos esqueléticos do corpo auxilia de forma diferenciada no desempenho físico de um atleta.\n\nSADAVA, D. et al. Vida: a ciência da biologia — volume III: plantas e animais. Porto Alegre: Artmed, 2009 (adaptado).\n\nUm atleta que sonha em disputar os Jogos Olímpicos e tem uma maior proporção de fibras brancas que fibras vermelhas teria mais vantagens na realização da prova de:",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Um atleta que sonha em disputar os Jogos Olímpicos e tem uma maior proporção de fibras brancas que fibras vermelhas teria mais vantagens na realização da prova de:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Triatlo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Salto em altura.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Marcha atlética.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Maratona aquática.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Ciclismo em estrada.",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "fisiologia-muscular",
-    "competency": "C7",
-    "skill": "H12"
+  "title": "Questão 132 - ENEM 2024",
+  "index": 132,
+  "year": 2024,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "As fibras musculares esqueléticas não são todas iguais. As fibras lentas, também conhecidas como fibras vermelhas, apresentam muitas mitocôndrias e são bem supridas por vasos sanguíneos. Já as fibras rápidas, ou fibras brancas, apresentam poucas mitocôndrias e recebem menor suprimento sanguíneo. Dessa forma, a distribuição das fibras nos músculos esqueléticos do corpo auxilia de forma diferenciada no desempenho físico de um atleta.\n\nSADAVA, D. et al. Vida: a ciência da biologia — volume III: plantas e animais. Porto Alegre: Artmed, 2009 (adaptado).\n\nUm atleta que sonha em disputar os Jogos Olímpicos e tem uma maior proporção de fibras brancas que fibras vermelhas teria mais vantagens na realização da prova de:",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Um atleta que sonha em disputar os Jogos Olímpicos e tem uma maior proporção de fibras brancas que fibras vermelhas teria mais vantagens na realização da prova de:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Triatlo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Salto em altura.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Marcha atlética.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Maratona aquática.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Ciclismo em estrada.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "fisiologia-humana",
+  "competency": "C7",
+  "skill": "H12"
 }

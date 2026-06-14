@@ -1,46 +1,46 @@
 {
-    "title": "Questão 156 - ENEM 2025",
-    "index": 156,
-    "year": 2025,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Em uma escola, todos os estudantes do ensino médio praticam uma das três modalidades esportivas oferecidas como atividade física, e cada um deles pratica somente uma dessas atividades. Os gráficos trazem alguns dados relativos aos quantitativos de estudantes que praticam essas modalidades esportivas nessa escola, apesar de algumas quantidades não terem sido informadas.\n\nO dono de uma embarcação deve partir do ponto P e chegar ao ponto R por meio de dois deslocamentos lineares e navegando a uma velocidade constante. Essa viagem será feita durante a noite, e como ele dispõe somente de uma bússola e de um relógio, planejou sua rota da seguinte forma:\n\n1º – partir do ponto P na direção 110° e navegar por 4 horas, alcançando um ponto Q;\n2º – partir do ponto Q na direção 90° e navegar por 2 horas, alcançando o ponto de destino R.\n\nNo entanto, ao direcionar o barco para o primeiro deslocamento, o fez na direção 340°, em vez de 110°. Com isso, realizou os seguintes deslocamentos:\n\n1º – partiu do ponto P na direção 340° e navegou por 4 horas, alcançando um ponto S;\n2º – partiu do ponto S na direção 90° e navegou por 2 horas, alcançando o ponto T.\n\nA figura apresenta a bússola, a rota planejada e a rota executada.\n\nQual é a quantidade de estudantes no ensino médio dessa escola?\n\nA 720\nB 360\nC 320\nD 288\nE 240\n\nO dono da embarcação só percebeu o equívoco ao chegar ao ponto T. Com isso, agora ele precisa definir a direção e o tempo de navegação que lhe permita, partindo do ponto T, chegar ao ponto de destino R por meio de uma rota retilínea.\n\nConsidere 0,64 como aproximação para cos 50°.\n\nA direção e o tempo aproximado de navegação que o dono da embarcação deve utilizar são, respectivamente:\n\nA 135° e 7 horas e 15 minutos.\nB 45° e 7 horas e 15 minutos.\nC 135° e 12 horas.\nD 135° e 6 horas.\nE 45° e 6 horas.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Qual é a quantidade de estudantes no ensino médio dessa escola?\n\nE qual a direção e o tempo aproximado de navegação que o dono da embarcação deve utilizar para, partindo do ponto T, chegar ao ponto de destino R por meio de uma rota retilínea?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Quantidade de estudantes: 720\nDireção e tempo de navegação: 135° e 7 horas e 15 minutos.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Quantidade de estudantes: 360\nDireção e tempo de navegação: 45° e 7 horas e 15 minutos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Quantidade de estudantes: 320\nDireção e tempo de navegação: 135° e 12 horas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Quantidade de estudantes: 288\nDireção e tempo de navegação: 135° e 6 horas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Quantidade de estudantes: 240\nDireção e tempo de navegação: 45° e 6 horas.",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "geometria",
-    "competency": "C7",
-    "skill": "H29"
+  "title": "Questão 156 - ENEM 2025",
+  "index": 156,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Em uma escola, todos os estudantes do ensino médio praticam uma das três modalidades esportivas oferecidas como atividade física, e cada um deles pratica somente uma dessas atividades. Os gráficos trazem alguns dados relativos aos quantitativos de estudantes que praticam essas modalidades esportivas nessa escola, apesar de algumas quantidades não terem sido informadas.\n\nO dono de uma embarcação deve partir do ponto P e chegar ao ponto R por meio de dois deslocamentos lineares e navegando a uma velocidade constante. Essa viagem será feita durante a noite, e como ele dispõe somente de uma bússola e de um relógio, planejou sua rota da seguinte forma:\n\n1º – partir do ponto P na direção 110° e navegar por 4 horas, alcançando um ponto Q;\n2º – partir do ponto Q na direção 90° e navegar por 2 horas, alcançando o ponto de destino R.\n\nNo entanto, ao direcionar o barco para o primeiro deslocamento, o fez na direção 340°, em vez de 110°. Com isso, realizou os seguintes deslocamentos:\n\n1º – partiu do ponto P na direção 340° e navegou por 4 horas, alcançando um ponto S;\n2º – partiu do ponto S na direção 90° e navegou por 2 horas, alcançando o ponto T.\n\nA figura apresenta a bússola, a rota planejada e a rota executada.\n\nQual é a quantidade de estudantes no ensino médio dessa escola?\n\nA 720\nB 360\nC 320\nD 288\nE 240\n\nO dono da embarcação só percebeu o equívoco ao chegar ao ponto T. Com isso, agora ele precisa definir a direção e o tempo de navegação que lhe permita, partindo do ponto T, chegar ao ponto de destino R por meio de uma rota retilínea.\n\nConsidere 0,64 como aproximação para cos 50°.\n\nA direção e o tempo aproximado de navegação que o dono da embarcação deve utilizar são, respectivamente:\n\nA 135° e 7 horas e 15 minutos.\nB 45° e 7 horas e 15 minutos.\nC 135° e 12 horas.\nD 135° e 6 horas.\nE 45° e 6 horas.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Qual é a quantidade de estudantes no ensino médio dessa escola?\n\nE qual a direção e o tempo aproximado de navegação que o dono da embarcação deve utilizar para, partindo do ponto T, chegar ao ponto de destino R por meio de uma rota retilínea?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Quantidade de estudantes: 720\nDireção e tempo de navegação: 135° e 7 horas e 15 minutos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Quantidade de estudantes: 360\nDireção e tempo de navegação: 45° e 7 horas e 15 minutos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Quantidade de estudantes: 320\nDireção e tempo de navegação: 135° e 12 horas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Quantidade de estudantes: 288\nDireção e tempo de navegação: 135° e 6 horas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Quantidade de estudantes: 240\nDireção e tempo de navegação: 45° e 6 horas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "geometria-plana",
+  "competency": "C7",
+  "skill": "H29"
 }

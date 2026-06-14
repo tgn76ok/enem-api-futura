@@ -1,46 +1,46 @@
 {
-    "title": "Questão 101 - ENEM 2025",
-    "index": 101,
-    "year": 2025,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "A icterícia é uma doença que acomete recém-nascidos e pode ser tratada com um método de fototerapia conhecido como banho de luz, que consiste na exposição do recém-nascido a uma fonte luminosa equipada com LEDs azuis. Para o monitoramento da dosagem dessa radiação, é utilizada a resposta óptica de um sensor constituído de materiais orgânicos que luminescem quando expostos à luz azul. Com o passar do tempo, essa radiação oxida os materiais do sensor, alterando sua coloração de vermelho-laranja para verde, o que indica o final do tratamento.\n\nO gráfico apresenta o espectro de fotoluminescência do sensor em função do comprimento de onda da luz emitida no início do tratamento, quando o sensor, colado na fralda do bebê, luminesce na região do vermelho-laranja (∼600 nm). A evolução da coloração do sensor mostra que a frequência da luz emitida por ele aumenta em função do tempo de exposição à luz azul.\n\nConsiderando essas informações, analise os espectros de fotoluminescência do sensor no início e no final do tratamento, indicados no gráfico, e assinale a alternativa que representa corretamente essa mudança.",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Qual dos espectros abaixo representa corretamente a mudança na fotoluminescência do sensor durante o tratamento por fototerapia?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "O espectro que mostra a emissão inicial na região do vermelho-laranja (∼600 nm) e, ao final do tratamento, a emissão deslocada para o verde, indicando aumento da frequência da luz emitida pelo sensor.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "O espectro que apresenta a emissão inicial na região do verde e, ao final do tratamento, deslocamento para o vermelho-laranja, indicando diminuição da frequência da luz emitida pelo sensor.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "O espectro que mantém a emissão constante na região do vermelho-laranja durante todo o tratamento, sem alteração na frequência da luz emitida pelo sensor.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "O espectro que apresenta emissão inicial na região do azul e, ao final do tratamento, deslocamento para o vermelho-laranja, indicando diminuição da frequência da luz emitida pelo sensor.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "O espectro que mostra emissão inicial na região do verde e, ao final do tratamento, deslocamento para o azul, indicando aumento da frequência da luz emitida pelo sensor.",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "fisica-ondas",
-    "competency": "C7",
-    "skill": "H12"
+  "title": "Questão 101 - ENEM 2025",
+  "index": 101,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "A icterícia é uma doença que acomete recém-nascidos e pode ser tratada com um método de fototerapia conhecido como banho de luz, que consiste na exposição do recém-nascido a uma fonte luminosa equipada com LEDs azuis. Para o monitoramento da dosagem dessa radiação, é utilizada a resposta óptica de um sensor constituído de materiais orgânicos que luminescem quando expostos à luz azul. Com o passar do tempo, essa radiação oxida os materiais do sensor, alterando sua coloração de vermelho-laranja para verde, o que indica o final do tratamento.\n\nO gráfico apresenta o espectro de fotoluminescência do sensor em função do comprimento de onda da luz emitida no início do tratamento, quando o sensor, colado na fralda do bebê, luminesce na região do vermelho-laranja (∼600 nm). A evolução da coloração do sensor mostra que a frequência da luz emitida por ele aumenta em função do tempo de exposição à luz azul.\n\nConsiderando essas informações, analise os espectros de fotoluminescência do sensor no início e no final do tratamento, indicados no gráfico, e assinale a alternativa que representa corretamente essa mudança.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Qual dos espectros abaixo representa corretamente a mudança na fotoluminescência do sensor durante o tratamento por fototerapia?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O espectro que mostra a emissão inicial na região do vermelho-laranja (∼600 nm) e, ao final do tratamento, a emissão deslocada para o verde, indicando aumento da frequência da luz emitida pelo sensor.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "O espectro que apresenta a emissão inicial na região do verde e, ao final do tratamento, deslocamento para o vermelho-laranja, indicando diminuição da frequência da luz emitida pelo sensor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "O espectro que mantém a emissão constante na região do vermelho-laranja durante todo o tratamento, sem alteração na frequência da luz emitida pelo sensor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "O espectro que apresenta emissão inicial na região do azul e, ao final do tratamento, deslocamento para o vermelho-laranja, indicando diminuição da frequência da luz emitida pelo sensor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "O espectro que mostra emissão inicial na região do verde e, ao final do tratamento, deslocamento para o azul, indicando aumento da frequência da luz emitida pelo sensor.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "optica",
+  "competency": "C7",
+  "skill": "H12"
 }

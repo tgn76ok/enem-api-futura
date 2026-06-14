@@ -1,46 +1,46 @@
 {
-    "title": "Questão 144 - ENEM 2024",
-    "index": 144,
-    "year": 2024,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Um sistema de polias circulares e correias é um dos mecanismos responsáveis pela transmissão de movimento em máquinas rotativas. O manual de um motor traz uma figura representando um sistema composto por duas polias e uma correia de transmissão, tensionada e perfeitamente ajustada sobre as polias, de modo a não apresentar folgas nos contatos com as polias. Considere que as partes dessa correia que não ficam em contato com as polias são representadas por segmentos de reta tangentes às polias.\n\nPara substituição dessa correia, é necessária a especificação de seu comprimento.\n\nConsidere 3 como valor aproximado para π.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A medida do comprimento dessa correia, em centímetro, é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "54.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "60.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "66.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "68.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "72.",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "fisica-mecanica",
-    "competency": "C7",
-    "skill": "H15"
+  "title": "Questão 144 - ENEM 2024",
+  "index": 144,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Um sistema de polias circulares e correias é um dos mecanismos responsáveis pela transmissão de movimento em máquinas rotativas. O manual de um motor traz uma figura representando um sistema composto por duas polias e uma correia de transmissão, tensionada e perfeitamente ajustada sobre as polias, de modo a não apresentar folgas nos contatos com as polias. Considere que as partes dessa correia que não ficam em contato com as polias são representadas por segmentos de reta tangentes às polias.\n\nPara substituição dessa correia, é necessária a especificação de seu comprimento.\n\nConsidere 3 como valor aproximado para π.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A medida do comprimento dessa correia, em centímetro, é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "54.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "60.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "66.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "68.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "72.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "mecanica",
+  "competency": "C7",
+  "skill": "H15"
 }

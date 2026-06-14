@@ -1,46 +1,46 @@
 {
-    "title": "Questão 142 - ENEM 2025",
-    "index": 142,
-    "year": 2025,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Pesquisas na área de neurobiologia confirmam que a prática meditativa é responsável por diminuir consideravelmente a frequência respiratória para praticantes avançados, que, após iniciarem a meditação, têm suas frequências respiratórias reduzidas até se estabilizarem em um nível mais baixo. O gráfico apresenta a relação da frequência respiratória, em incursões de respirações por minuto (rpm), em relação ao tempo, em minutos, de um praticante avançado, em que (f1) representa a frequência no instante t1, no qual se inicia a prática meditativa; e (f2), a frequência no instante t2, a partir do qual esta se estabiliza durante a meditação.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A partir do instante t1, em que se inicia a prática meditativa, o comportamento da frequência respiratória, em relação ao tempo,",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "mantém-se constante.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "é diretamente proporcional ao tempo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "é inversamente proporcional ao tempo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "diminui até o instante t2, a partir do qual se torna constante.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "diminui de forma proporcional ao tempo, tanto entre t1 e t2 quanto após t2.",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "funcoes-matematicas",
-    "competency": "C7",
-    "skill": "H25"
+  "title": "Questão 142 - ENEM 2025",
+  "index": 142,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Pesquisas na área de neurobiologia confirmam que a prática meditativa é responsável por diminuir consideravelmente a frequência respiratória para praticantes avançados, que, após iniciarem a meditação, têm suas frequências respiratórias reduzidas até se estabilizarem em um nível mais baixo. O gráfico apresenta a relação da frequência respiratória, em incursões de respirações por minuto (rpm), em relação ao tempo, em minutos, de um praticante avançado, em que (f1) representa a frequência no instante t1, no qual se inicia a prática meditativa; e (f2), a frequência no instante t2, a partir do qual esta se estabiliza durante a meditação.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A partir do instante t1, em que se inicia a prática meditativa, o comportamento da frequência respiratória, em relação ao tempo,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "mantém-se constante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "é diretamente proporcional ao tempo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "é inversamente proporcional ao tempo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "diminui até o instante t2, a partir do qual se torna constante.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "diminui de forma proporcional ao tempo, tanto entre t1 e t2 quanto após t2.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "funcoes",
+  "competency": "C7",
+  "skill": "H25"
 }

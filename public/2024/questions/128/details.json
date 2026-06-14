@@ -1,46 +1,46 @@
 {
-    "title": "Questão 128 - ENEM 2024",
-    "index": 128,
-    "year": 2024,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Impactos do microplástico\nA ação de fatores abióticos aliada à biodeterioração contribuem para a formação de microplásticos, os quais se aderem a outros poluentes orgânicos apolares persistentes, como os derivados de pesticidas lipossolúveis. Há uma proporcionalidade direta entre a solubilidade desses tipos de poluentes e sua concentração nos tecidos dos organismos expostos a eles.\n\nDisponível em: www.ecycle.com.br.\nAcesso em: 9 dez. 2021 (adaptado).",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Em animais vertebrados, essa associação de poluentes será preferencialmente acumulada no tecido",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "ósseo.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "nervoso.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "epitelial.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "adiposo.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "sanguíneo.",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "biologia-ecologia",
-    "competency": "C4",
-    "skill": "H12"
+  "title": "Questão 128 - ENEM 2024",
+  "index": 128,
+  "year": 2024,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "Impactos do microplástico\nA ação de fatores abióticos aliada à biodeterioração contribuem para a formação de microplásticos, os quais se aderem a outros poluentes orgânicos apolares persistentes, como os derivados de pesticidas lipossolúveis. Há uma proporcionalidade direta entre a solubilidade desses tipos de poluentes e sua concentração nos tecidos dos organismos expostos a eles.\n\nDisponível em: www.ecycle.com.br.\nAcesso em: 9 dez. 2021 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Em animais vertebrados, essa associação de poluentes será preferencialmente acumulada no tecido",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ósseo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "nervoso.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "epitelial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "adiposo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "sanguíneo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "ecologia",
+  "competency": "C4",
+  "skill": "H12"
 }

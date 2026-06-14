@@ -1,46 +1,46 @@
 {
-    "title": "Questão 173 - ENEM 2025",
-    "index": 173,
-    "year": 2025,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Em um país, a primeira etapa para obtenção da carteira de motorista é a contratação de três produtos:\n\n- pacote com 20 aulas teóricas;\n- pacote com 10 aulas práticas;\n- aluguel do veículo para realização das aulas práticas.\n\nUma pessoa que pretende obter a carteira de motorista pesquisou o valor do aluguel do veículo e os valores de cada aula teórica e de cada aula prática em três autoescolas. O quadro apresenta esses valores.\n\n| Autoescola | Valor de cada aula teórica (R$) | Valor de cada aula prática (R$) | Aluguel do veículo (R$) |\n|------------|---------------------------------|--------------------------------|-------------------------|\n| I          | 10                              | 80                             | 400                     |\n| II         | 30                              | 50                             | 200                     |\n| III        | 20                              | 40                             | 400                     |\n\nEla contratará os três produtos numa mesma autoescola de modo que o custo total nessa primeira etapa seja o menor possível.",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "A autoescola que será contratada é a",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "I, com o custo total de R$ 1 400,00.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "II, com o custo total de R$ 280,00.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "II, com o custo total de R$ 1 300,00.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "III, com o custo total de R$ 460,00.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "III, com o custo total de R$ 1 200,00.",
-            "file": null,
-            "isCorrect": true
-        }
-    ],
-    "subcategory": "funcoes-matematicas",
-    "competency": "C1",
-    "skill": "H1"
+  "title": "Questão 173 - ENEM 2025",
+  "index": 173,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Em um país, a primeira etapa para obtenção da carteira de motorista é a contratação de três produtos:\n\n- pacote com 20 aulas teóricas;\n- pacote com 10 aulas práticas;\n- aluguel do veículo para realização das aulas práticas.\n\nUma pessoa que pretende obter a carteira de motorista pesquisou o valor do aluguel do veículo e os valores de cada aula teórica e de cada aula prática em três autoescolas. O quadro apresenta esses valores.\n\n| Autoescola | Valor de cada aula teórica (R$) | Valor de cada aula prática (R$) | Aluguel do veículo (R$) |\n|------------|---------------------------------|--------------------------------|-------------------------|\n| I          | 10                              | 80                             | 400                     |\n| II         | 30                              | 50                             | 200                     |\n| III        | 20                              | 40                             | 400                     |\n\nEla contratará os três produtos numa mesma autoescola de modo que o custo total nessa primeira etapa seja o menor possível.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A autoescola que será contratada é a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "I, com o custo total de R$ 1 400,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "II, com o custo total de R$ 280,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "II, com o custo total de R$ 1 300,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "III, com o custo total de R$ 460,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "III, com o custo total de R$ 1 200,00.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "subcategory": "funcoes",
+  "competency": "C1",
+  "skill": "H1"
 }

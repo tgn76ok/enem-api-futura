@@ -1,46 +1,46 @@
 {
-    "title": "Questão 168 - ENEM 2025",
-    "index": 168,
-    "year": 2025,
-    "language": null,
-    "discipline": "matematica",
-    "context": "A figura ilustra o projeto visual para confecção de uma medalha comemorativa, com a forma de um cilindro circular reto, de diâmetro 6 cm e espessura 3 mm.\n\nA luminância de um objeto é a grandeza que descreve a quantidade de luz produzida ou refletida por sua superfície. Ela está definida como a razão entre a intensidade luminosa, medida em candela (cd), e o quadrado da distância do objeto até o foco de luz, medida em metro (m).\n\nA unidade de medida da luminância de um objeto é\n\nA figura ABCD tem a forma de um quadrado e é a base de um prisma que atravessa toda a medalha. A região da medalha externa a esse prisma será cunhada em ouro. Pretende-se cunhar 100 dessas medalhas.\n\nConsidere 3,1 como valor aproximado para π.\n\nQual é o volume de ouro, em centímetro cúbico, necessário para a confecção dessas medalhas?",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Qual é o volume de ouro, em centímetro cúbico, necessário para a confecção de 100 medalhas?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "288",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "297",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "567",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "990",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "1 134",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "geometria",
-    "competency": "C7",
-    "skill": "H15"
+  "title": "Questão 168 - ENEM 2025",
+  "index": 168,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "A figura ilustra o projeto visual para confecção de uma medalha comemorativa, com a forma de um cilindro circular reto, de diâmetro 6 cm e espessura 3 mm.\n\nA luminância de um objeto é a grandeza que descreve a quantidade de luz produzida ou refletida por sua superfície. Ela está definida como a razão entre a intensidade luminosa, medida em candela (cd), e o quadrado da distância do objeto até o foco de luz, medida em metro (m).\n\nA unidade de medida da luminância de um objeto é\n\nA figura ABCD tem a forma de um quadrado e é a base de um prisma que atravessa toda a medalha. A região da medalha externa a esse prisma será cunhada em ouro. Pretende-se cunhar 100 dessas medalhas.\n\nConsidere 3,1 como valor aproximado para π.\n\nQual é o volume de ouro, em centímetro cúbico, necessário para a confecção dessas medalhas?",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Qual é o volume de ouro, em centímetro cúbico, necessário para a confecção de 100 medalhas?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "288",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "297",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "567",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "990",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1 134",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "geometria-espacial",
+  "competency": "C7",
+  "skill": "H15"
 }

@@ -1,46 +1,46 @@
 {
-    "title": "Questão 93 - ENEM 2025",
-    "index": 93,
-    "year": 2025,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "A produção de vacinas exige uma sequência de procedimentos, além do cumprimento estrito de verificações de segurança. No esquema, estão demonstradas as etapas básicas realizadas para a fabricação de uma vacina utilizando a tecnologia tradicional e o efeito dela no organismo.\n\nAs mariposas, quando chega o frio\nFica dando volta em volta da lâmpida pra se esquentá. [sic]\nBARBOSA, A. Reviva: Adoniran Barbosa. São Paulo: Som Livre, 2002 (fragmento).\n\nAs mariposas se aproximam das lâmpadas atraídas pela luz, pois, sendo basicamente criaturas noturnas, estão adaptadas a seguir o brilho da lua, em um processo conhecido como orientação transversal. Assim, o que o sambista Adoniran Barbosa, no Texto I, descreve não é a causa, mas sim uma das consequências possíveis dessa aproximação. De fato, o calor gerado pelas lâmpadas, sobretudo as incandescentes, pode aquecer as mariposas.\nHERTZBERG, R. Por que as mariposas são tão atraídas por luzes fortes? National Geographic, nov. 2020 (adaptado).\n\nNesse contexto, o processo de transferência de calor para as mariposas que independe da presença de fluidos é a\n\nO antígeno utilizado na vacina causa um efeito protetor contra o vírus porque",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "O antígeno utilizado na vacina causa um efeito protetor contra o vírus porque",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "mata o vírus pela ligação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "aglutina o vírus por associação.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "contém imunoglobulinas de defesa.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "induz a produção de proteínas neutralizadoras.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "mantém a quantidade de anticorpos preexistentes.",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "imunologia",
-    "competency": "C7",
-    "skill": "H25"
+  "title": "Questão 93 - ENEM 2025",
+  "index": 93,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "A produção de vacinas exige uma sequência de procedimentos, além do cumprimento estrito de verificações de segurança. No esquema, estão demonstradas as etapas básicas realizadas para a fabricação de uma vacina utilizando a tecnologia tradicional e o efeito dela no organismo.\n\nAs mariposas, quando chega o frio\nFica dando volta em volta da lâmpida pra se esquentá. [sic]\nBARBOSA, A. Reviva: Adoniran Barbosa. São Paulo: Som Livre, 2002 (fragmento).\n\nAs mariposas se aproximam das lâmpadas atraídas pela luz, pois, sendo basicamente criaturas noturnas, estão adaptadas a seguir o brilho da lua, em um processo conhecido como orientação transversal. Assim, o que o sambista Adoniran Barbosa, no Texto I, descreve não é a causa, mas sim uma das consequências possíveis dessa aproximação. De fato, o calor gerado pelas lâmpadas, sobretudo as incandescentes, pode aquecer as mariposas.\nHERTZBERG, R. Por que as mariposas são tão atraídas por luzes fortes? National Geographic, nov. 2020 (adaptado).\n\nNesse contexto, o processo de transferência de calor para as mariposas que independe da presença de fluidos é a\n\nO antígeno utilizado na vacina causa um efeito protetor contra o vírus porque",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O antígeno utilizado na vacina causa um efeito protetor contra o vírus porque",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "mata o vírus pela ligação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "aglutina o vírus por associação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "contém imunoglobulinas de defesa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "induz a produção de proteínas neutralizadoras.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "mantém a quantidade de anticorpos preexistentes.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "parasitologia-saude",
+  "competency": "C7",
+  "skill": "H25"
 }
