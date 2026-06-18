@@ -3,11 +3,11 @@ title: 'Subcategorias'
 description: 'Mapeamento completo das subcategorias do ENEM para uso no front-end'
 ---
 
-A API do ENEM utiliza slugs canônicos para identificar as subcategorias de cada questão (ex: `historia-geral`, `biologia-molecular`). Para exibir esses dados de forma amigável no front-end, disponibilizamos um arquivo de constantes com o mapeamento completo.
+A API do ENEM utiliza slugs canônicos para identificar as subcategorias de cada questão (ex: `historia-geral-moderna`, `biologia-molecular`). Para exibir esses dados de forma amigável no front-end, disponibilizamos um arquivo de constantes com o mapeamento completo.
 
 ## Arquivo de Constantes
 
-O arquivo `lib/constants/subcategories.ts` contém o mapeamento de todos os 120 slugs canônicos para seus respectivos nomes legíveis (`label`) e disciplinas associadas (`discipline`).
+O arquivo `lib/constants/subcategories.ts` contém o mapeamento de todos os 170+ slugs canônicos (incluindo subcategorias granulares e legados) para seus respectivos nomes legíveis (`label`) e disciplinas associadas (`discipline`).
 
 ### Como utilizar no Front-end
 
@@ -57,7 +57,7 @@ Este endpoint retorna apenas as subcategorias que possuem questões naquele ano,
   "year": 2023,
   "subcategories": [
     {
-      "slug": "historia-geral",
+      "slug": "historia-geral-contemporanea",
       "count": 5,
       "discipline": "ciencias-humanas"
     },

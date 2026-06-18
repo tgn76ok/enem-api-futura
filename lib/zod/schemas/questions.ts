@@ -7,48 +7,65 @@ export const VALID_DISCIPLINES = [
     'matematica',
 ] as const;
 
-// Taxonomia canônica — alinhada com scripts/classify-questions.ts (DISCIPLINE_CONFIG)
+// Taxonomia canônica — slugs reais em uso no banco de dados (2009–2025)
 export const VALID_SUBCATEGORIES = [
-    // Matemática
-    'numeros-proporcionalidade', 'algebra', 'funcoes', 'geometria-plana', 'geometria-espacial',
-    'geometria-analitica', 'trigonometria', 'grandezas-medidas', 'estatistica', 'probabilidade',
-    'analise-combinatoria', 'matematica-financeira', 'leitura-graficos-tabelas',
-    // Física
-    'mecanica', 'cinematica', 'dinamica', 'trabalho-energia', 'hidrostatica', 'termologia',
-    'termodinamica', 'optica', 'ondulatoria', 'eletrostatica', 'eletrodinamica', 'magnetismo',
-    'fisica-moderna',
-    // Química
-    'estrutura-atomica', 'tabela-periodica', 'ligacoes-quimicas', 'funcoes-inorganicas',
-    'estequiometria', 'solucoes', 'termoquimica', 'cinetica-quimica', 'equilibrio-quimico',
-    'eletroquimica', 'quimica-organica', 'quimica-ambiental',
-    // Biologia
-    'citologia', 'bioquimica', 'genetica', 'evolucao', 'ecologia', 'fisiologia-humana',
-    'parasitologia-saude', 'biotecnologia', 'botanica', 'zoologia',
-    // História
-    'historia-antiga', 'historia-medieval', 'historia-moderna', 'historia-contemporanea',
-    'historia-do-brasil-colonia', 'historia-do-brasil-imperio', 'historia-do-brasil-republica',
-    'movimentos-sociais-cidadania', 'cultura-memoria',
-    // Geografia
-    'cartografia', 'geografia-fisica', 'geopolitica', 'demografia', 'urbanizacao',
-    'industrializacao', 'agropecuaria', 'questoes-ambientais', 'globalizacao',
-    // Filosofia
-    'filosofia-antiga', 'filosofia-moderna', 'filosofia-contemporanea', 'etica', 'politica',
-    'epistemologia',
-    // Sociologia
-    'cultura-identidade', 'cidadania', 'movimentos-sociais', 'trabalho', 'desigualdade-social',
-    'estado-poder-politica',
-    // Língua Portuguesa
-    'interpretacao-textual', 'generos-textuais', 'funcoes-da-linguagem', 'variacao-linguistica',
-    'gramatica-contextualizada', 'argumentacao', 'linguagens-midiaticas',
-    // Literatura
-    'escolas-literarias', 'analise-literaria', 'modernismo', 'poesia', 'prosa',
-    'relacoes-texto-contexto',
-    // Artes
-    'artes-visuais', 'musica', 'teatro', 'danca', 'patrimonio-cultural',
-    // Educação Física
-    'corpo-saude', 'esporte', 'praticas-corporais', 'inclusao-corporal', 'lazer-cultura-corporal',
-    // Língua Estrangeira
-    'interpretacao-em-lem', 'vocabulario-em-contexto', 'generos-em-lem', 'diversidade-cultural',
+    // ── Matemática ──────────────────────────────────────────────────────────
+    'numeros-proporcionalidade', 'algebra', 'funcoes', 'geometria',
+    'trigonometria', 'grandezas-medidas', 'estatistica',
+    'matematica-financeira', 'leitura-graficos-tabelas',
+    'matematica-analise-dimensional',
+
+    // ── Ciências da Natureza — Física ───────────────────────────────────────
+    'fisica-mecanica', 'fisica-termica', 'fisica-ondas',
+    'eletrostatica', 'eletrodinamica', 'fisica-eletricidade', 'fisica-moderna',
+
+    // ── Ciências da Natureza — Química ──────────────────────────────────────
+    'quimica-organica', 'quimica-inorganica', 'quimica-analitica',
+    'estrutura-atomica',
+
+    // ── Ciências da Natureza — Biologia ─────────────────────────────────────
+    'genetica', 'ecologia', 'fisiologia', 'botanica',
+    'biologia-molecular', 'parasitologia-saude', 'imunologia',
+
+    // ── Ciências Humanas — História Geral ───────────────────────────────────
+    'historia-geral-antiga', 'historia-geral-medieval',
+    'historia-geral-moderna', 'historia-geral-contemporanea',
+
+    // ── Ciências Humanas — História do Brasil ───────────────────────────────
+    'historia-do-brasil-colonia', 'historia-do-brasil-imperio',
+    'historia-do-brasil-republica',
+
+    // ── Ciências Humanas — Filosofia ────────────────────────────────────────
+    'filosofia-antiga', 'filosofia-medieval',
+    'filosofia-moderna', 'filosofia-contemporanea', 'filosofia-etica',
+
+    // ── Ciências Humanas — Sociologia ───────────────────────────────────────
+    'sociologia', 'movimentos-sociais-cidadania', 'cultura-identidade',
+    'cultura-memoria', 'estado-poder-politica', 'politica',
+    'trabalho', 'religioes-afro-brasileiras',
+
+    // ── Ciências Humanas — Geografia ────────────────────────────────────────
+    'geografia-fisica', 'cartografia', 'geopolitica', 'globalizacao',
+    'urbanizacao', 'demografia', 'migracao', 'industrializacao',
+    'agropecuaria', 'questoes-ambientais',
+
+    // ── Linguagens — Interpretação de Texto ─────────────────────────────────
+    'interpretacao-de-texto-literario', 'interpretacao-de-texto-argumentativo',
+    'interpretacao-de-texto-informativo', 'interpretacao-de-texto-publicitario',
+    'interpretacao-de-texto-multimodal', 'intertextualidade',
+
+    // ── Linguagens — Literatura ──────────────────────────────────────────────
+    'analise-literaria', 'escolas-literarias', 'poesia',
+
+    // ── Linguagens — Língua Portuguesa ──────────────────────────────────────
+    'argumentacao', 'variedades-linguisticas', 'generos-textuais',
+    'funcoes-da-linguagem', 'gramatica-contextualizada', 'linguagens-midiaticas',
+
+    // ── Linguagens — Língua Estrangeira ─────────────────────────────────────
+    'interpretacao-em-lem', 'lingua-estrangeira',
+
+    // ── Linguagens — Outros ──────────────────────────────────────────────────
+    'corpo-saude',
 ] as const;
 
 export const QuestionIndexPath = z.string().openapi({
@@ -225,8 +242,8 @@ export const GetQuestionsQuerySchema = z.object({
     subcategory: z
         .enum(VALID_SUBCATEGORIES)
         .optional()
-        .describe('Filtrar por subcategoria canônica (ex: historia-moderna, geometria-plana)')
-        .openapi({ example: 'historia-moderna' }),
+        .describe('Filtrar por subcategoria canônica (ex: historia-geral-moderna, fisica-mecanica)')
+        .openapi({ example: 'historia-geral-moderna' }),
     competency: z
         .string()
         .optional()
