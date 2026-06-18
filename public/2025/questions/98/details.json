@@ -1,46 +1,46 @@
 {
-  "title": "Questão 98 - ENEM 2025",
-  "index": 98,
-  "year": 2025,
-  "language": null,
-  "discipline": "ciencias-natureza",
-  "context": "O monstro de gila, um lagarto encontrado em um deserto dos Estados Unidos, apresenta adaptações à falta de alimento nesse ambiente. Esse lagarto possui um hormônio que controla os níveis de açúcar em seu próprio sangue. Foi observado que esse hormônio também controla os níveis de açúcar no sangue de pessoas diabéticas.\n\nO sashimi (filé de peixe cru) de baiacu é uma iguaria muito apreciada no Japão. Entretanto, sua ingestão pode causar a morte por parada respiratória, pois esse peixe contém uma potente neurotoxina termoestável, a tetrodotoxina, que é produzida e armazenada nas gônadas e vísceras.\n\nRUSSELL, C. Ozempic e outros remédios inspirados em veneno de animais. Disponível em: www.bbc.com. Acesso em: 6 dez. 2024 (adaptado).\n\nConsiderando que animais de um mesmo grupo taxonômico podem apresentar características adaptativas semelhantes em ambientes similares, onde seria mais provável encontrar lagartos com essas características no território brasileiro?\n\nQue ação poderia evitar essa intoxicação?",
-  "files": [],
-  "correctAlternative": "E",
-  "alternativesIntroduction": "Considerando o texto acima, responda:\n\n1) Onde seria mais provável encontrar lagartos com essas características no território brasileiro?\n\n2) Que ação poderia evitar a intoxicação causada pela ingestão do baiacu?",
-  "alternatives": [
-    {
-      "letter": "A",
-      "text": "Cerrado.",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "B",
-      "text": "Pampas.",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "C",
-      "text": "Caatinga.",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "D",
-      "text": "Restinga.",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "E",
-      "text": "Manusear o peixe sem provocar o rompimento dos órgãos internos.",
-      "file": null,
-      "isCorrect": true
-    }
-  ],
-  "subcategory": "ecologia",
-  "competency": "C7",
-  "skill": "H12"
+    "title": "Questão 98 - ENEM 2025",
+    "index": 98,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O monstro de gila, um lagarto encontrado em um deserto dos Estados Unidos, apresenta adaptações à falta de alimento nesse ambiente. Esse lagarto possui um hormônio que controla os níveis de açúcar em seu próprio sangue. Foi observado que esse hormônio também controla os níveis de açúcar no sangue de pessoas diabéticas.\n\nO sashimi (filé de peixe cru) de baiacu é uma iguaria muito apreciada no Japão. Entretanto, sua ingestão pode causar a morte por parada respiratória, pois esse peixe contém uma potente neurotoxina termoestável, a tetrodotoxina, que é produzida e armazenada nas gônadas e vísceras.\n\nRUSSELL, C. Ozempic e outros remédios inspirados em veneno de animais. Disponível em: www.bbc.com. Acesso em: 6 dez. 2024 (adaptado).\n\nConsiderando que animais de um mesmo grupo taxonômico podem apresentar características adaptativas semelhantes em ambientes similares, onde seria mais provável encontrar lagartos com essas características no território brasileiro?\n\nQue ação poderia evitar essa intoxicação?",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando o texto acima, responda:\n\n1) Onde seria mais provável encontrar lagartos com essas características no território brasileiro?\n\n2) Que ação poderia evitar a intoxicação causada pela ingestão do baiacu?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cerrado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Pampas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Caatinga.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Restinga.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Manusear o peixe sem provocar o rompimento dos órgãos internos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ],
+    "subcategory": "ecologia",
+    "competency": "C7",
+    "skill": "H12"
 }

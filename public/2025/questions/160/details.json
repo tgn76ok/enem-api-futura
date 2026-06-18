@@ -1,46 +1,46 @@
 {
-  "title": "Questão 160 - ENEM 2025",
-  "index": 160,
-  "year": 2025,
-  "language": null,
-  "discipline": "matematica",
-  "context": "Um recipiente tem um formato que faz com que, ao ser enchido de água com uma vazão constante, a distância D da lâmina de água ao tampo da mesa, em centímetros, aumente em relação ao tempo T, em minutos, de acordo com uma função do tipo\n\nD = k + tg[p(T + m)],\n\nsendo os parâmetros k, p e m números reais, para T variando entre 0 e 4 minutos, conforme ilustrado na figura, na qual estão apresentadas assíntotas verticais da função tangente utilizada na definição de D.\n\nOs quadrados em cinza na figura representam os quarteirões de uma parte do bairro onde moram João e seu amigo. O quadrado pequeno (A), pintado em preto e localizado no canto superior esquerdo de um quadrado maior, indica a casa do amigo de João. João também mora em uma casa de esquina, mas na extremidade nordeste de um quarteirão. Para chegar à casa de seu amigo, ao sair de casa, João deve caminhar pelo quarteirão onde mora na direção oeste, dobrar à direita, caminhar por três quarteirões na direção norte e dobrar à esquerda. A casa de seu amigo fica no segundo quarteirão a oeste.\n\nCom base nessas informações, o quarteirão onde se encontra a casa de João é representado pelo quadrado com a letra:",
-  "files": [],
-  "correctAlternative": "A",
-  "alternativesIntroduction": "O quarteirão onde se encontra a casa de João é representado pelo quadrado com a letra",
-  "alternatives": [
-    {
-      "letter": "A",
-      "text": "P.",
-      "file": null,
-      "isCorrect": true
-    },
-    {
-      "letter": "B",
-      "text": "Q.",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "C",
-      "text": "R.",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "D",
-      "text": "S.",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "E",
-      "text": "T.",
-      "file": null,
-      "isCorrect": false
-    }
-  ],
-  "subcategory": "funcoes",
-  "competency": "C7",
-  "skill": "H25"
+    "title": "Questão 160 - ENEM 2025",
+    "index": 160,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um recipiente tem um formato que faz com que, ao ser enchido de água com uma vazão constante, a distância D da lâmina de água ao tampo da mesa, em centímetros, aumente em relação ao tempo T, em minutos, de acordo com uma função do tipo\n\nD = k + tg[p(T + m)],\n\nsendo os parâmetros k, p e m números reais, para T variando entre 0 e 4 minutos, conforme ilustrado na figura, na qual estão apresentadas assíntotas verticais da função tangente utilizada na definição de D.\n\nOs quadrados em cinza na figura representam os quarteirões de uma parte do bairro onde moram João e seu amigo. O quadrado pequeno (A), pintado em preto e localizado no canto superior esquerdo de um quadrado maior, indica a casa do amigo de João. João também mora em uma casa de esquina, mas na extremidade nordeste de um quarteirão. Para chegar à casa de seu amigo, ao sair de casa, João deve caminhar pelo quarteirão onde mora na direção oeste, dobrar à direita, caminhar por três quarteirões na direção norte e dobrar à esquerda. A casa de seu amigo fica no segundo quarteirão a oeste.\n\nCom base nessas informações, o quarteirão onde se encontra a casa de João é representado pelo quadrado com a letra:",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O quarteirão onde se encontra a casa de João é representado pelo quadrado com a letra",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "P.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Q.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "S.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "T.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "funcoes",
+    "competency": "C7",
+    "skill": "H25"
 }

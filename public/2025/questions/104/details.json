@@ -1,46 +1,46 @@
 {
-  "title": "Questão 104 - ENEM 2025",
-  "index": 104,
-  "year": 2025,
-  "language": null,
-  "discipline": "ciencias-natureza",
-  "context": "A Figura 1 apresenta o esquema de um tubo de imagem em que um filamento, na posição A, libera elétrons por efeito termionônico. Esses elétrons formam um feixe estreito, que é acelerado por campos elétricos em direção à parte interna da tela. Nesse caminho, o feixe de elétrons passa por outro campo elétrico, na região B, atingindo, em seguida, a parte interna da tela do tubo, a qual é recoberta por um material que emite luz ao receber o impacto dos elétrons.\n\nNa Figura 2, a carga negativa representa o feixe de elétrons que é acelerado e, posteriormente, atinge um ponto da tela. O campo elétrico na região B apresenta a seguinte configuração:\n\n[Figura com configuração do campo elétrico — conteúdo visual não disponível em texto]",
-  "files": [],
-  "correctAlternative": "B",
-  "alternativesIntroduction": "Nessa situação, qual ponto da tela será atingido pelo feixe de elétrons?",
-  "alternatives": [
-    {
-      "letter": "A",
-      "text": "1",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "B",
-      "text": "2",
-      "file": null,
-      "isCorrect": true
-    },
-    {
-      "letter": "C",
-      "text": "3",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "D",
-      "text": "4",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "E",
-      "text": "5",
-      "file": null,
-      "isCorrect": false
-    }
-  ],
-  "subcategory": "eletrostatica",
-  "competency": "C5",
-  "skill": "H17"
+    "title": "Questão 104 - ENEM 2025",
+    "index": 104,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A Figura 1 apresenta o esquema de um tubo de imagem em que um filamento, na posição A, libera elétrons por efeito termionônico. Esses elétrons formam um feixe estreito, que é acelerado por campos elétricos em direção à parte interna da tela. Nesse caminho, o feixe de elétrons passa por outro campo elétrico, na região B, atingindo, em seguida, a parte interna da tela do tubo, a qual é recoberta por um material que emite luz ao receber o impacto dos elétrons.\n\nNa Figura 2, a carga negativa representa o feixe de elétrons que é acelerado e, posteriormente, atinge um ponto da tela. O campo elétrico na região B apresenta a seguinte configuração:\n\n[Figura com configuração do campo elétrico — conteúdo visual não disponível em texto]",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessa situação, qual ponto da tela será atingido pelo feixe de elétrons?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "fisica-eletricidade",
+    "competency": "C5",
+    "skill": "H17"
 }

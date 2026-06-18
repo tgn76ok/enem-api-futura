@@ -1,46 +1,46 @@
 {
-  "title": "Questão 172 - ENEM 2025",
-  "index": 172,
-  "year": 2025,
-  "language": null,
-  "discipline": "matematica",
-  "context": "Uma pessoa tem um carro bicombustível, que funciona a gás natural veicular (GNV) e a gasolina. O rendimento do carro, medido em km/m³ no caso do gás, ou em km/L no caso da gasolina, depende, entre outros fatores, da velocidade (em km/h) em que o carro trafega. Essa relação está em conformidade com os gráficos fornecidos.\n\nDurante um feriado, essa pessoa realizou uma viagem de 240 km. Para obter uma estimativa do gasto de combustível, assuma que em todo o trajeto a velocidade foi constante de 60 km/h. Considere que, durante metade do caminho, foi utilizado apenas GNV e, na outra metade, apenas gasolina. O preço pago pelo metro cúbico de GNV e pelo litro de gasolina foi, respectivamente, R$ 2,00 e R$ 3,00.\n\nQual foi a diferença, em reais, entre os gastos totais com gasolina e com GNV?",
-  "files": [],
-  "correctAlternative": "D",
-  "alternativesIntroduction": "Qual foi a diferença, em real, entre os gastos totais com gasolina e com GNV?",
-  "alternatives": [
-    {
-      "letter": "A",
-      "text": "4",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "B",
-      "text": "8",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "C",
-      "text": "14",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "D",
-      "text": "21",
-      "file": null,
-      "isCorrect": true
-    },
-    {
-      "letter": "E",
-      "text": "30",
-      "file": null,
-      "isCorrect": false
-    }
-  ],
-  "subcategory": "funcoes",
-  "competency": "C7",
-  "skill": "H12"
+    "title": "Questão 172 - ENEM 2025",
+    "index": 172,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa tem um carro bicombustível, que funciona a gás natural veicular (GNV) e a gasolina. O rendimento do carro, medido em km/m³ no caso do gás, ou em km/L no caso da gasolina, depende, entre outros fatores, da velocidade (em km/h) em que o carro trafega. Essa relação está em conformidade com os gráficos fornecidos.\n\nDurante um feriado, essa pessoa realizou uma viagem de 240 km. Para obter uma estimativa do gasto de combustível, assuma que em todo o trajeto a velocidade foi constante de 60 km/h. Considere que, durante metade do caminho, foi utilizado apenas GNV e, na outra metade, apenas gasolina. O preço pago pelo metro cúbico de GNV e pelo litro de gasolina foi, respectivamente, R$ 2,00 e R$ 3,00.\n\nQual foi a diferença, em reais, entre os gastos totais com gasolina e com GNV?",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual foi a diferença, em real, entre os gastos totais com gasolina e com GNV?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "14",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "21",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "30",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "funcoes",
+    "competency": "C7",
+    "skill": "H12"
 }

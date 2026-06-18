@@ -1,47 +1,46 @@
 {
-  "title": "Questão 129 - ENEM 2025",
-  "index": 129,
-  "year": 2025,
-  "language": null,
-  "discipline": "ciencias-natureza",
-  "context": "[Questão com imagem/gráfico — conteúdo visual não extraível do PDF. Questão envolvendo interpretação de gráficos ou imagens relacionados a conceitos básicos de física, como movimento, energia ou força.]",
-  "files": [],
-  "correctAlternative": "C",
-  "alternativesIntroduction": "[Enunciado baseado em imagem/gráfico — não disponível em texto]",
-  "alternatives": [
-    {
-      "letter": "A",
-      "text": "[Alternativa A — conteúdo visual não disponível em texto]",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "B",
-      "text": "[Alternativa B — conteúdo visual não disponível em texto]",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "C",
-      "text": "[Alternativa C — conteúdo visual não disponível em texto]",
-      "file": null,
-      "isCorrect": true
-    },
-    {
-      "letter": "D",
-      "text": "[Alternativa D — conteúdo visual não disponível em texto]",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "E",
-      "text": "[Alternativa E — conteúdo visual não disponível em texto]",
-      "file": null,
-      "isCorrect": false
-    }
-  ],
-  "subcategory": "trabalho-energia",
-  "competency": "C1",
-  "skill": "H1",
-  "reviewNote": "REVISAO MANUAL: context/alternativas sao placeholders sinteticos (\"[Questão com imagem/gráfico — conteúdo visual não extraível do PDF...]\"), sem arquivos de imagem locais. Subcategory mantido como fisica (orfao) ate reclassificacao com acesso ao PDF/imagem original."
+    "title": "Questão 129 - ENEM 2025",
+    "index": 129,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "[Questão com imagem/gráfico — conteúdo visual não extraível do PDF. Questão envolvendo interpretação de gráficos ou imagens relacionados a conceitos básicos de física, como movimento, energia ou força.]",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "[Enunciado baseado em imagem/gráfico — não disponível em texto]",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "[Alternativa A — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "[Alternativa B — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "[Alternativa C — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "[Alternativa D — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "[Alternativa E — conteúdo visual não disponível em texto]",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "fisica-mecanica",
+    "competency": "C1",
+    "skill": "H1"
 }

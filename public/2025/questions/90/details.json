@@ -1,46 +1,46 @@
 {
-  "title": "Questão 90 - ENEM 2025",
-  "index": 90,
-  "year": 2025,
-  "language": null,
-  "discipline": "ciencias-humanas",
-  "context": "A partir do século XIX e, principalmente, no século XX, iniciou-se o uso de produtos sintéticos na agricultura. No Brasil, a partir da década de 1960 e, posteriormente, nos anos 1970, os inseticidas ampliam sua fatia no mercado dos defensivos agrícolas.\n\nTROPPMAIR, H. Biogeografia e meio ambiente. Rio de Janeiro: TB, 2012 (adaptado).\n\nNos espaços agrícolas, a mudança técnica descrita provocou a diminuição da",
-  "files": [],
-  "correctAlternative": "B",
-  "alternativesIntroduction": "Nos espaços agrícolas, a mudança técnica descrita provocou a diminuição da",
-  "alternatives": [
-    {
-      "letter": "A",
-      "text": "desagregação de camadas pedológicas.",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "B",
-      "text": "diversidade de polinizadores naturais.",
-      "file": null,
-      "isCorrect": true
-    },
-    {
-      "letter": "C",
-      "text": "contaminação de lençóis freáticos.",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "D",
-      "text": "produtividade da terra cultivada.",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "E",
-      "text": "ocorrência da erosão laminar.",
-      "file": null,
-      "isCorrect": false
-    }
-  ],
-  "subcategory": "questoes-ambientais",
-  "competency": "C1",
-  "skill": "H12"
+    "title": "Questão 90 - ENEM 2025",
+    "index": 90,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A partir do século XIX e, principalmente, no século XX, iniciou-se o uso de produtos sintéticos na agricultura. No Brasil, a partir da década de 1960 e, posteriormente, nos anos 1970, os inseticidas ampliam sua fatia no mercado dos defensivos agrícolas.\n\nTROPPMAIR, H. Biogeografia e meio ambiente. Rio de Janeiro: TB, 2012 (adaptado).\n\nNos espaços agrícolas, a mudança técnica descrita provocou a diminuição da",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nos espaços agrícolas, a mudança técnica descrita provocou a diminuição da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "desagregação de camadas pedológicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "diversidade de polinizadores naturais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "contaminação de lençóis freáticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "produtividade da terra cultivada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ocorrência da erosão laminar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "questoes-ambientais",
+    "competency": "C1",
+    "skill": "H12"
 }

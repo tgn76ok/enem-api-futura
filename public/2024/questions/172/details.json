@@ -1,46 +1,46 @@
 {
-  "title": "Questão 172 - ENEM 2024",
-  "index": 172,
-  "year": 2024,
-  "language": null,
-  "discipline": "matematica",
-  "context": "O estádio do Maracanã passou por algumas modificações estruturais para a realização da Copa do Mundo de 2014, como, por exemplo, as dimensões do campo retangular. Para se adaptar aos padrões da Fifa, as dimensões do campo foram reduzidas de 110 m × 75 m para 105 m × 68 m.\n\nDisponível em: http://virgula.uol.com.br.\nAcesso em: 14 ago. 2013 (adaptado).",
-  "files": [],
-  "correctAlternative": "D",
-  "alternativesIntroduction": "Em quantos metros quadrados a área do campo do Maracanã foi reduzida?",
-  "alternatives": [
-    {
-      "letter": "A",
-      "text": "24",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "B",
-      "text": "35",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "C",
-      "text": "555",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "D",
-      "text": "1 110",
-      "file": null,
-      "isCorrect": true
-    },
-    {
-      "letter": "E",
-      "text": "1 145",
-      "file": null,
-      "isCorrect": false
-    }
-  ],
-  "subcategory": "funcoes",
-  "competency": "C7",
-  "skill": "H12"
+    "title": "Questão 172 - ENEM 2024",
+    "index": 172,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O estádio do Maracanã passou por algumas modificações estruturais para a realização da Copa do Mundo de 2014, como, por exemplo, as dimensões do campo retangular. Para se adaptar aos padrões da Fifa, as dimensões do campo foram reduzidas de 110 m × 75 m para 105 m × 68 m.\n\nDisponível em: http://virgula.uol.com.br.\nAcesso em: 14 ago. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em quantos metros quadrados a área do campo do Maracanã foi reduzida?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "24",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "35",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "555",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 110",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1 145",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "funcoes",
+    "competency": "C7",
+    "skill": "H12"
 }

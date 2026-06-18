@@ -1,46 +1,46 @@
 {
-  "title": "Questão 179 - ENEM 2024",
-  "index": 179,
-  "year": 2024,
-  "language": null,
-  "discipline": "matematica",
-  "context": "Uma caneca com água fervendo é retirada de um forno de micro-ondas. A temperatura T, em grau Celsius, da caneca, em função do tempo t, em minutos, pode ser modelada pela função T(t) = a + 80 b^t, representada no gráfico a seguir.\n\nOs valores das constantes a e b são:",
-  "files": [],
-  "correctAlternative": "C",
-  "alternativesIntroduction": "Os valores das constantes a e b são:",
-  "alternatives": [
-    {
-      "letter": "A",
-      "text": "a = 20; b = log(0,5)",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "B",
-      "text": "a = 100; b = 0,5",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "C",
-      "text": "a = 20; b = (0,5)^{1/10}",
-      "file": null,
-      "isCorrect": true
-    },
-    {
-      "letter": "D",
-      "text": "a = 40; b = 10",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "E",
-      "text": "a = 20; b = 40",
-      "file": null,
-      "isCorrect": false
-    }
-  ],
-  "subcategory": "funcoes",
-  "competency": "C7",
-  "skill": "H15"
+    "title": "Questão 179 - ENEM 2024",
+    "index": 179,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma caneca com água fervendo é retirada de um forno de micro-ondas. A temperatura T, em grau Celsius, da caneca, em função do tempo t, em minutos, pode ser modelada pela função T(t) = a + 80 b^t, representada no gráfico a seguir.\n\nOs valores das constantes a e b são:",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os valores das constantes a e b são:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a = 20; b = log(0,5)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a = 100; b = 0,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a = 20; b = (0,5)^{1/10}",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "a = 40; b = 10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a = 20; b = 40",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "funcoes",
+    "competency": "C7",
+    "skill": "H15"
 }

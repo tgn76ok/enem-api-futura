@@ -1,46 +1,46 @@
 {
-  "title": "Questão 163 - ENEM 2025",
-  "index": 163,
-  "year": 2025,
-  "language": null,
-  "discipline": "matematica",
-  "context": "Um artista, que costuma fazer desenhos com areia na praia, pediu a um banhista que fizesse um pequeno desenho, que serviria de esboço para uma grande obra de arte a ser feita na areia. Esse desenho está representado na figura.\n\nApós a conclusão, a obra de arte obtida manteve as mesmas proporções do desenho feito pelo banhista, sendo que as medidas indicadas na figura foram ampliadas para 30 m.\n\nEm qual escala esse desenho representa a obra de arte?",
-  "files": [],
-  "correctAlternative": "E",
-  "alternativesIntroduction": "Em qual escala esse desenho representa a obra de arte?",
-  "alternatives": [
-    {
-      "letter": "A",
-      "text": "1 : 1,5",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "B",
-      "text": "1 : 2,25",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "C",
-      "text": "1 : 10",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "D",
-      "text": "1 : 100",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "E",
-      "text": "1 : 150",
-      "file": null,
-      "isCorrect": true
-    }
-  ],
-  "subcategory": "funcoes",
-  "competency": "C7",
-  "skill": "H12"
+    "title": "Questão 163 - ENEM 2025",
+    "index": 163,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um artista, que costuma fazer desenhos com areia na praia, pediu a um banhista que fizesse um pequeno desenho, que serviria de esboço para uma grande obra de arte a ser feita na areia. Esse desenho está representado na figura.\n\nApós a conclusão, a obra de arte obtida manteve as mesmas proporções do desenho feito pelo banhista, sendo que as medidas indicadas na figura foram ampliadas para 30 m.\n\nEm qual escala esse desenho representa a obra de arte?",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Em qual escala esse desenho representa a obra de arte?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 : 1,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 : 2,25",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 : 10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 : 100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 : 150",
+            "file": null,
+            "isCorrect": true
+        }
+    ],
+    "subcategory": "funcoes",
+    "competency": "C7",
+    "skill": "H12"
 }

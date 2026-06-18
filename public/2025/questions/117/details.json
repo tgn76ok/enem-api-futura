@@ -1,46 +1,46 @@
 {
-  "title": "Questão 117 - ENEM 2025",
-  "index": 117,
-  "year": 2025,
-  "language": null,
-  "discipline": "ciencias-natureza",
-  "context": "O despejo acidental de óleo nos oceanos tem ocasionado incontáveis prejuízos à vida marinha e à economia de regiões costeiras. Métodos tradicionais de tratamento do despejo geram resíduos de difícil descarte e nem sempre são eficazes. Por isso, pesquisadores desenvolveram um filtro capaz de separar óleo e água. O dispositivo é montado sobre uma malha de aço com uma sequência de camadas. A primeira camada é formada por um polímero de carga positiva, a segunda é composta por nanopartículas de sílica (SiO2), a terceira é formada pelo mesmo polímero e a última é um surfactante.\n\nAlguns hormônios sexuais têm ganhado notável atenção nos últimos anos por suas concentrações cada vez maiores no solo e na água em todo o mundo. O motivo da preocupação é porque, em níveis poluentes, eles têm sido associados ao câncer de mama e ao câncer de próstata, além de perturbarem a fisiologia dos peixes, podendo, ainda, afetarem o desenvolvimento reprodutivo de animais domésticos e selvagens. Assim, o descarte inadequado desses hormônios representa uma séria ameaça ao solo, plantas, recursos hídricos e humanos. De baixa polaridade, eles apresentam uma solubilidade pequena e variável em água, dependendo dos grupos presentes em suas estruturas, representando um grande risco para os ambientes aquáticos.",
-  "files": [],
-  "correctAlternative": "B",
-  "alternativesIntroduction": "Na utilização desse dispositivo, a retenção do óleo ocorre",
-  "alternatives": [
-    {
-      "letter": "A",
-      "text": "no surfactante.",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "B",
-      "text": "na camada superior de polímero.",
-      "file": null,
-      "isCorrect": true
-    },
-    {
-      "letter": "C",
-      "text": "nas nanopartículas de sílica.",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "D",
-      "text": "na camada inferior de polímero.",
-      "file": null,
-      "isCorrect": false
-    },
-    {
-      "letter": "E",
-      "text": "na malha de aço.",
-      "file": null,
-      "isCorrect": false
-    }
-  ],
-  "subcategory": "quimica-ambiental",
-  "competency": "C7",
-  "skill": "H12"
+    "title": "Questão 117 - ENEM 2025",
+    "index": 117,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O despejo acidental de óleo nos oceanos tem ocasionado incontáveis prejuízos à vida marinha e à economia de regiões costeiras. Métodos tradicionais de tratamento do despejo geram resíduos de difícil descarte e nem sempre são eficazes. Por isso, pesquisadores desenvolveram um filtro capaz de separar óleo e água. O dispositivo é montado sobre uma malha de aço com uma sequência de camadas. A primeira camada é formada por um polímero de carga positiva, a segunda é composta por nanopartículas de sílica (SiO2), a terceira é formada pelo mesmo polímero e a última é um surfactante.\n\nAlguns hormônios sexuais têm ganhado notável atenção nos últimos anos por suas concentrações cada vez maiores no solo e na água em todo o mundo. O motivo da preocupação é porque, em níveis poluentes, eles têm sido associados ao câncer de mama e ao câncer de próstata, além de perturbarem a fisiologia dos peixes, podendo, ainda, afetarem o desenvolvimento reprodutivo de animais domésticos e selvagens. Assim, o descarte inadequado desses hormônios representa uma séria ameaça ao solo, plantas, recursos hídricos e humanos. De baixa polaridade, eles apresentam uma solubilidade pequena e variável em água, dependendo dos grupos presentes em suas estruturas, representando um grande risco para os ambientes aquáticos.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Na utilização desse dispositivo, a retenção do óleo ocorre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "no surfactante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "na camada superior de polímero.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "nas nanopartículas de sílica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "na camada inferior de polímero.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "na malha de aço.",
+            "file": null,
+            "isCorrect": false
+        }
+    ],
+    "subcategory": "quimica-inorganica",
+    "competency": "C7",
+    "skill": "H12"
 }
