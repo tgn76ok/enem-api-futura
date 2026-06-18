@@ -4,43 +4,43 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "[Questão com imagem/gráfico — conteúdo visual não extraível do PDF. Análise e interpretação de gráficos relacionados a conceitos básicos de física, como movimento, energia ou força.]",
+    "context": "A figura apresenta a herança genética de uma característica a partir do cruzamento de insetos de uma mesma espécie.\n\n[Figura com cruzamento genético de insetos — conteúdo visual não disponível em texto]",
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "[Enunciado baseado em imagem/gráfico — não disponível em texto]",
+    "alternativesIntroduction": "Qual alternativa representa a proporção fenotípica da prole resultante do cruzamento entre indivíduos da primeira geração?",
     "alternatives": [
         {
             "letter": "A",
-            "text": "[Alternativa A — conteúdo visual não disponível em texto]",
+            "text": "1:1",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "[Alternativa B — conteúdo visual não disponível em texto]",
+            "text": "3:1",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "[Alternativa C — conteúdo visual não disponível em texto]",
+            "text": "1:2:1",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "[Alternativa D — conteúdo visual não disponível em texto]",
+            "text": "9:3:3:1",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "[Alternativa E — conteúdo visual não disponível em texto]",
+            "text": "1:2:1 (codominância)",
             "file": null,
             "isCorrect": true
         }
     ],
-    "subcategory": "fisica",
-    "competency": "C1",
-    "skill": "H1"
+    "subcategory": "genetica",
+    "competency": "C7",
+    "skill": "H15"
 }

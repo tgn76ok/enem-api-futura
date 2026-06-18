@@ -4,43 +4,43 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "[Questão com imagem/gráfico — conteúdo visual não extraível do PDF. Questão envolvendo análise e interpretação de gráficos relacionados a conceitos de física, como movimento, energia ou eletricidade.]",
+    "context": "Em sua maioria, os equipamentos eletrônicos domésticos demandam baixa potência elétrica em corrente contínua. Para alimentá-los, uma fonte externa ou embutida transforma a corrente alternada em corrente contínua de baixa tensão. Entretanto, cada equipamento tem suas especificidades, e muitas vezes não é possível simplesmente trocar essas fontes sem levar em conta a tensão, a corrente ou a potência elétrica de saída.\n\nConsidere um equipamento de resistência elétrica Rc que funciona corretamente apenas em um dado valor de tensão. Porém, a única fonte de alimentação disponível fornece uma tensão 20% superior à tensão recomendada. Para adaptar essa fonte ao aparelho, a associação de um resistor de proteção RP, de potência adequada, se faz necessária.\n\n[Figura com configuração do circuito — conteúdo visual não disponível em texto]",
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "[Enunciado baseado em imagem/gráfico — não disponível em texto]",
+    "alternativesIntroduction": "A configuração adequada do circuito e o valor do resistor de proteção, em relação ao valor da resistência do equipamento, são:",
     "alternatives": [
         {
             "letter": "A",
-            "text": "[Alternativa A — conteúdo visual não disponível em texto]",
+            "text": "[Circuito A — conteúdo visual não disponível em texto]",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "[Alternativa B — conteúdo visual não disponível em texto]",
+            "text": "[Circuito B — conteúdo visual não disponível em texto]",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "[Alternativa C — conteúdo visual não disponível em texto]",
+            "text": "[Circuito C — conteúdo visual não disponível em texto]",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "[Alternativa D — conteúdo visual não disponível em texto]",
+            "text": "[Circuito D — conteúdo visual não disponível em texto]",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "[Alternativa E — conteúdo visual não disponível em texto]",
+            "text": "[Circuito E — conteúdo visual não disponível em texto]",
             "file": null,
             "isCorrect": true
         }
     ],
-    "subcategory": "fisica",
-    "competency": "C1",
-    "skill": "H5"
+    "subcategory": "fisica-eletricidade",
+    "competency": "C5",
+    "skill": "H19"
 }

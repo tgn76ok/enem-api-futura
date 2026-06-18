@@ -4,43 +4,43 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "[Questão com imagem/gráfico — conteúdo visual não extraível do PDF. Interpretação e análise de gráficos relacionados a conceitos básicos de física, como movimento, energia ou força]",
+    "context": "O despejo acidental de óleo nos oceanos tem ocasionado incontáveis prejuízos à vida marinha e à economia de regiões costeiras. Métodos tradicionais de tratamento do despejo geram resíduos de difícil descarte e nem sempre são eficazes. Por isso, pesquisadores desenvolveram um filtro capaz de separar óleo e água. O dispositivo é montado sobre uma malha de aço com uma sequência de camadas. A primeira camada é formada por um polímero de carga positiva, a segunda é composta por nanopartículas de sílica SiO2, a terceira é formada pelo mesmo polímero e a última é um surfactante, conforme apresentado na figura.\n\n[Figura com esquema do dispositivo de filtragem — conteúdo visual não disponível em texto]",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "[Enunciado baseado em imagem/gráfico — não disponível em texto]",
+    "alternativesIntroduction": "Na utilização desse dispositivo, a retenção do óleo ocorre",
     "alternatives": [
         {
             "letter": "A",
-            "text": "[Alternativa A — conteúdo visual não disponível em texto]",
+            "text": "no surfactante.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "[Alternativa B — conteúdo visual não disponível em texto]",
+            "text": "na camada superior de polímero.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "[Alternativa C — conteúdo visual não disponível em texto]",
+            "text": "nas nanopartículas de sílica.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "[Alternativa D — conteúdo visual não disponível em texto]",
+            "text": "na camada inferior de polímero.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "E",
-            "text": "[Alternativa E — conteúdo visual não disponível em texto]",
+            "text": "na malha de aço.",
             "file": null,
             "isCorrect": false
         }
     ],
-    "subcategory": "fisica",
-    "competency": "C1",
-    "skill": "H1"
+    "subcategory": "quimica-organica",
+    "competency": "C6",
+    "skill": "H21"
 }
