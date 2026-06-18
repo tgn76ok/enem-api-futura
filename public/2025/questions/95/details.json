@@ -1,46 +1,46 @@
 {
-    "title": "Questão 95 - ENEM 2025",
-    "index": 95,
-    "year": 2025,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "O monstro de gila, um lagarto encontrado em um deserto dos Estados Unidos, apresenta adaptações à falta de alimento nesse ambiente. Esse lagarto possui um hormônio que controla os níveis de açúcar em seu próprio sangue. Foi observado que esse hormônio também controla os níveis de açúcar no sangue de pessoas diabéticas.\n\nConsiderando que animais de um mesmo grupo taxonômico podem apresentar características adaptativas semelhantes em ambientes similares, onde seria mais provável encontrar lagartos com essas características no território brasileiro?",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Considerando o texto acima, responda: onde seria mais provável encontrar lagartos com essas características adaptativas no território brasileiro?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Cerrado.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Pampas.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Caatinga.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "Restinga.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Pantanal.",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "ecologia-adaptacoes",
-    "competency": "C7",
-    "skill": "H12"
+  "title": "Questão 95 - ENEM 2025",
+  "index": 95,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "O monstro de gila, um lagarto encontrado em um deserto dos Estados Unidos, apresenta adaptações à falta de alimento nesse ambiente. Esse lagarto possui um hormônio que controla os níveis de açúcar em seu próprio sangue. Foi observado que esse hormônio também controla os níveis de açúcar no sangue de pessoas diabéticas.\n\nConsiderando que animais de um mesmo grupo taxonômico podem apresentar características adaptativas semelhantes em ambientes similares, onde seria mais provável encontrar lagartos com essas características no território brasileiro?",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Considerando o texto acima, responda: onde seria mais provável encontrar lagartos com essas características adaptativas no território brasileiro?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Cerrado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Pampas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Caatinga.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Restinga.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Pantanal.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "ecologia",
+  "competency": "C7",
+  "skill": "H12"
 }

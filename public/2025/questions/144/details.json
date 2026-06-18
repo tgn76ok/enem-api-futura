@@ -1,46 +1,46 @@
 {
-    "title": "Questão 144 - ENEM 2025",
-    "index": 144,
-    "year": 2025,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Em um jogo de computador, um cubo se encontra inicialmente posicionado conforme indicado na figura.\n\nCada deslocamento efetuado por esse cubo se dá sempre em uma das direções definidas pelos três eixos coordenados.\nAo se movimentar a partir da posição inicial, esse cubo se aproximou 3 unidades do plano yz, se afastou 5 unidades do plano xz e se aproximou 4 unidades do plano xy.\n\nA figura que apresenta as projeções ortogonais desse cubo sobre os três planos coordenados, após efetuar as movimentações descritas, é:",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Assinale a alternativa que apresenta as projeções ortogonais corretas do cubo após os deslocamentos descritos.",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Projeções ortogonais que não correspondem ao deslocamento descrito.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Projeções ortogonais que indicam deslocamento incorreto em relação aos planos coordenados.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Projeções ortogonais que não refletem a aproximação e afastamento indicados nos planos yz, xz e xy.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Projeções ortogonais que apresentam erros na posição final do cubo em relação aos planos coordenados.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Projeções ortogonais que representam corretamente o cubo após se aproximar 3 unidades do plano yz, afastar 5 unidades do plano xz e se aproximar 4 unidades do plano xy.",
-            "file": null,
-            "isCorrect": true
-        }
-    ],
-    "subcategory": "geometria",
-    "competency": "C7",
-    "skill": "H25"
+  "title": "Questão 144 - ENEM 2025",
+  "index": 144,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Em um jogo de computador, um cubo se encontra inicialmente posicionado conforme indicado na figura.\n\nCada deslocamento efetuado por esse cubo se dá sempre em uma das direções definidas pelos três eixos coordenados.\nAo se movimentar a partir da posição inicial, esse cubo se aproximou 3 unidades do plano yz, se afastou 5 unidades do plano xz e se aproximou 4 unidades do plano xy.\n\nA figura que apresenta as projeções ortogonais desse cubo sobre os três planos coordenados, após efetuar as movimentações descritas, é:",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Assinale a alternativa que apresenta as projeções ortogonais corretas do cubo após os deslocamentos descritos.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Projeções ortogonais que não correspondem ao deslocamento descrito.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Projeções ortogonais que indicam deslocamento incorreto em relação aos planos coordenados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Projeções ortogonais que não refletem a aproximação e afastamento indicados nos planos yz, xz e xy.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Projeções ortogonais que apresentam erros na posição final do cubo em relação aos planos coordenados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Projeções ortogonais que representam corretamente o cubo após se aproximar 3 unidades do plano yz, afastar 5 unidades do plano xz e se aproximar 4 unidades do plano xy.",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "subcategory": "geometria-espacial",
+  "competency": "C7",
+  "skill": "H25"
 }

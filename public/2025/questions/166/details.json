@@ -1,46 +1,46 @@
 {
-    "title": "Questão 166 - ENEM 2025",
-    "index": 166,
-    "year": 2025,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Um dono de sorveteria armazena sorvete em potes com capacidade de 20.000 cm³. Ele serve o sorvete em taças, em porções de 250 mL cada. Considerando que 1 cm³ é equivalente a 1 mL, determine a quantidade de taças que ele consegue servir a partir de um pote cheio de sorvete.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A quantidade de taças que ele consegue servir a partir de um pote cheio de sorvete é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "5",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "8",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "50",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "80",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "800",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "matematica-analise-dimensional",
-    "competency": "C7",
-    "skill": "H12"
+  "title": "Questão 166 - ENEM 2025",
+  "index": 166,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Um dono de sorveteria armazena sorvete em potes com capacidade de 20.000 cm³. Ele serve o sorvete em taças, em porções de 250 mL cada. Considerando que 1 cm³ é equivalente a 1 mL, determine a quantidade de taças que ele consegue servir a partir de um pote cheio de sorvete.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A quantidade de taças que ele consegue servir a partir de um pote cheio de sorvete é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "5",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "8",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "50",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "80",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "800",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "grandezas-medidas",
+  "competency": "C7",
+  "skill": "H12"
 }

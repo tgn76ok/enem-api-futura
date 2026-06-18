@@ -1,46 +1,46 @@
 {
-    "title": "Questão 117 - ENEM 2024",
-    "index": 117,
-    "year": 2024,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Uma ambulância em alta velocidade com a sirene ligada desloca-se em direção a um radar operado por uma pessoa. O radar emite ondas de rádio com frequência f0 que são refletidas pela dianteira da ambulância, retornando para o detector com frequência fr. A percepção do operador do radar, em relação ao som emitido pela sirene, é de que este se altera à medida que a ambulância se aproxima ou se afasta.",
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Durante a aproximação, como o operador percebe o som da sirene e qual é a relação entre as frequências fr e f0 medidas pelo radar?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Mais grave do que o som emitido e fr < f0.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Mais agudo do que o som emitido e fr < f0.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Mais agudo do que o som emitido e fr = f0.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Mais agudo do que o som emitido e fr > f0.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "Mais grave do que o som emitido e fr > f0.",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "fisica-mecanica",
-    "competency": "C1",
-    "skill": "H1"
+  "title": "Questão 117 - ENEM 2024",
+  "index": 117,
+  "year": 2024,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "Uma ambulância em alta velocidade com a sirene ligada desloca-se em direção a um radar operado por uma pessoa. O radar emite ondas de rádio com frequência f0 que são refletidas pela dianteira da ambulância, retornando para o detector com frequência fr. A percepção do operador do radar, em relação ao som emitido pela sirene, é de que este se altera à medida que a ambulância se aproxima ou se afasta.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Durante a aproximação, como o operador percebe o som da sirene e qual é a relação entre as frequências fr e f0 medidas pelo radar?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Mais grave do que o som emitido e fr < f0.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Mais agudo do que o som emitido e fr < f0.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Mais agudo do que o som emitido e fr = f0.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Mais agudo do que o som emitido e fr > f0.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Mais grave do que o som emitido e fr > f0.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "ondulatoria",
+  "competency": "C1",
+  "skill": "H1"
 }

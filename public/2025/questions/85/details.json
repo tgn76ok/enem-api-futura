@@ -1,46 +1,46 @@
 {
-    "title": "Questão 85 - ENEM 2025",
-    "index": 85,
-    "year": 2025,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": "Nos Estados Unidos, um hotel perto de um parque foi engolido por uma enorme cratera. E não é a primeira vez que esse tipo de incidente acontece na Flórida. Em minutos, uma ala inteira do hotel era engolida pela cratera de 30 metros de diâmetro e cinco de profundidade. O diretor do resort em Clermont, perto dos parques temáticos da Flórida, diz que o prédio tinha 15 anos, e que até então o solo nunca havia apresentado problemas.\n\nOs afundamentos são um fenômeno comum na Flórida por causa das formações de calcário e argila no subsolo, mas às vezes chuvas fortes, ou a drenagem do solo para construção, acabam contribuindo para o surgimento desses buracos.\n\nA situação de desmoronamento do solo descrita no texto origina-se da\n\nA cristalização da estrutura geológica.\nB ação do intemperismo químico.\nC recomposição da mata ciliar.\nD acumulação de sedimentos orgânicos.\nE impermeabilização da superfície ocupada.",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "A situação de desmoronamento do solo descrita no texto origina-se da",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "cristalização da estrutura geológica.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "ação do intemperismo químico.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "recomposição da mata ciliar.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "acumulação de sedimentos orgânicos.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "impermeabilização da superfície ocupada.",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "geologia-e-meio-ambiente",
-    "competency": "C1",
-    "skill": "H1"
+  "title": "Questão 85 - ENEM 2025",
+  "index": 85,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-humanas",
+  "context": "Nos Estados Unidos, um hotel perto de um parque foi engolido por uma enorme cratera. E não é a primeira vez que esse tipo de incidente acontece na Flórida. Em minutos, uma ala inteira do hotel era engolida pela cratera de 30 metros de diâmetro e cinco de profundidade. O diretor do resort em Clermont, perto dos parques temáticos da Flórida, diz que o prédio tinha 15 anos, e que até então o solo nunca havia apresentado problemas.\n\nOs afundamentos são um fenômeno comum na Flórida por causa das formações de calcário e argila no subsolo, mas às vezes chuvas fortes, ou a drenagem do solo para construção, acabam contribuindo para o surgimento desses buracos.\n\nA situação de desmoronamento do solo descrita no texto origina-se da\n\nA cristalização da estrutura geológica.\nB ação do intemperismo químico.\nC recomposição da mata ciliar.\nD acumulação de sedimentos orgânicos.\nE impermeabilização da superfície ocupada.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A situação de desmoronamento do solo descrita no texto origina-se da",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "cristalização da estrutura geológica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ação do intemperismo químico.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "recomposição da mata ciliar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "acumulação de sedimentos orgânicos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "impermeabilização da superfície ocupada.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "geografia-fisica",
+  "competency": "C1",
+  "skill": "H1"
 }

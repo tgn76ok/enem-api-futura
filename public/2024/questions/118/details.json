@@ -1,46 +1,46 @@
 {
-    "title": "Questão 118 - ENEM 2024",
-    "index": 118,
-    "year": 2024,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Mirascópio 3D: produtor de ilusão instantânea\n\nO equipamento ilustrado na figura, de dimensões apresentadas no esquema, é composto por dois espelhos côncavos E1 e E2, apoiados um sobre o outro por suas bordas, de tal forma que o vértice de E1 coincide com o foco de E2 e vice-versa. Na abertura circular de E2, é formada uma imagem tridimensional de um objeto posicionado sobre o vértice de E1. Essa imagem é formada a partir dos raios procedentes do objeto, refletidos por E2 e E1, respectivamente, conforme o esquema.\n\nOs observadores julgam visualizar o objeto quando estão, de fato, visualizando sua imagem. O efeito só é possível porque as superfícies de ambos os espelhos são de extrema qualidade.\n\nSALZMANN, W. Disponível em: https://wissenstexte.de. Acesso em: 27 jun. 2024 (adaptado).\n\n[Imagem/Gráfico não disponível no texto]",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "A natureza da imagem formada e a distância vertical entre cada ponto objeto e seu correspondente ponto imagem são",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "real e 5 cm.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "real e 3,8 cm.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "real e 7,6 cm.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "virtual e 7,6 cm.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "virtual e 3,8 cm.",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "fisica-ondas",
-    "competency": "C5",
-    "skill": "H12"
+  "title": "Questão 118 - ENEM 2024",
+  "index": 118,
+  "year": 2024,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "Mirascópio 3D: produtor de ilusão instantânea\n\nO equipamento ilustrado na figura, de dimensões apresentadas no esquema, é composto por dois espelhos côncavos E1 e E2, apoiados um sobre o outro por suas bordas, de tal forma que o vértice de E1 coincide com o foco de E2 e vice-versa. Na abertura circular de E2, é formada uma imagem tridimensional de um objeto posicionado sobre o vértice de E1. Essa imagem é formada a partir dos raios procedentes do objeto, refletidos por E2 e E1, respectivamente, conforme o esquema.\n\nOs observadores julgam visualizar o objeto quando estão, de fato, visualizando sua imagem. O efeito só é possível porque as superfícies de ambos os espelhos são de extrema qualidade.\n\nSALZMANN, W. Disponível em: https://wissenstexte.de. Acesso em: 27 jun. 2024 (adaptado).\n\n[Imagem/Gráfico não disponível no texto]",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A natureza da imagem formada e a distância vertical entre cada ponto objeto e seu correspondente ponto imagem são",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "real e 5 cm.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "real e 3,8 cm.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "real e 7,6 cm.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "virtual e 7,6 cm.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "virtual e 3,8 cm.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "optica",
+  "competency": "C5",
+  "skill": "H12"
 }

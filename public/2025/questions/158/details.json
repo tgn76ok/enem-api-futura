@@ -1,46 +1,46 @@
 {
-    "title": "Questão 158 - ENEM 2025",
-    "index": 158,
-    "year": 2025,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Pace é um termo usado por um corredor para denominar o seu ritmo médio em uma corrida. Representa o tempo médio, em segundos, que esse corredor leva para percorrer 1 km.\n\nO esquema apresenta o tempo, em segundos, que um corredor levou para cruzar as marcas que definem os quatro primeiros trechos de 1 km, em uma corrida de 5 km, e o tempo gasto para percorrer cada trecho de 1 km.\n\nO melhor pace que esse corredor alcançou em corridas de 5 km foi 281 s/km.\n\nPara que consiga repetir nessa corrida seu melhor pace em corridas de 5 km, seu tempo, no 5º trecho, deve ser quantos segundos menor do que o que ele gastou para percorrer o 4º trecho?",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Para que consiga repetir nessa corrida seu melhor pace em corridas de 5 km, seu tempo, no 5º trecho, deve ser quantos segundos menor do que o que ele gastou para percorrer o 4º trecho?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "1 segundo",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "2 segundos",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "8 segundos",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "9 segundos",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "15 segundos",
-            "file": null,
-            "isCorrect": true
-        }
-    ],
-    "subcategory": "funcoes-matematicas",
-    "competency": "C7",
-    "skill": "H25"
+  "title": "Questão 158 - ENEM 2025",
+  "index": 158,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Pace é um termo usado por um corredor para denominar o seu ritmo médio em uma corrida. Representa o tempo médio, em segundos, que esse corredor leva para percorrer 1 km.\n\nO esquema apresenta o tempo, em segundos, que um corredor levou para cruzar as marcas que definem os quatro primeiros trechos de 1 km, em uma corrida de 5 km, e o tempo gasto para percorrer cada trecho de 1 km.\n\nO melhor pace que esse corredor alcançou em corridas de 5 km foi 281 s/km.\n\nPara que consiga repetir nessa corrida seu melhor pace em corridas de 5 km, seu tempo, no 5º trecho, deve ser quantos segundos menor do que o que ele gastou para percorrer o 4º trecho?",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Para que consiga repetir nessa corrida seu melhor pace em corridas de 5 km, seu tempo, no 5º trecho, deve ser quantos segundos menor do que o que ele gastou para percorrer o 4º trecho?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1 segundo",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2 segundos",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "8 segundos",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "9 segundos",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "15 segundos",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "subcategory": "funcoes",
+  "competency": "C7",
+  "skill": "H25"
 }

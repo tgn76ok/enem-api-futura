@@ -1,46 +1,46 @@
 {
-    "title": "Questão 103 - ENEM 2025",
-    "index": 103,
-    "year": 2025,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "Para transportar uma caixa do primeiro para o segundo piso de uma construção, um trabalhador precisará arrastá-la sobre um plano inclinado. O trabalhador começa a arrastar a caixa no primeiro piso, exercendo sobre ela uma força de grande intensidade, paralela ao seu deslocamento. Na medida em que a caixa sobe o plano inclinado, ele decide reduzir a força sobre ela, arrastando-a lentamente até chegar ao segundo piso. Considere que a caixa permanece em movimento nos encontros dos pisos com o plano inclinado, e que a rugosidade entre as superfícies permanece a mesma durante todo o percurso.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "O comportamento da força de atrito entre a caixa e o chão no plano inclinado é representado em:",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "[Gráfico A — conteúdo visual não disponível em texto]",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "[Gráfico B — conteúdo visual não disponível em texto]",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "[Gráfico C — conteúdo visual não disponível em texto]",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "[Gráfico D — conteúdo visual não disponível em texto]",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "[Gráfico E — conteúdo visual não disponível em texto]",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "fisica-mecanica",
-    "competency": "C4",
-    "skill": "H12"
+  "title": "Questão 103 - ENEM 2025",
+  "index": 103,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "Para transportar uma caixa do primeiro para o segundo piso de uma construção, um trabalhador precisará arrastá-la sobre um plano inclinado. O trabalhador começa a arrastar a caixa no primeiro piso, exercendo sobre ela uma força de grande intensidade, paralela ao seu deslocamento. Na medida em que a caixa sobe o plano inclinado, ele decide reduzir a força sobre ela, arrastando-a lentamente até chegar ao segundo piso. Considere que a caixa permanece em movimento nos encontros dos pisos com o plano inclinado, e que a rugosidade entre as superfícies permanece a mesma durante todo o percurso.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O comportamento da força de atrito entre a caixa e o chão no plano inclinado é representado em:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "[Gráfico A — conteúdo visual não disponível em texto]",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "[Gráfico B — conteúdo visual não disponível em texto]",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "[Gráfico C — conteúdo visual não disponível em texto]",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "[Gráfico D — conteúdo visual não disponível em texto]",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "[Gráfico E — conteúdo visual não disponível em texto]",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "dinamica",
+  "competency": "C4",
+  "skill": "H12"
 }

@@ -1,46 +1,46 @@
 {
-    "title": "Questão 180 - ENEM 2024",
-    "index": 180,
-    "year": 2024,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Em uma empresa, é comercializado um produto em embalagens no formato de cilindro circular reto, com raio medindo 3 cm e altura medindo 15 cm. Essa empresa planeja comercializar o mesmo produto em embalagens no formato de cubo, com capacidade igual a 80% da capacidade da embalagem cilíndrica utilizada atualmente. Use 3 como valor aproximado para π.",
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "A medida da aresta da nova embalagem, em centímetro, deve ser",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "6",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "18",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "6√6",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "6³√6",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "3√3√12",
-            "file": null,
-            "isCorrect": true
-        }
-    ],
-    "subcategory": "geometria",
-    "competency": "C7",
-    "skill": "H15"
+  "title": "Questão 180 - ENEM 2024",
+  "index": 180,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Em uma empresa, é comercializado um produto em embalagens no formato de cilindro circular reto, com raio medindo 3 cm e altura medindo 15 cm. Essa empresa planeja comercializar o mesmo produto em embalagens no formato de cubo, com capacidade igual a 80% da capacidade da embalagem cilíndrica utilizada atualmente. Use 3 como valor aproximado para π.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A medida da aresta da nova embalagem, em centímetro, deve ser",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "6",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "18",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "6√6",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "6³√6",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "3√3√12",
+      "file": null,
+      "isCorrect": true
+    }
+  ],
+  "subcategory": "geometria-espacial",
+  "competency": "C7",
+  "skill": "H15"
 }

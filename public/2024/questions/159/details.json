@@ -1,46 +1,46 @@
 {
-    "title": "Questão 159 - ENEM 2024",
-    "index": 159,
-    "year": 2024,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Em uma loja de defensivos agrícolas, os preços de alguns produtos foram divulgados em um cartaz.\n\nSabe-se que 1 litro de defensivo do Tipo A é suficiente para aplicação em 0,5 hectare (ha), enquanto que 1 litro de defensivo do Tipo B é suficiente para aplicação em 0,4 ha. Um agricultor precisa comprar, nessa loja, uma quantidade de litros de defensivo suficiente para aplicar em uma área de 20 ha, além de levar uma máscara para aplicação.",
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "O valor mínimo, em real, a ser gasto pelo agricultor é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "147,00",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "150,00",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "162,50",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "165,75",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "168,00",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "funcoes-matematicas",
-    "competency": "C7",
-    "skill": "H15"
+  "title": "Questão 159 - ENEM 2024",
+  "index": 159,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Em uma loja de defensivos agrícolas, os preços de alguns produtos foram divulgados em um cartaz.\n\nSabe-se que 1 litro de defensivo do Tipo A é suficiente para aplicação em 0,5 hectare (ha), enquanto que 1 litro de defensivo do Tipo B é suficiente para aplicação em 0,4 ha. Um agricultor precisa comprar, nessa loja, uma quantidade de litros de defensivo suficiente para aplicar em uma área de 20 ha, além de levar uma máscara para aplicação.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O valor mínimo, em real, a ser gasto pelo agricultor é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "147,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "150,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "162,50",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "165,75",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "168,00",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "funcoes",
+  "competency": "C7",
+  "skill": "H15"
 }

@@ -1,46 +1,46 @@
 {
-    "title": "Questão 156 - ENEM 2024",
-    "index": 156,
-    "year": 2024,
-    "language": null,
-    "discipline": "matematica",
-    "context": "O uso de aplicativos de transporte tem sido uma alternativa à população que busca preços mais competitivos para se locomover, principalmente nas grandes cidades. As formas usadas para determinar o valor cobrado por cada viagem variam de um aplicativo para outro, mas, em geral, o valor V a ser pago, em real, varia em função de:\n\n- tarifa base F: valor fixo, em real, cobrado no início da viagem;\n- tempo T: tempo, em minuto, de duração da viagem;\n- distância D: distância percorrida, em quilômetro.\n\nUm desses aplicativos cobra R$ 2,00 de valor fixo, acrescido de R$ 0,26 por minuto de viagem e de R$ 1,40 por quilômetro rodado.\n\nNessas condições, a expressão que fornece o valor V a ser pago por uma viagem desse aplicativo é:",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Qual das expressões a seguir representa corretamente o valor V a ser pago por uma viagem nesse aplicativo?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "2,00F + 0,26T + 1,40D",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "2,00 + 0,26T + 1,40D",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "2,00 + 0,26T + D",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "0,26T + 1,40D",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "F + T + D",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "funcoes-matematicas",
-    "competency": "C7",
-    "skill": "H12"
+  "title": "Questão 156 - ENEM 2024",
+  "index": 156,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "O uso de aplicativos de transporte tem sido uma alternativa à população que busca preços mais competitivos para se locomover, principalmente nas grandes cidades. As formas usadas para determinar o valor cobrado por cada viagem variam de um aplicativo para outro, mas, em geral, o valor V a ser pago, em real, varia em função de:\n\n- tarifa base F: valor fixo, em real, cobrado no início da viagem;\n- tempo T: tempo, em minuto, de duração da viagem;\n- distância D: distância percorrida, em quilômetro.\n\nUm desses aplicativos cobra R$ 2,00 de valor fixo, acrescido de R$ 0,26 por minuto de viagem e de R$ 1,40 por quilômetro rodado.\n\nNessas condições, a expressão que fornece o valor V a ser pago por uma viagem desse aplicativo é:",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Qual das expressões a seguir representa corretamente o valor V a ser pago por uma viagem nesse aplicativo?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2,00F + 0,26T + 1,40D",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2,00 + 0,26T + 1,40D",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "2,00 + 0,26T + D",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "0,26T + 1,40D",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "F + T + D",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "funcoes",
+  "competency": "C7",
+  "skill": "H12"
 }

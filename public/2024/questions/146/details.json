@@ -1,46 +1,46 @@
 {
-    "title": "Questão 146 - ENEM 2024",
-    "index": 146,
-    "year": 2024,
-    "language": null,
-    "discipline": "matematica",
-    "context": "Projetistas de uma fábrica de amortecedores realizaram uma série de experimentos que produziram oscilações semelhantes ao comportamento do gráfico de uma senoide, para qualquer tipo de estrada. Cada experimento teve duração de 20 minutos, sendo os 9 primeiros minutos em superfície que simula uma rodovia asfaltada, e os 11 minutos restantes em superfície que simula uma estrada de chão.\n\nPara os amortecedores serem aprovados no experimento, exige-se que as amplitudes das ondas oscilatórias, em cada tipo de superfície, sejam constantes e, ainda, que a amplitude da oscilação do amortecedor no asfalto seja menor do que sua amplitude da oscilação na estrada de chão.\n\nO tipo de gráfico que descreve o comportamento oscilatório de um amortecedor aprovado nesse experimento é:",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "O tipo de gráfico que descreve o comportamento oscilatório de um amortecedor aprovado nesse experimento é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Um gráfico de senoide com amplitude constante nos primeiros 9 minutos (asfalto) menor que a amplitude constante nos 11 minutos seguintes (estrada de chão).",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Um gráfico de senoide com amplitude crescente durante os 20 minutos do experimento.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Um gráfico de senoide com amplitude constante e igual nos dois tipos de superfície.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Um gráfico de senoide com amplitude constante nos primeiros 9 minutos maior que a amplitude nos 11 minutos seguintes.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Um gráfico de senoide com amplitude decrescente durante os 20 minutos do experimento.",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "funcoes-matematicas",
-    "competency": "C7",
-    "skill": "H15"
+  "title": "Questão 146 - ENEM 2024",
+  "index": 146,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Projetistas de uma fábrica de amortecedores realizaram uma série de experimentos que produziram oscilações semelhantes ao comportamento do gráfico de uma senoide, para qualquer tipo de estrada. Cada experimento teve duração de 20 minutos, sendo os 9 primeiros minutos em superfície que simula uma rodovia asfaltada, e os 11 minutos restantes em superfície que simula uma estrada de chão.\n\nPara os amortecedores serem aprovados no experimento, exige-se que as amplitudes das ondas oscilatórias, em cada tipo de superfície, sejam constantes e, ainda, que a amplitude da oscilação do amortecedor no asfalto seja menor do que sua amplitude da oscilação na estrada de chão.\n\nO tipo de gráfico que descreve o comportamento oscilatório de um amortecedor aprovado nesse experimento é:",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O tipo de gráfico que descreve o comportamento oscilatório de um amortecedor aprovado nesse experimento é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Um gráfico de senoide com amplitude constante nos primeiros 9 minutos (asfalto) menor que a amplitude constante nos 11 minutos seguintes (estrada de chão).",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Um gráfico de senoide com amplitude crescente durante os 20 minutos do experimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Um gráfico de senoide com amplitude constante e igual nos dois tipos de superfície.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Um gráfico de senoide com amplitude constante nos primeiros 9 minutos maior que a amplitude nos 11 minutos seguintes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Um gráfico de senoide com amplitude decrescente durante os 20 minutos do experimento.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "funcoes",
+  "competency": "C7",
+  "skill": "H15"
 }

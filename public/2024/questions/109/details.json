@@ -1,46 +1,46 @@
 {
-    "title": "Questão 109 - ENEM 2024",
-    "index": 109,
-    "year": 2024,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": "O LED é um dispositivo eletrônico que conduz corrente elétrica em um único sentido, sendo caracterizado por uma tensão e uma corrente máxima de funcionamento, Imáx. Um LED acende apenas se a corrente que o percorre está no sentido permitido e se a diferença de potencial à qual está submetido é igual ou superior à sua tensão de funcionamento. A figura ilustra o símbolo do LED usado na representação de circuitos.\n\nUm estudante de física analisa as propriedades do LED em um circuito simples de corrente contínua. Ele dispõe dos seguintes materiais: uma bateria ideal de 4,5 V; dois LEDs de tensão 3,0 V e Imáx = 1,0 mA cada; e dois resistores de 1,5 kΩ cada.\n\nO circuito que o estudante pode montar, para que ambos os LEDs fiquem acesos e cada um seja percorrido por Imáx, é\n\n[Imagem/Gráfico não disponível no texto]",
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "O circuito que o estudante pode montar, para que ambos os LEDs fiquem acesos e cada um seja percorrido por Imáx, é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Circuito com os dois LEDs em série e os dois resistores em paralelo com os LEDs.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Circuito com os dois LEDs em paralelo, cada um com um resistor de 1,5 kΩ em série.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "Circuito com os dois LEDs em paralelo e os dois resistores em série com o conjunto.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Circuito com os dois LEDs em série e um resistor de 1,5 kΩ em série com o conjunto.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Circuito com os dois LEDs em paralelo e um resistor de 3,0 kΩ em série com o conjunto.",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "fisica-eletricidade",
-    "competency": "C3",
-    "skill": "H5"
+  "title": "Questão 109 - ENEM 2024",
+  "index": 109,
+  "year": 2024,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "O LED é um dispositivo eletrônico que conduz corrente elétrica em um único sentido, sendo caracterizado por uma tensão e uma corrente máxima de funcionamento, Imáx. Um LED acende apenas se a corrente que o percorre está no sentido permitido e se a diferença de potencial à qual está submetido é igual ou superior à sua tensão de funcionamento. A figura ilustra o símbolo do LED usado na representação de circuitos.\n\nUm estudante de física analisa as propriedades do LED em um circuito simples de corrente contínua. Ele dispõe dos seguintes materiais: uma bateria ideal de 4,5 V; dois LEDs de tensão 3,0 V e Imáx = 1,0 mA cada; e dois resistores de 1,5 kΩ cada.\n\nO circuito que o estudante pode montar, para que ambos os LEDs fiquem acesos e cada um seja percorrido por Imáx, é\n\n[Imagem/Gráfico não disponível no texto]",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O circuito que o estudante pode montar, para que ambos os LEDs fiquem acesos e cada um seja percorrido por Imáx, é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Circuito com os dois LEDs em série e os dois resistores em paralelo com os LEDs.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Circuito com os dois LEDs em paralelo, cada um com um resistor de 1,5 kΩ em série.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Circuito com os dois LEDs em paralelo e os dois resistores em série com o conjunto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Circuito com os dois LEDs em série e um resistor de 1,5 kΩ em série com o conjunto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Circuito com os dois LEDs em paralelo e um resistor de 3,0 kΩ em série com o conjunto.",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "eletrodinamica",
+  "competency": "C3",
+  "skill": "H5"
 }

@@ -1,46 +1,46 @@
 {
-    "title": "Questão 1 - ENEM 2024",
-    "index": 1,
-    "year": 2024,
-    "language": "ingles",
-    "discipline": "linguagens",
-    "context": "[Questão com imagem/gráfico — conteúdo visual não extraível do PDF. Questão de interpretação textual em língua inglesa, provavelmente envolvendo compreensão de um gráfico ou imagem para avaliar a habilidade de leitura e interpretação em língua estrangeira.]",
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "[Enunciado baseado em imagem/gráfico — não disponível em texto]",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "[Alternativa A — conteúdo visual não disponível em texto]",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "[Alternativa B — conteúdo visual não disponível em texto]",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "[Alternativa C — conteúdo visual não disponível em texto]",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "[Alternativa D — conteúdo visual não disponível em texto]",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "[Alternativa E — conteúdo visual não disponível em texto]",
-            "file": null,
-            "isCorrect": false
-        }
-    ],
-    "subcategory": "lingua-estrangeira",
-    "competency": "C1",
-    "skill": "H1"
+  "title": "Questão 1 - ENEM 2024",
+  "index": 1,
+  "year": 2024,
+  "language": "ingles",
+  "discipline": "linguagens",
+  "context": "[Questão com imagem/gráfico — conteúdo visual não extraível do PDF. Questão de interpretação textual em língua inglesa, provavelmente envolvendo compreensão de um gráfico ou imagem para avaliar a habilidade de leitura e interpretação em língua estrangeira.]",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "[Enunciado baseado em imagem/gráfico — não disponível em texto]",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "[Alternativa A — conteúdo visual não disponível em texto]",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "[Alternativa B — conteúdo visual não disponível em texto]",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "[Alternativa C — conteúdo visual não disponível em texto]",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "[Alternativa D — conteúdo visual não disponível em texto]",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "[Alternativa E — conteúdo visual não disponível em texto]",
+      "file": null,
+      "isCorrect": false
+    }
+  ],
+  "subcategory": "interpretacao-em-lem",
+  "competency": "C1",
+  "skill": "H1"
 }
